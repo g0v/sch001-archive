@@ -1,0 +1,38 @@
+//- view
+extends /modules/layout.pug
+block vars
+  - var title = brd.label, description = brd.name
+block content
+  nav.crumb
+    a(href=`${root}index.html`) 首頁
+    span /
+    span= brd.label
+  section.hero
+    h1= brd.label
+    p= brd.name
+  .toolbar
+    input#q(type="search", placeholder="搜尋提案名稱、提案人、標籤…")
+    .chips
+      button.chip.on(data-f="") 全部 #[small= prjs.length]
+      each b in badges
+        button.chip(data-f=b)= badgeName[b]
+  .grid#grid
+    each p in prjs
+      a.card(href=`${root}prj/${p.slug}/index.html`,
+        data-badge=p.badge || '',
+        data-text=[p.name, p.owner, p.team, p.tags.join(' ')].join(' ').toLowerCase())
+        .thumb(style=p.thumb ? `background-image:url(${root}${p.thumb})` : null)
+          if !p.thumb
+            .ph= (p.name || '?').slice(0, 1)
+          if p.badge
+            .badge(class=p.badge)= badgeName[p.badge]
+        .body
+          h3= p.name
+          .owner= p.team || p.owner
+          p.desc= p.description
+          if p.tags.length
+            .tags: each t in p.tags
+              span= t
+  p.empty#empty(hidden) 沒有符合的提案
+block script
+  script(src=`${root}js/list.min.js`)

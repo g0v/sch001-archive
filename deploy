@@ -1,0 +1,30 @@
+#!/usr/bin/env bash
+# full build 後, 以單一 orphan commit force push 到 $DEPLOY_BRANCH ( 預設 gh-pages ).
+# 該分支永遠只有一個 commit, 不累積歷史. 遠端主機更新方式:
+#   git clone -b gh-pages --single-branch --depth 1 <repo> static    # 初次
+#   git fetch --depth 1 origin gh-pages && git reset --hard FETCH_HEAD  # 更新
+set -e
+BRANCH=${DEPLOY_BRANCH:-gh-pages}
+if [[ ! -d .git ]]; then
+  echo "please use deploy under a git repo."
+  exit 1
+fi
+if [[ -n "$(git status --porcelain)" ]]; then
+  echo "working tree not clean. commit first so the deploy maps to a commit."
+  exit 1
+fi
+REMOTE=`git remote get-url origin`
+REV=`git rev-parse --short HEAD`
+rm -rf web/static _public
+npm run build
+mkdir _public
+cp -R web/static/. _public/
+# 讓 GitHub Pages 不經 jekyll 處理, 直接提供檔案
+touch _public/.nojekyll
+cd _public
+git init -q -b "$BRANCH"
+git add -A
+git commit -q -m "build from $REV"
+git push --force "$REMOTE" "$BRANCH"
+cd ..
+rm -rf _public

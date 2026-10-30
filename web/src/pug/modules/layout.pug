@@ -1,0 +1,19 @@
+//- module
+block vars
+doctype html
+html(lang="zh-Hant")
+  head
+    meta(charset="utf-8")
+    meta(name="viewport", content="width=device-width, initial-scale=1")
+    title #{title ? title + ' · ' : ''}零時小學校 提案典藏
+    if description
+      meta(name="description", content=description.slice(0, 160))
+    link(rel="stylesheet", href=`${root}css/index.min.css`)
+  body
+    header.site: .wrap
+      a.logo(href=`${root}index.html`) Sch001 #[span 提案典藏]
+    main.wrap
+      block content
+    footer.site: .wrap
+      | 資料來源：#[a(href="https://sch001.g0v.tw/") g0v 零時小學校] 提案系統封存
+    block script

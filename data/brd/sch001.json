@@ -1,0 +1,3244 @@
+{
+  "slug": "sch001",
+  "label": "2020 專案孵化競賽",
+  "name": "零時小學校 2020 Demo Day",
+  "description": "零時小學校競賽日（Demo Day）6/15-7/26 開放線上公開徵件，5 組獲獎團隊有 3 萬元獎金 + 前進 g0v Summit 2020 教育科技軌！",
+  "starttime": "2020-06-07T08:00:00.000Z",
+  "endtime": "2020-08-30T08:00:00.000Z",
+  "projects": [
+    {
+      "slug": "3q1ILR0KS053a09SG029jBTd",
+      "name": "( 範例提案 ) 協作式線上教學系統!",
+      "description": "此專案希望透過一個協作式的線上編輯器，讓學生可以在線上即時學習網頁設計，並讓老師可以直接看到學生的作品，同時可以在線上互動、並指導學生。",
+      "group": "零時小學校 2020 Demo Day",
+      "owner": "Kirby Wu",
+      "team": null,
+      "tags": [],
+      "badge": null,
+      "thumb": "img/prj/3q1ILR0KS053a09SG029jBTd.webp",
+      "createdtime": "2020-06-02T01:32:04.565Z",
+      "fields": [
+        {
+          "key": "t4zr0DpX05Zq0AHo03YZo+3",
+          "type": "form-short-answer",
+          "title": "專案名稱",
+          "answer": {
+            "content": "( 範例提案 ) 協作式線上教學系統!"
+          }
+        },
+        {
+          "key": "4P+Npj0GRW05Mb0Cye0P21Ng",
+          "type": "form-short-answer",
+          "title": "提案代表人",
+          "answer": {
+            "content": "Kirby Wu"
+          }
+        },
+        {
+          "key": "4C31dv0DnI05aP0ChB0PILyn",
+          "type": "form-short-answer",
+          "title": "提案團隊名稱",
+          "answer": {
+            "content": "見聞科技有限公司"
+          }
+        },
+        {
+          "key": "h5YfN06Ps05-l0AeA054_RD",
+          "type": "form-long-answer",
+          "title": "提案團隊簡介",
+          "answer": {
+            "content": " * Kirby  Wu - 工程師\n * Sharon - 設計師",
+            "useMarkdown": true
+          }
+        },
+        {
+          "key": "378Opi0DFr05eI09Ly07+vGO",
+          "type": "form-long-answer",
+          "title": "為什麼要做這個專案？（動機）",
+          "answer": {
+            "content": "由於提案人本身在新媒體耕耘多年，亦在輔大開設新媒體內容技術課程，發現在太多技術門檻下，學生沒有辦法很容易的跨過技術上的困難。\n\n考慮到這些問題可以透過妥善規劃的網站平台與工具克服，因此發想出這個提案。",
+            "useMarkdown": true
+          }
+        },
+        {
+          "key": "4-jkrj07Vd05zL0Aot03Tee-N",
+          "type": "form-long-answer",
+          "title": "請以此句型釐清專案目標、受眾與獨特性：問題的標題",
+          "answer": {
+            "content": "為了解決「大學媒體相關科系學生」遇到的「學習新媒體技術」困難，我的專案提供：\n\n * 即時、線上的編輯與回饋系統\n * 技術相關的手冊、講義\n\n可以做到「讓學生透過系統學習新媒體技術，先繞過繁複的環竟設定、基礎網路知識學習等基本門檻」。我的專案跟「現有的諸多網頁開發平台」，在「針對教學而設計這點」不同，因此具有不可取代性。",
+            "useMarkdown": true
+          }
+        },
+        {
+          "key": "4ITd9G04s405JQ0BAm02olt4W",
+          "type": "form-long-answer",
+          "title": "請列出這個計畫的目標對象，他們的需求、情境與使用動機？",
+          "answer": {
+            "content": " * 主要對象 - 媒體相關科系大學生\n * 需求 - 更容易的學習新媒體技術的方式\n * 情境 - 大學課程教室、有講師指導、帶領授課\n * 使用動機 - 增加自身專業領域的強度 ",
+            "useMarkdown": true
+          }
+        },
+        {
+          "key": "8Jad90B9e05hL0CE-02k4G3d",
+          "type": "form-short-answer",
+          "title": "請提供本專案的示意圖或介面設計草圖問題的標題",
+          "answer": {
+            "content": "https://xinmeti.co/"
+          }
+        },
+        {
+          "key": "27Rkcy04_a055k09Op02oCHcD",
+          "type": "form-long-answer",
+          "title": "你覺得本專案可能會面臨的困難有哪些，你又會如何解決這些困難？",
+          "answer": {
+            "content": "學生的程度差異大，所以雖然這個服務可以減低數位落差帶來的影響，仍然可能有不少學生跟不上進度。這時候老師就扮演很重要的角色。\n\n老師透過課堂實作、適當的設計課後作業、專題等項目，提供學生誘因與動機來學習，進而減低無法跟上時的挫折感。",
+            "useMarkdown": true
+          }
+        },
+        {
+          "key": "Nh9Xk0BeL05zQ0B_M0CBLrX",
+          "type": "form-long-answer",
+          "title": "本專案結束後，未來可能進一步的發展？",
+          "answer": {
+            "content": "可以拓展課程內容至任何有線上協作需求的方向，同時亦可搭配探索式學習實現自學式的線上課程。",
+            "useMarkdown": true
+          }
+        },
+        {
+          "key": "2DpA+T04VR05ED0BZd02-Wr9t",
+          "type": "form-checkbox",
+          "title": "自選三大主題分類",
+          "answer": {
+            "list": [
+              "遠距教學解決方案（Solution of Distance Learing）",
+              "社群經營與基礎建設（Community Management & Infrastructure）",
+              "教育內容（Educational Content）"
+            ],
+            "other": false
+          }
+        },
+        {
+          "key": "4oeXQG0F7X05nm0AH+034EWKL",
+          "type": "form-short-answer",
+          "title": "若有本專案介紹的投影片，請提供。",
+          "answer": {
+            "content": "無"
+          }
+        },
+        {
+          "key": "pFOOG0Eyn057k0C6604X1Lsf",
+          "type": "form-long-answer",
+          "title": "你有什麼其他想補充的事情嗎？",
+          "answer": {
+            "content": "這個專案正在輔仁大學新聞傳播學系的「新媒體內容與技術」課程試行，目前是第二次開課。詳情請參考 [xinmeti.co](https://xinmeti.co) 課程網站。",
+            "useMarkdown": true
+          }
+        }
+      ]
+    },
+    {
+      "slug": "iHlK602DG05yK0C8V0rvtKO",
+      "name": "公民科學大廳",
+      "description": "蒐集「台灣公民科學案例」（計畫名稱、計畫網站連結等），目前初步用「領域或目的」作為分類（空氣品質監測、河川議題、生態調查、空間環境的規劃…等），進一步給有興趣跳坑的人，如何很快的找到自己有興趣的公民科學主題社群，或是從自己的居住地區、生活型態，來推薦相關聯的公民科學主題，透過標籤形式或是地圖形式。",
+      "group": "零時小學校 2020 Demo Day",
+      "owner": "chewei",
+      "team": null,
+      "tags": [],
+      "badge": null,
+      "thumb": "img/prj/iHlK602DG05yK0C8V0rvtKO.webp",
+      "createdtime": "2020-06-16T00:23:12.553Z",
+      "fields": [
+        {
+          "key": "t4zr0DpX05Zq0AHo03YZo+3",
+          "type": "form-short-answer",
+          "title": "專案名稱",
+          "answer": {
+            "content": "公民科學大廳"
+          }
+        },
+        {
+          "key": "4P+Npj0GRW05Mb0Cye0P21Ng",
+          "type": "form-short-answer",
+          "title": "提案代表人",
+          "answer": {
+            "content": "劉哲瑋"
+          }
+        },
+        {
+          "key": "4C31dv0DnI05aP0ChB0PILyn",
+          "type": "form-short-answer",
+          "title": "提案團隊名稱",
+          "answer": {
+            "content": "公民科學討論社團"
+          }
+        },
+        {
+          "key": "h5YfN06Ps05-l0AeA054_RD",
+          "type": "form-long-answer",
+          "title": "提案團隊簡介",
+          "answer": {
+            "content": "chewei，提案人，徵求：\n(1) 一起整理資料的朋友\n(2) 從使用者的角度，呈現資料，提供適合查找的網頁",
+            "useMarkdown": true
+          }
+        },
+        {
+          "key": "378Opi0DFr05eI09Ly07+vGO",
+          "type": "form-long-answer",
+          "title": "為什麼要做這個專案？（動機）",
+          "answer": {
+            "content": "蒐集「台灣公民科學案例」（計畫名稱、計畫網站連結等），目前初步用「領域或目的」作為分類（空氣品質監測、河川議題、生態調查、空間環境的規劃…等），進一步給有興趣跳坑的人，如何很快的找到自己有興趣的公民科學主題社群，或是從自己的居住地區、生活型態，來推薦相關聯的公民科學主題，透過標籤形式或是地圖形式。"
+          }
+        },
+        {
+          "key": "4-jkrj07Vd05zL0Aot03Tee-N",
+          "type": "form-long-answer",
+          "title": "請以此句型釐清專案目標、受眾與獨特性：問題的標題",
+          "answer": {
+            "content": "「為了解決 公民科學關注者 遇到的 哪些專案可能適合自己? 的評估需求與困難，我的專案提供國內外的公民科學專案與社群資訊，並且提供查找功能，可以做到協助網頁使用者了解到可能適合自己興趣的公民科學專案。我的專案希望能從專案投入者的經驗訪談中，了解到如何透過有趣的推薦觀點，除了按照科門分類之外，讓使用者用地理地點、專案輔助裝備、生活起居型態...等填入條件，進一步探索對應適合的公民科學專案資訊，因此具有不可取代性。」"
+          }
+        },
+        {
+          "key": "4ITd9G04s405JQ0BAm02olt4W",
+          "type": "form-long-answer",
+          "title": "請列出這個計畫的目標對象，他們的需求、情境與使用動機？",
+          "answer": {
+            "content": "目標對象：對於公民科學有興趣，想了解專案現況，甚至評估是否參與其中。\n需求：查找與推薦工具。\n情境與使用動機：透過能夠輔助使用者的查找架構，以及有趣的填入條件，吸引更多人了解國內外目前的公民科學專案現況。"
+          }
+        },
+        {
+          "key": "8Jad90B9e05hL0CE-02k4G3d",
+          "type": "form-short-answer",
+          "title": "請提供本專案的示意圖或介面設計草圖問題的標題",
+          "answer": {
+            "content": "https://goo.gl/0wgU7d"
+          }
+        },
+        {
+          "key": "27Rkcy04_a055k09Op02oCHcD",
+          "type": "form-long-answer",
+          "title": "你覺得本專案可能會面臨的困難有哪些，你又會如何解決這些困難？",
+          "answer": {
+            "content": "(1) 基本資料整理\n(2) 查找架構尚待建立\n(3) 呈現形式待確認並著手網頁開發\n"
+          }
+        },
+        {
+          "key": "Nh9Xk0BeL05zQ0B_M0CBLrX",
+          "type": "form-long-answer",
+          "title": "本專案結束後，未來可能進一步的發展？",
+          "answer": {
+            "content": "(1) 持續邀請社群朋友，更新與擴充公民科學專案的基本資訊。\n(2) 透過使用者的查找經驗，評估跨專案之間，是否有正向互助關係。\n"
+          }
+        },
+        {
+          "key": "2DpA+T04VR05ED0BZd02-Wr9t",
+          "type": "form-checkbox",
+          "title": "自選三大主題分類",
+          "answer": {
+            "list": [
+              "教育內容（Educational Content）"
+            ],
+            "other": false,
+            "otherValue": ""
+          }
+        },
+        {
+          "key": "4oeXQG0F7X05nm0AH+034EWKL",
+          "type": "form-short-answer",
+          "title": "若有本專案介紹的投影片，請提供。",
+          "answer": {
+            "content": "https://g0v.hackmd.io/x92toIppQvqejXgBJKFQSw"
+          }
+        },
+        {
+          "key": "pFOOG0Eyn057k0C6604X1Lsf",
+          "type": "form-long-answer",
+          "title": "你有什麼其他想補充的事情嗎？",
+          "answer": {
+            "content": "專案共筆\nhttps://g0v.hackmd.io/x92toIppQvqejXgBJKFQSw\n\n討論社團\nhttps://www.facebook.com/groups/437659989769965"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "49twtR0BGq05cS0CHn0KJWw3",
+      "name": "教育烏托邦",
+      "description": "許多身心障礙人士或病人無法走出醫院，現代教育已不限於課堂面授，學習場域也不限於教室，透過電腦資訊科技，遠端多人會議，可創學習的新可能，那這樣的世界，會多麽進步，多麽美好，而人的一生，會是多麽快樂，世上的任何角落都能夠享受學習。",
+      "group": "零時小學校 2020 Demo Day",
+      "owner": "a99041486",
+      "team": null,
+      "tags": [],
+      "badge": null,
+      "thumb": "img/prj/49twtR0BGq05cS0CHn0KJWw3.webp",
+      "createdtime": "2020-06-20T22:19:36.887Z",
+      "fields": [
+        {
+          "key": "t4zr0DpX05Zq0AHo03YZo+3",
+          "type": "form-short-answer",
+          "title": "專案名稱",
+          "answer": {
+            "content": "教育烏托邦"
+          }
+        },
+        {
+          "key": "4P+Npj0GRW05Mb0Cye0P21Ng",
+          "type": "form-short-answer",
+          "title": "提案代表人",
+          "answer": {
+            "content": "陳羿雯"
+          }
+        },
+        {
+          "key": "4C31dv0DnI05aP0ChB0PILyn",
+          "type": "form-short-answer",
+          "title": "提案團隊名稱",
+          "answer": {
+            "content": "Animals Cookie"
+          }
+        },
+        {
+          "key": "h5YfN06Ps05-l0AeA054_RD",
+          "type": "form-long-answer",
+          "title": "提案團隊簡介",
+          "answer": {
+            "content": "此專案目前都是自身幻想階段"
+          }
+        },
+        {
+          "key": "378Opi0DFr05eI09Ly07+vGO",
+          "type": "form-long-answer",
+          "title": "為什麼要做這個專案？（動機）",
+          "answer": {
+            "content": "21世紀是科技技術大耀進時代，套用於學習可以有更大的空間，所以學習是不限於課堂面授學習的，沒有城鄉差距、沒有經濟困擾、沒有資源分配不均，以網路資訊平台學習，世上的任何角落都能夠享受學習。"
+          }
+        },
+        {
+          "key": "4-jkrj07Vd05zL0Aot03Tee-N",
+          "type": "form-long-answer",
+          "title": "請以此句型釐清專案目標、受眾與獨特性：問題的標題",
+          "answer": {
+            "content": "許多身心障礙人士或病人無法走出醫院，現代教育已不限於課堂面授，透過電腦資訊科技，可創新出身障人士的新可能，那這樣的世界，會多麽進步，多麽美好，而人的一生，會是多麽快樂。",
+            "useMarkdown": true
+          }
+        },
+        {
+          "key": "4ITd9G04s405JQ0BAm02olt4W",
+          "type": "form-long-answer",
+          "title": "請列出這個計畫的目標對象，他們的需求、情境與使用動機？",
+          "answer": {
+            "content": "許多身心障礙人士或病人無法走出醫院，現代教育已不限於課堂面授，透過電腦資訊科技，可創新出身障人士的新可能，那這樣的世界，會多麽進步，多麽美好，而人的一生，會是多麽快樂。"
+          }
+        },
+        {
+          "key": "8Jad90B9e05hL0CE-02k4G3d",
+          "type": "form-short-answer",
+          "title": "請提供本專案的示意圖或介面設計草圖問題的標題",
+          "answer": {
+            "content": "https://www.pubu.com.tw/ebook/116291"
+          }
+        },
+        {
+          "key": "27Rkcy04_a055k09Op02oCHcD",
+          "type": "form-long-answer",
+          "title": "你覺得本專案可能會面臨的困難有哪些，你又會如何解決這些困難？",
+          "answer": {
+            "content": "許多身心障礙人士或病人無法走出醫院，21世紀是資訊技術大耀進的時代，現代教育已不限於課堂面授，透過電腦資訊科技，可創新出學習圖像的新可能，那這樣的世界，會多麽進步，多麽美好，而人的一生，會是多麽快樂。"
+          }
+        },
+        {
+          "key": "Nh9Xk0BeL05zQ0B_M0CBLrX",
+          "type": "form-long-answer",
+          "title": "本專案結束後，未來可能進一步的發展？",
+          "answer": {
+            "content": "許多身心障礙人士或病人無法走出醫院，現代教育已不限於課堂面授，透過電腦資訊科技，可創新出學習圖像的新可能，那這樣的世界，會多麽進步，多麽美好，而人的一生，會是多麽快樂。"
+          }
+        },
+        {
+          "key": "2DpA+T04VR05ED0BZd02-Wr9t",
+          "type": "form-checkbox",
+          "title": "自選三大主題分類",
+          "answer": {
+            "list": [
+              "遠距教學解決方案（Solution of Distance Learing）"
+            ]
+          }
+        },
+        {
+          "key": "4oeXQG0F7X05nm0AH+034EWKL",
+          "type": "form-short-answer",
+          "title": "若有本專案介紹的投影片，請提供。",
+          "answer": {
+            "content": "許多身心障礙人士或病人無法走出醫院，現代教育已不限於課堂面授，透過電腦資訊科技，可創新出身障人士的新可能，那這樣的世界，會多麽進步，多麽美好，而人的一生，會是多麽快樂。"
+          }
+        },
+        {
+          "key": "pFOOG0Eyn057k0C6604X1Lsf",
+          "type": "form-long-answer",
+          "title": "你有什麼其他想補充的事情嗎？",
+          "answer": {
+            "content": "許多身心障礙人士或病人無法走出醫院，現代教育已不限於課堂面授，透過電腦資訊科技，可創新出學習圖像的新可能，那這樣的世界，會多麽進步，多麽美好，而人的一生，會是多麽快樂。"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "D8VmG0EJZ05v909-U09nNFF",
+      "name": "幸福存摺",
+      "description": "設計給非營利事業組織兒少陪伴單位的電子獎勵系統，讓孩子們透過執行任務獲得點數，累積的點數可向機構換取獎品或是客製化的需求（例如：修鞋，修車）。\n目標創造終止弱勢循環的新系統，提升學習動能，降低社會依賴，減少偷竊。",
+      "group": "零時小學校 2020 Demo Day",
+      "owner": "little78926",
+      "team": null,
+      "tags": [],
+      "badge": "winner",
+      "thumb": "img/prj/D8VmG0EJZ05v909-U09nNFF.webp",
+      "createdtime": "2020-06-22T23:30:08.521Z",
+      "fields": [
+        {
+          "key": "t4zr0DpX05Zq0AHo03YZo+3",
+          "type": "form-short-answer",
+          "title": "專案名稱",
+          "answer": {
+            "content": "幸福存摺"
+          }
+        },
+        {
+          "key": "4P+Npj0GRW05Mb0Cye0P21Ng",
+          "type": "form-short-answer",
+          "title": "提案代表人",
+          "answer": {
+            "content": "賈承彬"
+          }
+        },
+        {
+          "key": "4C31dv0DnI05aP0ChB0PILyn",
+          "type": "form-short-answer",
+          "title": "提案團隊名稱",
+          "answer": {
+            "content": " "
+          }
+        },
+        {
+          "key": "h5YfN06Ps05-l0AeA054_RD",
+          "type": "form-long-answer",
+          "title": "提案團隊簡介",
+          "answer": {
+            "content": "John Huang - 全端工程師\nJustin - 全端工程師\nCindy Tu - UX設計師\n賈承彬 - 專案經理\n林峻丞 - 小草書屋代表\n阮家貞 - 小草書屋代表"
+          }
+        },
+        {
+          "key": "378Opi0DFr05eI09Ly07+vGO",
+          "type": "form-long-answer",
+          "title": "為什麼要做這個專案？（動機）",
+          "answer": {
+            "content": "台灣每年約有4萬3千名高風險家庭的兒少、2萬3千名中離學生及4千名中輟生，因為家庭功能不足，獨自面對學習落後、生存挑戰，甚至提早離開學習現場，繼續陷入惡性循環。\n\n偶然在零時小學校看到小草書屋的提案幸福存摺。點進內容後看完覺得很感動，決定動手幫忙。\n\n… 請鴨子老師看家，帶著他牽著車往老街的修車店前進，路上跟我炫耀他學一天就會騎了哦！問他既然會騎了要跟我們去環島嗎？他說要再熟練一點明年再參加，原來他都默默規劃著他的夢想，只是一個人在努力著。何其有幸能成為你的螺絲釘，明年請讓我跟著你，當你的破風手！\nhttps://g0v.hackmd.io/@jothon/BJEbBo8dU\n"
+          }
+        },
+        {
+          "key": "4-jkrj07Vd05zL0Aot03Tee-N",
+          "type": "form-long-answer",
+          "title": "請以此句型釐清專案目標、受眾與獨特性：問題的標題",
+          "answer": {
+            "content": "為了解決兒少陪伴機構遇到的紙本獎勵紀錄的困難，我的專案提供獎勵電子化，可以做到完整追蹤與保存獎勵與參與任務紀錄。我的專案跟相似付費的系統，在營運成本與針對社福機構的設計不同，因此具有不可取代性。\n\n"
+          }
+        },
+        {
+          "key": "4ITd9G04s405JQ0BAm02olt4W",
+          "type": "form-long-answer",
+          "title": "請列出這個計畫的目標對象，他們的需求、情境與使用動機？",
+          "answer": {
+            "content": "小草書屋暑假有場單車環島圓夢的活動，這孩子跟我說沒有要去，原因是「我又不會騎車」，之後就極少出現。\n\n這幾天牽著一台鄰居給的二手腳踏車出現，跟我說著後輪破風怎麼辦？建議他回家拿修理的費用，車子先停我這，但他回答姑姑不在家沒辦法拿，我接著問家裡還有其他人在嗎？他說阿嬤在，我請他找阿嬤先拿，但他說阿嬤不可能給他的，我又幫他想了個辦法：「爸爸晚回家，你可以留字條給爸爸，寫上你的需求及用途。」這些辦法他都不要，持續不間斷的問我破風了怎麼辦？看的出來很想解決後輪的問題，連我去上廁所他也追了下來，隱約透露他存的點數有五百多點，噠！燈泡忽然亮了，原來他想要用點數換取修理後輪的費用。把他叫來面對面問他是否想這樣做，直接一點說明白嘛！\n\n他回答我扣除費用後還有三百多點，這一切都計劃好了，只是他不會也不習慣直接跟人要求他想要的東西或方式，他就是不吵不鬧也沒有糖吃的孩子，幸好，不小心我剛好懂了。\n　\n請鴨子老師看家，帶著他牽著車往老街的修車店前進，路上跟我炫耀他學一天就會騎了哦！問他既然會騎了要跟我們去環島嗎？他說要再熟練一點明年再參加，原來他都默默規劃著他的夢想，只是一個人在努力著。何其有幸能成為你的螺絲釘，明年請讓我跟著你，當你的破風手！\n\n小草書屋 阮副校長\n\n"
+          }
+        },
+        {
+          "key": "8Jad90B9e05hL0CE-02k4G3d",
+          "type": "form-short-answer",
+          "title": "請提供本專案的示意圖或介面設計草圖問題的標題",
+          "answer": {
+            "content": "https://g0v.hackmd.io/3PktZ7w-Rkua5SS8k38uUA"
+          }
+        },
+        {
+          "key": "27Rkcy04_a055k09Op02oCHcD",
+          "type": "form-long-answer",
+          "title": "你覺得本專案可能會面臨的困難有哪些，你又會如何解決這些困難？",
+          "answer": {
+            "content": "問題: 如何認證社福機構\n\n已與小草書屋談合作，小草書屋將提供協助與政府機構比對申請參與的機構與認證相關事宜。\n\n問題: 立意良善. 這種電子積點app國外已有不少, 需要再做一個嗎? 此外, 「認證已達成/完成任務」有實行困難，以及跨組織機構間給獎勵也很困難，如果可以提出如何解決這二個挑戰, 可行性會更高。\n\n大部分的積點系統(包含幸福存摺的原型)是商業使用，著重於貨品與點數增減。幸福存摺引進”任務“的概念，並將於第二版提供任務申請，階段認證與審核機制(第一版目標是取代既有的紙本)。\n另外就是積點系統多以月費形式，多店面多權限需要額外費用，我使用無伺服器開發降低營運成本(5萬用戶頻繁使用每月約新台幣$500元，目前是每月$20元)，初期我吸收所有費用，未來由機構平分的話也會遠低於商用的月費。\n跨組織機構間給獎勵方面已經與小草書屋討論過，這是未來發展的重點，目前可行的方式之一是城鄉互通，學生可透過該機構將自己的點數轉換成金額，再由該機構捐贈給其他的偏鄉機構。細項與其他可行方式還需要有更多參與機構後修正。\n\n問題: 與兒少陪伴機構小草書屋合作，解決該機構遇到的紙本獎勵紀錄問題，轉為電子化，因此可以專注在處理技術問題。期望是能夠解決機構和小朋友，在實際使用幸福存摺上遇到的困難。\n\n我們第一版的目標非常明確，即是徹底取代既有紙本，我們也在開發過程中提供小草書屋的老師測試使用，並根據回饋調整開發方向。根據回應，老師們覺得操作簡單直覺，且能夠有效率輸入任務與點數。\n"
+          }
+        },
+        {
+          "key": "Nh9Xk0BeL05zQ0B_M0CBLrX",
+          "type": "form-long-answer",
+          "title": "本專案結束後，未來可能進一步的發展？",
+          "answer": {
+            "content": "目前專案與小草書屋合作，將透過台灣城鄉永續關懷協會與其他相似機構合作。\n\n繼續第二版開發，新增網頁版本，新增機構申請與審核，擴展任務功能。"
+          }
+        },
+        {
+          "key": "2DpA+T04VR05ED0BZd02-Wr9t",
+          "type": "form-checkbox",
+          "title": "自選三大主題分類",
+          "answer": {
+            "list": [
+              "社群經營與基礎建設（Community Management & Infrastructure）"
+            ],
+            "other": true,
+            "otherValue": "偏鄉獎勵"
+          }
+        },
+        {
+          "key": "4oeXQG0F7X05nm0AH+034EWKL",
+          "type": "form-short-answer",
+          "title": "若有本專案介紹的投影片，請提供。",
+          "answer": {
+            "content": "https://docs.google.com/presentation/d/18hOSxF5hp3Ravy-tNlce_M5zvYcNi6w5Aq4ayiquATs/edit#slide=id.g909c83d4a3_1_0"
+          }
+        },
+        {
+          "key": "pFOOG0Eyn057k0C6604X1Lsf",
+          "type": "form-long-answer",
+          "title": "你有什麼其他想補充的事情嗎？",
+          "answer": {
+            "content": "已於兩大平台(Apple,Goole)上發布第一版Mobile App，並著手於第二階段開發與更多的機構合作"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "Fp4Qq04-s05t409gX0hmxwC",
+      "name": "島島阿學教育資源平台",
+      "description": "[https://daotw.tk/](https://daotw.tk/)\n\n在規劃課程、自主學習或協助孩子擬定學習計畫時，\n\n**你是否常想著對的資源究竟在哪裡？**\n\n而命中注定相遇的老師等資源與同學，依舊在苦苦等待彼此。\n \n「島島阿學」提供可共編的學習資源整合服務，\n透過建立學習資源網絡，進而成為自己想成為的人，並從中培養共好精神。",
+      "group": "零時小學校 2020 Demo Day",
+      "owner": "葦",
+      "team": null,
+      "tags": [],
+      "badge": "winner",
+      "thumb": "img/prj/Fp4Qq04-s05t409gX0hmxwC.webp",
+      "createdtime": "2020-06-23T02:55:25.249Z",
+      "fields": [
+        {
+          "key": "t4zr0DpX05Zq0AHo03YZo+3",
+          "type": "form-short-answer",
+          "title": "專案名稱",
+          "answer": {
+            "content": "島島阿學教育資源平台"
+          }
+        },
+        {
+          "key": "4P+Npj0GRW05Mb0Cye0P21Ng",
+          "type": "form-short-answer",
+          "title": "提案代表人",
+          "answer": {
+            "content": "林奇葦"
+          }
+        },
+        {
+          "key": "4C31dv0DnI05aP0ChB0PILyn",
+          "type": "form-short-answer",
+          "title": "提案團隊名稱",
+          "answer": {
+            "content": "島島阿學"
+          }
+        },
+        {
+          "key": "h5YfN06Ps05-l0AeA054_RD",
+          "type": "form-long-answer",
+          "title": "提案團隊簡介",
+          "answer": {
+            "content": "**林奇葦** (工程師)\n>高中生 / 曾創業，擁有行銷及領導能力 / 交通大學人才培育計畫成員 / 前後端工程師、產品企劃及包裝\n\n**許明宏** (專案經理)\n>臺東縣教育發展協會 / 教育中心教學組組員，會計、企劃、資源媒合 \n\n**林怡廷** (企劃)\n>美國Goddard College社會創新與永續研究所研究生／教育工作者，自主學習引導、行動學習設計、公關操作(策略發想、社群經營、媒體操作、資源媒合)\n\n**侯智輝** (企劃)\n>新竹小蝸牛培力基地／教育工作者，陪伴傾聽、系統思考 \n\n**林東翰** (UI、UX設計師、藝術總監)\n>AndAction創辦人 / 用戶體驗與介面設計師 ，用戶研究、設計、品牌企劃 \n\n**張少慈** (企劃)\n>臺灣環境資訊協會／街頭募款專員，影像製作、企劃、資源媒合",
+            "useMarkdown": true
+          }
+        },
+        {
+          "key": "378Opi0DFr05eI09Ly07+vGO",
+          "type": "form-long-answer",
+          "title": "為什麼要做這個專案？（動機）",
+          "answer": {
+            "content": "**我們是正在體制內學校就讀的高二生，以及一群在教育現場的老師，這是我們身邊常遇到的情況。**\n\n---\n\n>「我不喜歡我們學校老師的教學方式，所以我開始自己找合適資源學，才發現網路上有很多很好的資源，但是我的同學們因為沒有資源查找和運用的能力，因此只能配合學校學習，很可惜！」\n\n>「我們家兒子高中想要走個人自學，學程式設計，老師你有推薦的人嗎？我真的不知道要去哪裡找合適的人...」\n\n>「面對快速變遷的世代以及多元需求的學生，引導學生和備課已經不能只透過課本或是教材廠商給的資源，但資源四散，好難找...」\n\n>「老師我們今天去採訪70多歲的硯台師傅，最後很感動地和我們說他這輩子從來沒有想過自己有一天也可以當老師！我覺得把人作為學習資源可以讓他看到自我價值！」\n\n---\n\n**在邁向自主學習的路上，不論學習者、教育工作者、家長時常苦於找不到合適資源。**\n\n雖有明確自學需求，卻仍頻頻卡關，而這並非因為資源不夠充足，而是因為社經背景及資料查找能力的落差，以及對資源定義較狹義，使得資源無法透明化，出現「學習資源遍地開花，卻無法與有需求者做連結」的現象。\n\n我們期盼能透過建置一個人人皆能共編的【島島阿學 ( Dao Dao ) 】教育資源平台，提供可以資源整合的服務，包含線上資源、組織、人、書籍、景點、活動等資源，成為促動人與人間、需求與資源間共好的橋樑，解決資源不透明的問題，讓學習者更順利地完成自主學習。",
+            "useMarkdown": true
+          }
+        },
+        {
+          "key": "4-jkrj07Vd05zL0Aot03Tee-N",
+          "type": "form-long-answer",
+          "title": "請以此句型釐清專案目標、受眾與獨特性：問題的標題",
+          "answer": {
+            "content": "「為了解決**自主學習者**遇到的**『學習資源四散，難以找到合適資源』**的困難，\n\n**島島阿學**提供**協助教育資源共享及共創的平台，使用者能自由地分享多元學習資源、教育活動資訊、教育場域(學校、機構)、經驗分享**，可以做到**將學習資源分類、更快速找到合適資源**。\n\n**島島阿學**跟**台北酷課雲、安安免費教學網、自主學習促進會、台灣實驗教育推動中心的差異**，在於**島島阿學由所有使用者共享共創資源，實踐自發、互動、共好等精神，且資源種類多元，落實教育多元的選擇權**，因此具有不可取代性。」",
+            "useMarkdown": true
+          }
+        },
+        {
+          "key": "4ITd9G04s405JQ0BAm02olt4W",
+          "type": "form-long-answer",
+          "title": "請列出這個計畫的目標對象，他們的需求、情境與使用動機？",
+          "answer": {
+            "content": "**學習者需求**\t\n\t\t\t\t\t\t\n體制內外的所有學生均有自主學習之需求，但因缺乏多元的學習資源，使學生難以找到合適的資源與學習場域，也因此造成學習成本等困難度提升，進而影響學習動力。\n學習資源多集中於北部地區，其餘地區學生資源相對較難尋得。\n規劃及執行學習計畫在遇到困難時，例如釐清自我學習目標、尋找學習資源，盼能有前人留下的經驗做參考。\n需要有多元探索的機會，藉由自身生涯嘗試與探索，觀看別人成長歷程，更認識自己。\n\n**教育工作者需求**\n\n教育場域現場教師/教育工作者：108課綱實行，欲培養自主學習者，而跨領域學習將會是常態，教師需要更多元、豐富的教育資源，但僅透過現有人脈或網路資源找尋，缺乏統整的教學資源、教育工作者名單列表，對教育者來說非常耗費心力。\n\n\n**家長需求**\n\n需要不同教育相關資訊(各教育場域生態特色、活動資訊)，來支持家長行使教育選擇權，但資源較為分散，不易尋找。\n想要知道也走在實驗教育路上的家庭們情形，透過形成一個彼此的支持網。\n想協助孩子尋找合適的學習夥伴、師資，但因擁有的資訊有限因此無法找到最適合的資源。 \n\n---\n \n   為解決上述目標族群所的困難「學習資源遍地開花，卻無法與有需求者做連結」，此計畫提供一個「擁有多元、透明、可共編的學習資源網絡」網路平臺，此平臺提供以下四種服務：\n\n- 【學習資源】統整多元學習資源，包括線上資源、組織、人、書籍、景點等。\n- 【教育選擇】全台教育各場域介紹(各機構的辦學理念、教學特色、學費、地點)。\n- 【教育活動】全台教育相關說明會、課程、工作坊、講座、論壇各樣培力或支持性的活動消息。\n-【經驗交流】教育工作者、學習者和家長的經驗分享。",
+            "useMarkdown": true
+          }
+        },
+        {
+          "key": "8Jad90B9e05hL0CE-02k4G3d",
+          "type": "form-short-answer",
+          "title": "請提供本專案的示意圖或介面設計草圖問題的標題",
+          "answer": {
+            "content": "https://gitmind.com/app/doc/fe8476111"
+          }
+        },
+        {
+          "key": "27Rkcy04_a055k09Op02oCHcD",
+          "type": "form-long-answer",
+          "title": "你覺得本專案可能會面臨的困難有哪些，你又會如何解決這些困難？",
+          "answer": {
+            "content": "**對於資源需求高，但共編資源的意願較低**\n\n解決:\n\n- 起初的共編社群將先透過直接與實驗教育相關單位合作，邀請師生在自主學習規劃資源時一起整合在此資源平台。\n\n- 經營社群媒體，提供免費的資源宣傳管道。\n\n- 於網頁上顯示資源編輯者名單與投入的心力。\n\n---\n\n**營運成本高**\n\n解決:\n\n- 人力成本：目前無專業工程師，故需請求g0v夥伴們的協助。\n\n- 網域成本：已與國立政治大學臺灣實驗教育推動中心討論，可先將網站掛於該單位下。\n\n- 此外我們也將申請政府或民間提案。",
+            "useMarkdown": true
+          }
+        },
+        {
+          "key": "Nh9Xk0BeL05zQ0B_M0CBLrX",
+          "type": "form-long-answer",
+          "title": "本專案結束後，未來可能進一步的發展？",
+          "answer": {
+            "content": "**增加資源媒合的管道**\n\n除了提供資源整合的服務，也期盼在平台上能新增媒合的管道，例如組課共學，學習者可以在平台上運用資源自發地提出適合自己的共學計畫，並徵求學習夥伴，例如想學習舞蹈的學習者可以在資源中找尋合適的師資，並與該老師討論如何安排課程，最後在平台徵求共學夥伴。\n\n**自我產出資源**\n\n除了搜集外在資源，也期盼能成立自媒體，分享自主學習相關研究、採訪，另外也期盼能彙整實驗教育教案。",
+            "useMarkdown": true
+          }
+        },
+        {
+          "key": "2DpA+T04VR05ED0BZd02-Wr9t",
+          "type": "form-checkbox",
+          "title": "自選三大主題分類",
+          "answer": {
+            "list": [
+              "遠距教學解決方案（Solution of Distance Learing）",
+              "教育內容（Educational Content）",
+              "社群經營與基礎建設（Community Management & Infrastructure）"
+            ]
+          }
+        },
+        {
+          "key": "4oeXQG0F7X05nm0AH+034EWKL",
+          "type": "form-short-answer",
+          "title": "若有本專案介紹的投影片，請提供。",
+          "answer": {
+            "content": "https://1drv.ms/p/s!AsTOQ5A6eLSelHJdcvWXvtJR55Hv?e=NqVecH"
+          }
+        },
+        {
+          "key": "pFOOG0Eyn057k0C6604X1Lsf",
+          "type": "form-long-answer",
+          "title": "你有什麼其他想補充的事情嗎？",
+          "answer": {
+            "content": "**與相關單位合作**\n\n我們將預計與臺灣實驗教育推動中心、自主學習促進會、各實驗教育場域合作等長期在實驗教育領域耕耘的培力組織合作\n\n匯整各組織已收集的教育資料庫，並邀請共編：\n- 臺灣實驗教育推動中心：實驗教育場域地圖、自學資源、教育工作者名單\n- 自主學習促進會：與其Facebook社團「在家自學社群」合作，協助整合社團中的資源、活動。\n- 各實驗教育場域：多數實驗教育場域以學習者為中心，提倡自主學習，故親師生三方皆有各自累積不同領域的自學資源，將邀請他們作為第一批合作夥伴。\n\n---\n\n**經營社群媒體經營**\n\n經營Facebook粉絲專頁與Instagram帳號，增加使用者接觸到各式資源的管道與機會，此外，因社群媒體將免費協助曝光資源，故將成為各資源擁有者上來共編的動力之一。",
+            "useMarkdown": true
+          }
+        }
+      ]
+    },
+    {
+      "slug": "eqs8L09pg05i10BQt0QRUeb",
+      "name": "TJDict",
+      "description": "此專案透過瀏覽器安裝外掛程式，在閱讀各種語言的網頁時，可以快速查詢多本不同的字典的單字解釋。",
+      "group": "零時小學校 2020 Demo Day",
+      "owner": "大兜",
+      "team": null,
+      "tags": [],
+      "badge": "short",
+      "thumb": "img/prj/eqs8L09pg05i10BQt0QRUeb.webp",
+      "createdtime": "2020-06-26T19:35:32.516Z",
+      "fields": [
+        {
+          "key": "t4zr0DpX05Zq0AHo03YZo+3",
+          "type": "form-short-answer",
+          "title": "專案名稱",
+          "answer": {
+            "content": "TJDict"
+          }
+        },
+        {
+          "key": "4P+Npj0GRW05Mb0Cye0P21Ng",
+          "type": "form-short-answer",
+          "title": "提案代表人",
+          "answer": {
+            "content": "簡煒航"
+          }
+        },
+        {
+          "key": "4C31dv0DnI05aP0ChB0PILyn",
+          "type": "form-short-answer",
+          "title": "提案團隊名稱",
+          "answer": {
+            "content": "TJDict"
+          }
+        },
+        {
+          "key": "h5YfN06Ps05-l0AeA054_RD",
+          "type": "form-long-answer",
+          "title": "提案團隊簡介",
+          "answer": {
+            "content": "### 成員介紹\n\n**大兜 - 全端工程師**\n\n- 10 年軟體設計經驗\n- TJDict v1.0 作者\n- Yahoo Hack Taiwan 2013 冠軍\n-《Ruby on Rails 自習手冊》作者\n\n**強力蕉 - UX 研究員**\n\n- 易用性測試研究員\n- 眼動儀操作員\n- Google Analytics Individual Qualification\n\n### 徵求\n\n- 前端工程師\n- UI 設計師",
+            "useMarkdown": true
+          }
+        },
+        {
+          "key": "378Opi0DFr05eI09Ly07+vGO",
+          "type": "form-long-answer",
+          "title": "為什麼要做這個專案？（動機）",
+          "answer": {
+            "content": "開發自 2012 年，當年筆者還是個飽受英文論文所苦的大學生，總是開一堆字典交叉查詢覺得很不方便，於是做出了 TJDict 字典工具來解決問題。",
+            "useMarkdown": true
+          }
+        },
+        {
+          "key": "4-jkrj07Vd05zL0Aot03Tee-N",
+          "type": "form-long-answer",
+          "title": "請以此句型釐清專案目標、受眾與獨特性：問題的標題",
+          "answer": {
+            "content": "為了解決上網者在瀏覽不同語言的網頁時遇到查詢單字的困難，我的專案提供可安裝在瀏覽器上的外掛程式，可以做到一鍵查詢多本網路字典。我的專案跟在瀏覽器上開大量分頁查詢不同網路字典的方式，在便利度和速度上有所顯著不同，因此具有不可取代性。",
+            "useMarkdown": true
+          }
+        },
+        {
+          "key": "4ITd9G04s405JQ0BAm02olt4W",
+          "type": "form-long-answer",
+          "title": "請列出這個計畫的目標對象，他們的需求、情境與使用動機？",
+          "answer": {
+            "content": "需要閱讀論文的研究生、學習語言者、所有擁有瀏覽外語網頁需求的上網者。"
+          }
+        },
+        {
+          "key": "8Jad90B9e05hL0CE-02k4G3d",
+          "type": "form-short-answer",
+          "title": "請提供本專案的示意圖或介面設計草圖問題的標題",
+          "answer": {
+            "content": "https://imgur.com/a/8DppyBm"
+          }
+        },
+        {
+          "key": "27Rkcy04_a055k09Op02oCHcD",
+          "type": "form-long-answer",
+          "title": "你覺得本專案可能會面臨的困難有哪些，你又會如何解決這些困難？",
+          "answer": {
+            "content": "1. 網路字典大多不提供 API，需要以 HTML 爬蟲抓取結構化的資料\n2. 維持字典爬蟲的強健性（robustness）\n3. 網路字典更新後對應的爬蟲亦將失效，須頻繁偵測爬蟲是否運作正常\n",
+            "useMarkdown": true
+          }
+        },
+        {
+          "key": "Nh9Xk0BeL05zQ0B_M0CBLrX",
+          "type": "form-long-answer",
+          "title": "本專案結束後，未來可能進一步的發展？",
+          "answer": {
+            "content": "新增查詢單字的歷史記錄功能，分析使用者的歷史記錄，將使用者時常查詢的單字轉變為單字卡（flash card），並可匯出承 csv 或是匯入 Anki 等字卡軟體使用。",
+            "useMarkdown": true
+          }
+        },
+        {
+          "key": "2DpA+T04VR05ED0BZd02-Wr9t",
+          "type": "form-checkbox",
+          "title": "自選三大主題分類",
+          "answer": {
+            "list": [
+              "教育內容（Educational Content）"
+            ],
+            "other": true,
+            "otherValue": "Search Tool"
+          }
+        },
+        {
+          "key": "4oeXQG0F7X05nm0AH+034EWKL",
+          "type": "form-short-answer",
+          "title": "若有本專案介紹的投影片，請提供。",
+          "answer": {
+            "content": "https://www.youtube.com/watch?v=CCDerTD8AsE"
+          }
+        },
+        {
+          "key": "pFOOG0Eyn057k0C6604X1Lsf",
+          "type": "form-long-answer",
+          "title": "你有什麼其他想補充的事情嗎？",
+          "answer": {
+            "content": "目前沒有跟任何社群合作或是某個社群的計畫。\n參與專案的方式可透過加入 telegram 群組 - https://t.me/tjdict",
+            "useMarkdown": true
+          }
+        }
+      ]
+    },
+    {
+      "slug": "2WKwu804cg05O-0B9B0257ui+",
+      "name": "CBFHSS 專為高中生設計的管家行聊天機器人",
+      "description": "CBFHSS 為以高中生生活出發所研發之聊天機器人，目的在於分攤學生一日校園生活的負擔。本程式陸續部署至全校各班，透過使用者的回饋，系統已漸趨穩定。本程式將在 2020 年暑假開始進行代碼重構並加入前端管理頁面，2021 年無償提供給全臺高級中等學校註冊使用並開源程式碼。 ",
+      "group": "零時小學校 2020 Demo Day",
+      "owner": "廖煥杰",
+      "team": null,
+      "tags": [],
+      "badge": "winner",
+      "thumb": "img/prj/2WKwu804cg05O-0B9B0257ui+.webp",
+      "createdtime": "2020-07-06T06:24:34.938Z",
+      "fields": [
+        {
+          "key": "t4zr0DpX05Zq0AHo03YZo+3",
+          "type": "form-short-answer",
+          "title": "專案名稱",
+          "answer": {
+            "content": "CBFHSS 專為高中生設計的管家行聊天機器人"
+          }
+        },
+        {
+          "key": "4P+Npj0GRW05Mb0Cye0P21Ng",
+          "type": "form-short-answer",
+          "title": "提案代表人",
+          "answer": {
+            "content": "廖煥杰"
+          }
+        },
+        {
+          "key": "4C31dv0DnI05aP0ChB0PILyn",
+          "type": "form-short-answer",
+          "title": "提案團隊名稱",
+          "answer": {
+            "content": "CBFHSS 專為高中生設計的管家型聊天機器人"
+          }
+        },
+        {
+          "key": "h5YfN06Ps05-l0AeA054_RD",
+          "type": "form-long-answer",
+          "title": "提案團隊簡介",
+          "answer": {
+            "content": "- CBFHSS 開發團隊目前以麗山高中學生為主，並有三位成員\n - 前端工程師 賀洋生\n - 後端工程師 廖煥杰\n - 程式顧問 吳文元\n   - 已畢業，將於下學期就讀臺灣師範大學\n",
+            "useMarkdown": true
+          }
+        },
+        {
+          "key": "378Opi0DFr05eI09Ly07+vGO",
+          "type": "form-long-answer",
+          "title": "為什麼要做這個專案？（動機）",
+          "answer": {
+            "content": "在 2020 年資訊化的時代，我們認為在教育上有許多原先紙本作業的事情可以被開發出的程式及相關輔助工具取代。除了可以減少紙本的用量之外，由於手機的可攜性高，學生可以更快的接收到學校的訊息。\n"
+          }
+        },
+        {
+          "key": "4-jkrj07Vd05zL0Aot03Tee-N",
+          "type": "form-long-answer",
+          "title": "請以此句型釐清專案目標、受眾與獨特性：問題的標題",
+          "answer": {
+            "content": "為了解決學生忘記帶作業或隔日考試的書籍的困擾，CBFHSS 會在離開學校錢前推播訊息，讓學生可以決定在離開學前要帶回家的物品或書籍。與大部分教育系統不同，CBFHSS 不會收取任何費用以及開放原始碼提供團隊以外的開發者共同協作，因此具有不可取代性。"
+          }
+        },
+        {
+          "key": "4ITd9G04s405JQ0BAm02olt4W",
+          "type": "form-long-answer",
+          "title": "請列出這個計畫的目標對象，他們的需求、情境與使用動機？",
+          "answer": {
+            "content": "- 校園\n - 學生\n   - 以班級為單位\n   - 可即時查詢作業、考試及段考資訊\n   - \n- 學校行政端\n   - 學務處、教務處、總務處、輔導室\n   - 可發布公告，有限制的查詢各班狀況\n",
+            "useMarkdown": true
+          }
+        },
+        {
+          "key": "8Jad90B9e05hL0CE-02k4G3d",
+          "type": "form-short-answer",
+          "title": "請提供本專案的示意圖或介面設計草圖問題的標題",
+          "answer": {
+            "content": "https://imgur.com/a/5hmn18s"
+          }
+        },
+        {
+          "key": "27Rkcy04_a055k09Op02oCHcD",
+          "type": "form-long-answer",
+          "title": "你覺得本專案可能會面臨的困難有哪些，你又會如何解決這些困難？",
+          "answer": {
+            "content": "目前最大的挑戰是學校在手機上的管制的問題，我們在推廣的同時也會告訴學校或老師這項服務不需要在上課時間使用，不會因為使用我們的服務就破壞學校原有的手機管制規則。"
+          }
+        },
+        {
+          "key": "Nh9Xk0BeL05zQ0B_M0CBLrX",
+          "type": "form-long-answer",
+          "title": "本專案結束後，未來可能進一步的發展？",
+          "answer": {
+            "content": "結合更多項目，例如出缺勤系統、學生與處室即時溝通端... 等"
+          }
+        },
+        {
+          "key": "2DpA+T04VR05ED0BZd02-Wr9t",
+          "type": "form-checkbox",
+          "title": "自選三大主題分類",
+          "answer": {
+            "list": [
+              "社群經營與基礎建設（Community Management & Infrastructure）",
+              "教育內容（Educational Content）"
+            ]
+          }
+        },
+        {
+          "key": "4oeXQG0F7X05nm0AH+034EWKL",
+          "type": "form-short-answer",
+          "title": "若有本專案介紹的投影片，請提供。",
+          "answer": {
+            "content": "https://drive.google.com/file/d/1-z_tEUxmrAClAEcKMnjIL696gN3sG_S7/"
+          }
+        },
+        {
+          "key": "pFOOG0Eyn057k0C6604X1Lsf",
+          "type": "form-long-answer",
+          "title": "你有什麼其他想補充的事情嗎？",
+          "answer": {
+            "content": "除了零時小學校之外，我們已經在 Chatbot Meetup 發表過我們的作品，在接下來數月會在 COSCUP, SITCON, PyCON 等研討會發表。暑假我們將進行 code refactor，同時我們也在尋求廠商資助來支付後續經營服務的費用。"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "3_cb6H09aM05Yn09Mb02HEWrq",
+      "name": "未來職業查詢所",
+      "description": "老師，我以後想當ＸＸＸ\n學生眼中的職業有哪些選擇？\n透過自身的背景環境、學經歷、建立標籤媒合各種現在或未來可能出現的工作型態\n也同時建立各種工作所需的技能及發展知識\n讓老師、學生及家長可透過簡易的搜尋結果得到更多的職業知識\n期望未來台灣的學生都能適才適所，滿足台灣人才庫的多元性，翻轉升學第一的觀念",
+      "group": "零時小學校 2020 Demo Day",
+      "owner": "Hedy Wu",
+      "team": null,
+      "tags": [],
+      "badge": null,
+      "thumb": "img/prj/3_cb6H09aM05Yn09Mb02HEWrq.webp",
+      "createdtime": "2020-07-09T00:22:46.364Z",
+      "fields": [
+        {
+          "key": "t4zr0DpX05Zq0AHo03YZo+3",
+          "type": "form-short-answer",
+          "title": "專案名稱",
+          "answer": {
+            "content": "未來職業查詢所"
+          }
+        },
+        {
+          "key": "4P+Npj0GRW05Mb0Cye0P21Ng",
+          "type": "form-short-answer",
+          "title": "提案代表人",
+          "answer": {
+            "content": "Hedy Wu"
+          }
+        },
+        {
+          "key": "4C31dv0DnI05aP0ChB0PILyn",
+          "type": "form-short-answer",
+          "title": "提案團隊名稱",
+          "answer": {
+            "content": "未來職業查詢所"
+          }
+        },
+        {
+          "key": "h5YfN06Ps05-l0AeA054_RD",
+          "type": "form-long-answer",
+          "title": "提案團隊簡介",
+          "answer": {
+            "content": "Hedy Wu- 數位行銷公司專案經理\n\n徵求\n對此題目有興趣的網頁工程師\n願意貢獻學經歷背景及職業知識的各位專才"
+          }
+        },
+        {
+          "key": "378Opi0DFr05eI09Ly07+vGO",
+          "type": "form-long-answer",
+          "title": "為什麼要做這個專案？（動機）",
+          "answer": {
+            "content": "在聯考時代出身的我，看到現在下一代依然面臨強烈的升學競爭壓力覺得很不捨，社會的主流價值驅動教育體系鼓勵會讀書的人而忽視技能型的職業，但覺得不同環境長大、不同興趣的人如果都能適才適所，有自己發揮的場域，才能為國家儲備更大的能量，而避免島內競爭形成互助互補，達成麻雀雖小五臟俱全的超強實體！"
+          }
+        },
+        {
+          "key": "4-jkrj07Vd05zL0Aot03Tee-N",
+          "type": "form-long-answer",
+          "title": "請以此句型釐清專案目標、受眾與獨特性：問題的標題",
+          "answer": {
+            "content": "為了解決學生、老師、家長對職業的想像困難，並解決找不到職業方向的問題。\n我的專案提供以興趣、生長環境及學經歷作為出發的方式，提供一個跟自身比較有關聯性的職業查找方式和職業知識的匯集站，有別於人力銀行以刊登公司職缺方式為出發的方式。"
+          }
+        },
+        {
+          "key": "4ITd9G04s405JQ0BAm02olt4W",
+          "type": "form-long-answer",
+          "title": "請列出這個計畫的目標對象，他們的需求、情境與使用動機？",
+          "answer": {
+            "content": "此計畫的目標對象有三：\n1.學生：希望他們的夢幻職業不再只有當Youtuber\n2.老師：希望老師不再只叫學生好好讀書\n3.家長：希望家長能了解自己提供的環境，並鼓勵孩子探索多元領域"
+          }
+        },
+        {
+          "key": "8Jad90B9e05hL0CE-02k4G3d",
+          "type": "form-short-answer",
+          "title": "請提供本專案的示意圖或介面設計草圖問題的標題",
+          "answer": {
+            "content": "https://drive.google.com/file/d/171mH4xgIWjlEHwrVtJuQCNYsgVaZksa3/view?usp=sharing"
+          }
+        },
+        {
+          "key": "27Rkcy04_a055k09Op02oCHcD",
+          "type": "form-long-answer",
+          "title": "你覺得本專案可能會面臨的困難有哪些，你又會如何解決這些困難？",
+          "answer": {
+            "content": "需要很多願意分享自己經歷並共同填補職業的可能性\n職業與學經歷不一定有正向關係，該如何建立具有參考性的大數據\n與人力銀合作公開資料可能可以解決初步的學歷+職業(職稱)資料需求"
+          }
+        },
+        {
+          "key": "Nh9Xk0BeL05zQ0B_M0CBLrX",
+          "type": "form-long-answer",
+          "title": "本專案結束後，未來可能進一步的發展？",
+          "answer": {
+            "content": "透過平台推廣各種適性教育及職業課程\n為台灣各地方建立區域工作的職缺媒合\n"
+          }
+        },
+        {
+          "key": "2DpA+T04VR05ED0BZd02-Wr9t",
+          "type": "form-checkbox",
+          "title": "自選三大主題分類",
+          "answer": {
+            "list": [
+              "教育內容（Educational Content）"
+            ]
+          }
+        },
+        {
+          "key": "4oeXQG0F7X05nm0AH+034EWKL",
+          "type": "form-short-answer",
+          "title": "若有本專案介紹的投影片，請提供。",
+          "answer": {
+            "content": "待補"
+          }
+        },
+        {
+          "key": "pFOOG0Eyn057k0C6604X1Lsf",
+          "type": "form-long-answer",
+          "title": "你有什麼其他想補充的事情嗎？",
+          "answer": {
+            "content": "這個專案的想法只是在腦子裡的想法，希望貢獻出來找到願意一起協作的夥伴"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "36KarT02oT05120BqS0SpzLy",
+      "name": "怎麼共感精神病患者_用聊天機器人",
+      "description": "我們想讓將聊天機器人打造成戴著有色眼鏡的普羅大眾，讓使用者模擬精神疾病患者的處境。藉由翻轉聊天機器人的用途（解決問題→提出問題），讓使用者在與聊天機器人互動的體驗過程中,感受到患者生活上，所面臨的過度關心和質疑。進而在感受到困擾、憤怒、自我貶抑等負面情緒的過程中，共感患者的困境與困難。",
+      "group": "零時小學校 2020 Demo Day",
+      "owner": "郭伶伊",
+      "team": null,
+      "tags": [],
+      "badge": null,
+      "thumb": "img/prj/36KarT02oT05120BqS0SpzLy.webp",
+      "createdtime": "2020-07-09T22:19:54.868Z",
+      "fields": [
+        {
+          "key": "t4zr0DpX05Zq0AHo03YZo+3",
+          "type": "form-short-answer",
+          "title": "專案名稱",
+          "answer": {
+            "content": "怎麼共感精神病患者_用聊天機器人"
+          }
+        },
+        {
+          "key": "4P+Npj0GRW05Mb0Cye0P21Ng",
+          "type": "form-short-answer",
+          "title": "提案代表人",
+          "answer": {
+            "content": "郭伶伊"
+          }
+        },
+        {
+          "key": "4C31dv0DnI05aP0ChB0PILyn",
+          "type": "form-short-answer",
+          "title": "提案團隊名稱",
+          "answer": {
+            "content": "妳好，宜臻？你好，冠宇？"
+          }
+        },
+        {
+          "key": "h5YfN06Ps05-l0AeA054_RD",
+          "type": "form-long-answer",
+          "title": "提案團隊簡介",
+          "answer": {
+            "content": "<br>洪鵬凱：架設聊天機器人  <br/>\n丁映瑄：議題內容蒐集  <br/>\n郭伶伊：美工設計  <br/>",
+            "useMarkdown": true
+          }
+        },
+        {
+          "key": "378Opi0DFr05eI09Ly07+vGO",
+          "type": "form-long-answer",
+          "title": "為什麼要做這個專案？（動機）",
+          "answer": {
+            "content": "<br>　　對精神疾病患者而言，他們比一般人更迫切需要了解生命的意義，找出主體定位，卻在生活過程中備受質疑。面對種種不了解的聲浪，患者的療癒之路走得更為坎坷，最終落入——因疾病而被視為「不正常」，但表現「正常」又無法被接受——永遠無法脫離社會中「不正常的異類」的惡性循環。這樣的困擾使得更多尚未尋求醫療協助、受精神疾病所苦的人躊躇不前，只能持續在不知名的痛苦、與被汙名化的誤解之間遊走，無處落腳。  <br/>\n\n　　我們的設計專案中，我們希望能呈現出患者所面臨的兩難：試圖透過模擬言語質疑、歧視、誤解、或過度關心等情境——並非將使用者「當作」精神疾病患者，而是著重模擬引發負面感受之情境——讓大眾能夠感受到聊天過程引發的負面情緒，並由此反思，對於精神疾病患者而言，不受信任、惱怒、無奈等負面情緒都是他們在疾病之外每天必須面對的日常，進而開啟同理精神疾病患者的可能。\n",
+            "useMarkdown": true
+          }
+        },
+        {
+          "key": "4-jkrj07Vd05zL0Aot03Tee-N",
+          "type": "form-long-answer",
+          "title": "請以此句型釐清專案目標、受眾與獨特性：問題的標題",
+          "answer": {
+            "content": "「為了解決（精神病患者）遇到的（因為社會大眾的歧視與不了解，而無法正常生活）困難，我的專案提供（運用聊天機器人），可以做到（讓使用者共感精神病患者）。我的專案跟（現有舉辦講座、透過知識影片／文章），在（情境打造、互動性與趣味性）不同，因此具有不可取代性。」"
+          }
+        },
+        {
+          "key": "4ITd9G04s405JQ0BAm02olt4W",
+          "type": "form-long-answer",
+          "title": "請列出這個計畫的目標對象，他們的需求、情境與使用動機？",
+          "answer": {
+            "content": "<br>目標對象：對精神病議題不了解的社會大眾  <br/>\n需求：認識精神病患者  <br/>\n情境與使用動機：透過運用手機與聊天機器人對話的過程，共感精神病患者的日常生活，進而包容並且對議題有更多認識。  <br/>",
+            "useMarkdown": true
+          }
+        },
+        {
+          "key": "8Jad90B9e05hL0CE-02k4G3d",
+          "type": "form-short-answer",
+          "title": "請提供本專案的示意圖或介面設計草圖問題的標題",
+          "answer": {
+            "content": "https://drive.google.com/file/d/1JQQnVR8KPHAodhxBdhLMtSJvhiCfP5s5/view?usp=sharing"
+          }
+        },
+        {
+          "key": "27Rkcy04_a055k09Op02oCHcD",
+          "type": "form-long-answer",
+          "title": "你覺得本專案可能會面臨的困難有哪些，你又會如何解決這些困難？",
+          "answer": {
+            "content": "<br>1.無法進入我們打造的情境→修正語句，讓情境更接近使用者  <br/>\n2.只記得負向的對話模式→新增正確與精神病患者相處的小技巧",
+            "useMarkdown": true
+          }
+        },
+        {
+          "key": "Nh9Xk0BeL05zQ0B_M0CBLrX",
+          "type": "form-long-answer",
+          "title": "本專案結束後，未來可能進一步的發展？",
+          "answer": {
+            "content": "<br>　　目前設計物聊天機器人的制式回覆為主，但未來希望能發展成一場社會實驗，招募兩位使用者同時體驗，使一方扮演聊天機器人的角色（商店店員或親朋好友），另一方則扮演精神疾病患者，要求雙方在特定情境下進行對話。藉由兩人聊天內容，便可觀察社會大眾對精神疾病患者抱持何種想像、又如何與精神疾病患者互動。  <br/>\n\n　　社會實驗的形式，不僅會在體驗過程中引發使用者的情緒感受，還能針對使用者的真實行為（如：對話所使用的語句、詞彙、語氣等等）引導其反思「為什麼我對精神疾病患者會有這樣的印象？」、「那精神疾病患者真的是這樣嗎？我的想像有什麼問題？」，進而為不同的族群創造出更大的對話與討論空間。\n",
+            "useMarkdown": true
+          }
+        },
+        {
+          "key": "2DpA+T04VR05ED0BZd02-Wr9t",
+          "type": "form-checkbox",
+          "title": "自選三大主題分類",
+          "answer": {
+            "list": [
+              "教育內容（Educational Content）"
+            ],
+            "other": true,
+            "otherValue": "社會設計"
+          }
+        },
+        {
+          "key": "4oeXQG0F7X05nm0AH+034EWKL",
+          "type": "form-short-answer",
+          "title": "若有本專案介紹的投影片，請提供。",
+          "answer": {
+            "content": "https://drive.google.com/file/d/1yeIfO_paPNCahGeqKGjtQ8x7OxhNNE3j/view?usp=sharing"
+          }
+        },
+        {
+          "key": "pFOOG0Eyn057k0C6604X1Lsf",
+          "type": "form-long-answer",
+          "title": "你有什麼其他想補充的事情嗎？",
+          "answer": {
+            "content": "<br>1.透過粉絲專業懶人包，可以更進一步認識精神病相關資訊。  <br/>\n2.體驗結束後，也有附上各地區心理衛生資源的資訊，讓使用者若有需要，也能夠自行連絡。",
+            "useMarkdown": true
+          }
+        }
+      ]
+    },
+    {
+      "slug": "nKCOH08qe05oC0AC603cRzfD",
+      "name": "Plan Hub (教案共享平臺) ",
+      "description": "教案之於課堂的重要性如同劇本之於演出，詳細紀錄課程將呈現的內容與方式。本團隊設計的線上平臺，提供教師分享其設計的教案，促進教師間的經驗交流，亦可建置個人教學記錄，就像是工程師使用的程式碼管理平臺 GitHub，讓好的資源能在社群內共享協作，且能不斷迭代更新。",
+      "group": "零時小學校 2020 Demo Day",
+      "owner": "Kahou",
+      "team": null,
+      "tags": [],
+      "badge": "winner",
+      "thumb": "img/prj/nKCOH08qe05oC0AC603cRzfD.webp",
+      "createdtime": "2020-07-11T05:36:45.865Z",
+      "fields": [
+        {
+          "key": "t4zr0DpX05Zq0AHo03YZo+3",
+          "type": "form-short-answer",
+          "title": "專案名稱",
+          "answer": {
+            "content": "Plan Hub (教案共享平臺) "
+          }
+        },
+        {
+          "key": "4P+Npj0GRW05Mb0Cye0P21Ng",
+          "type": "form-short-answer",
+          "title": "提案代表人",
+          "answer": {
+            "content": "林嘉豪"
+          }
+        },
+        {
+          "key": "4C31dv0DnI05aP0ChB0PILyn",
+          "type": "form-short-answer",
+          "title": "提案團隊名稱",
+          "answer": {
+            "content": "PlanHub"
+          }
+        },
+        {
+          "key": "h5YfN06Ps05-l0AeA054_RD",
+          "type": "form-long-answer",
+          "title": "提案團隊簡介",
+          "answer": {
+            "content": "林嘉豪：提案人<br />\n蔡孟庭：中等學校資訊教師<br />\n顏宗正：工程師\n\n<p>\n待<a href=\"https://forms.gle/AwtzkoC2ziaPQTDh9\">徵求<a/>－<br />\n專案經理：專案控管及人員招募。<br />\n教師：需有各教學場域之教師（高國中小、體制內外），協助確認使用者需求。<br />\nUX 設計師：協助設計教案發想過程中，資料的收集方式與流程。<br />\n視覺設計師：文宣、簡報、網頁視覺設計。<br />\n網頁端工程師：網頁開發、設計教案撰寫工具。<br />\n伺服器端工程師：伺服器開發、教案爬蟲、資料庫設計等。<br />\n</p>",
+            "useMarkdown": true
+          }
+        },
+        {
+          "key": "378Opi0DFr05eI09Ly07+vGO",
+          "type": "form-long-answer",
+          "title": "為什麼要做這個專案？（動機）",
+          "answer": {
+            "content": "現有的教案共享平臺僅止於收集最終版本教案，格式也鮮少統一。當教師在不清楚他人教案設計的發想脈絡下使用其教案，可能導致偏離原設計者的核心理念；另外，在108課綱實行下，對於跨領域課程及特色課程的需求大幅提升，過去卻鮮有這類課程設計的紀錄。因此團隊想提供一個平臺，讓教案分享者能詳細記錄教案設計過程的發想，協助教師們在適應新課綱的同時減低課程負擔，提升教學者之間的交流共創機會，在開放協作的機制下也較能保障課程的品質。"
+          }
+        },
+        {
+          "key": "4-jkrj07Vd05zL0Aot03Tee-N",
+          "type": "form-long-answer",
+          "title": "請以此句型釐清專案目標、受眾與獨特性：問題的標題",
+          "answer": {
+            "content": "為了解決體制內外教師遇到的教案協作、撰寫與交流的困難，此專案提供如 GitHub 管理程式碼的方式管理教案內容，開放教師們參考他人在教案發想過程的想法迭代，並交流使用，降低個人發想的瓶頸。此專案跟現有的教案共享平臺不同，除了蒐集教案成果，還希望記錄下發想過程的思考脈絡，因此具有不可取代性。"
+          }
+        },
+        {
+          "key": "4ITd9G04s405JQ0BAm02olt4W",
+          "type": "form-long-answer",
+          "title": "請列出這個計畫的目標對象，他們的需求、情境與使用動機？",
+          "answer": {
+            "content": "體制內外教師可於平臺上搜尋教案，檢視更新歷程並參與協作，亦可自己建立教案，邀請合作的師長透過共同編輯的方式，留下教案的迭代與商討紀錄。尤其在新課綱實行後，倍受重視的跨領域課程與特色課程，對於教學現場老師而言都是新挑戰，此平臺提供的多方參照與協作機制將有助於降低教師設計課程的困難性。"
+          }
+        },
+        {
+          "key": "8Jad90B9e05hL0CE-02k4G3d",
+          "type": "form-short-answer",
+          "title": "請提供本專案的示意圖或介面設計草圖問題的標題",
+          "answer": {
+            "content": "http://planhub.schl.tw"
+          }
+        },
+        {
+          "key": "27Rkcy04_a055k09Op02oCHcD",
+          "type": "form-long-answer",
+          "title": "你覺得本專案可能會面臨的困難有哪些，你又會如何解決這些困難？",
+          "answer": {
+            "content": "對於使用者需求的了解仍不足。目前能接觸到的教師資源有限，希望能在平臺有基本雛型後，徵求各階段教師試用或填寫問卷，提供回饋協助團隊更新需求。\n對於如何能夠系統性地紀錄下教案發想的脈絡仍須確認，如果能設計一套模板供教師紀錄發想過程，將可提升資料的易用性。設計的方式須徵求 UX 設計師協助。"
+          }
+        },
+        {
+          "key": "Nh9Xk0BeL05zQ0B_M0CBLrX",
+          "type": "form-long-answer",
+          "title": "本專案結束後，未來可能進一步的發展？",
+          "answer": {
+            "content": "加入文字以外的教學媒材蒐集，提供更豐富的教材紀錄"
+          }
+        },
+        {
+          "key": "2DpA+T04VR05ED0BZd02-Wr9t",
+          "type": "form-checkbox",
+          "title": "自選三大主題分類",
+          "answer": {
+            "list": [
+              "教育內容（Educational Content）",
+              "社群經營與基礎建設（Community Management & Infrastructure）"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "slug": "mS52J09L+05fq0Cs202BOKQi",
+      "name": "知識癮",
+      "description": "為解決碎片式閱讀與偏鄉教育兩個問題，以「建立易取得知識資源庫」與「重塑活絡閱讀習慣」的方向，製作一款知識型app，並將支付閱讀導向改設定為具有娛樂感的知識型app，利用「說書」、「開講」、「電子書」等三種閱聆聽方式讓使用者系統學習，也能讓弱勢者透過身分證明進而免費做有系統學習，也能有同等的教育資源。",
+      "group": "零時小學校 2020 Demo Day",
+      "owner": "yhl.17",
+      "team": null,
+      "tags": [],
+      "badge": null,
+      "thumb": "img/prj/mS52J09L+05fq0Cs202BOKQi.webp",
+      "createdtime": "2020-07-14T23:05:57.483Z",
+      "fields": [
+        {
+          "key": "t4zr0DpX05Zq0AHo03YZo+3",
+          "type": "form-short-answer",
+          "title": "專案名稱",
+          "answer": {
+            "content": "知識癮"
+          }
+        },
+        {
+          "key": "4P+Npj0GRW05Mb0Cye0P21Ng",
+          "type": "form-short-answer",
+          "title": "提案代表人",
+          "answer": {
+            "content": "林易萱"
+          }
+        },
+        {
+          "key": "4C31dv0DnI05aP0ChB0PILyn",
+          "type": "form-short-answer",
+          "title": "提案團隊名稱",
+          "answer": {
+            "content": "CAMC"
+          }
+        },
+        {
+          "key": "h5YfN06Ps05-l0AeA054_RD",
+          "type": "form-long-answer",
+          "title": "提案團隊簡介",
+          "answer": {
+            "content": "以下皆需要徵求成員。  \n1.app內容企劃人員：人力資源、課程企劃輔佐人員  \n2.app程式開發人員：產品經理、UI設計師、IOS開發工程師、ANDROID開發工程師、服務端開發工程師  \n3.app程式企劃人員：需要一個幫我精簡構想又能達到目的的人員。",
+            "useMarkdown": true
+          }
+        },
+        {
+          "key": "378Opi0DFr05eI09Ly07+vGO",
+          "type": "form-long-answer",
+          "title": "為什麼要做這個專案？（動機）",
+          "answer": {
+            "content": "企劃起源，來自「我眼裡的臺灣與中國」、「碎片式閱讀」與「偏鄉教育」三個問題。  \n\n一、我眼裡的臺灣與中國  \n因香港反送中議題揚起網民關注與紛爭，我好奇中國人民的思維，下載了當地最火社群的微博app；因為近年開始研究占星心理學，鑑於台灣網站討論及資料樣本量不多，我下載中國最盛論壇豆瓣app；因為學習自助旅行規劃出國行程，想參考更多好玩實用的資訊，下載了中國網紅群聚的小紅書app。\n我在使用這些應用程式的過程，愈發敬佩，並且開始習慣性的閱讀起中國的主流社群，如：豆瓣、知乎、小紅書、得到等app，雖然某部分娛樂性資訊依舊，但更發現他們背後的操手，正塑造他們關注趨勢、思考討論、整合資料等能力，且頭版話題的回應具有專業知識與邏輯，也可能是因為他們國家教育制度激起的競爭力，促使他們上進向知識時事親近，所以也成為他們部分的娛樂。反觀臺灣，我們雖有PTT或Dcard等道地論壇，整合量卻不及他們來得多，但我認為我們有能力將知識追求的更精緻  \n公益受眾：台灣人民。  \n\n二、碎片式閱讀  \n做為一位平凡的上班族，上班努力下班放空，放空滑手機。在捷運晃蕩的空間裡，拿起書的乘客我會多看他們幾眼，其他人沒什麼特別，無非聊天、放空或閉眼，就是滑手機。為什麼大家那麼愛滑手機？因為手機有快速豐富的資訊量，能夠即時交際聯誼，能有讓你產生心流與激情的遊戲，而且要斷即斷，機動性非常高，但這也造就廣而沒有深度的知識資訊量。\n北京大學經濟學系教授 薛兆丰：「生活可以忙忙碌碌隨大流，但思考也可以偷偷摸摸求上進。」但，並非我們不願意求上進，而是手機裡的眾多小小方格都在瓦解你的意志力。所以說有沒有一個符合碎片式閱讀習慣，又能讓你具有系統地學習知識的方式？  \n公益受眾：在手機黑屏時才意識到自己到底在幹嘛的使用者。  \n\n三、弱勢教育   \n比如偏鄉教育讓公益團體整合知識資源，或讓政府機關僱傭教師做教育服務，有沒有一個成本更低更便捷的方式？讓主流教育資源自發性服務的方式、讓弱勢的學習者更容易取得的方式、甚至，讓偏鄉教育成為只是一個順便解決問題的方式。  \n公益受眾：偏鄉小朋友與大朋友。  ",
+            "useMarkdown": true
+          }
+        },
+        {
+          "key": "4-jkrj07Vd05zL0Aot03Tee-N",
+          "type": "form-long-answer",
+          "title": "請以此句型釐清專案目標、受眾與獨特性：問題的標題",
+          "answer": {
+            "content": "為解決這三個問題，利用「建立易取得知識資源庫」與「重塑與活絡閱讀習慣」的解決方式，製作一款知識型app。但要一款app吸引人不容易，而一款「知識型」app吸引人更不容易，並且要使用者長期運用，而app本身也要能獲利更使永續運作，因此關於應用程式的設計方向，有以下兩點。  \n\n一款下載量多的app，無非是從娛樂性質開始，讓使用者感到實用或不可或缺，進成為習慣無法卸載。其中最重要的因素是需要讓人「上癮」。若知識型app以支付閱讀為導向，容易讓人有書與文字等艱澀既定印象，且現代快速且豐富的資訊量，易使人碎片式且較無耐心閱讀，故使受眾較少。因此，  \n\n1.將支付閱讀導向設定為具有娛樂感的知識型app，在此app內建構虛擬大學，分為各學院與學系，其中有各式主題課程，利用「說書」、「開講」、「電子書」等三種閱聽方式。  \n2.利用「上癮」機制，在此款app周邊內部「設計環境」、「建立監督」、「不確定的反饋」以及「晉升階梯」的技巧，如同手遊讓人上癮的操作方式，讓使用者上癮並感到實用，進成為習慣無法卸載。",
+            "useMarkdown": true
+          }
+        },
+        {
+          "key": "4ITd9G04s405JQ0BAm02olt4W",
+          "type": "form-long-answer",
+          "title": "請列出這個計畫的目標對象，他們的需求、情境與使用動機？",
+          "answer": {
+            "content": "1.想要有系統學習，卻不想或無法花費時間通勤或金錢的受眾(包含偏鄉孩童)  \napp內大學城能提供系統教程，比如他們無法補習、對於知識交流可能有許多是藉由家中長輩的傳遞，所注重層面可能已經與資訊量大的地區有落差，但app內有專業及邏輯的學習，能夠提供在校無法獲得的資訊。以及話題室對他們的影響，話題室的熱榜推播可以關注有知識性議題，並能藉由發文與評論訓練其獨立思考表達能力，有即時性交流之餘，也能補足弱勢學生少之交流不足之問題。  \n\n2.想了解其他領域，但網路資源瑣碎，無法做全面評估的受眾(包含填志願學生)  \n其實我們並不缺乏資源，而是缺少統合統整的資料庫，以及再思考、再討論的空間，知識要能被真實運用才是價值所在。而所謂真實運用，就是累積知識所造就而來的思維，這也是知識型app內的開講想要傳遞的重點，各種的大學學院與科系，教傳院、歷史系、藝術系、經濟學、數學系、文學院等，所學習的技術知識並非這些學院科系本衷，而是思維方式，比如傳播學系，即是資料蒐集與分析、製作媒體以做表達與溝通，告訴你學習各種思維方式，看待生活裡不同問題，這才是知識app使用的價值所在。  \n  \n3.想塑造閱讀習慣，並想找到線上與同好交流評論或感想的受眾。  \n對於「碎片式閱讀」問題，用「聽」的方式學知識，在許多時刻都能實行，而且是可以順便實行的。比如通勤時間一樣滑手機，但耳機內能播放此app內的學習課程，它可以如同音樂的伴隨，僅聽20分鐘的時間，即可學習新知識。app本身即為易取得知識資源庫，而也重塑與活絡了閱讀習慣。  \n",
+            "useMarkdown": true
+          }
+        },
+        {
+          "key": "8Jad90B9e05hL0CE-02k4G3d",
+          "type": "form-short-answer",
+          "title": "請提供本專案的示意圖或介面設計草圖問題的標題",
+          "answer": {
+            "content": "https://ibb.co/wCNgNj2"
+          }
+        },
+        {
+          "key": "27Rkcy04_a055k09Op02oCHcD",
+          "type": "form-long-answer",
+          "title": "你覺得本專案可能會面臨的困難有哪些，你又會如何解決這些困難？",
+          "answer": {
+            "content": "1.重塑閱讀習慣，及引發知識潮流，讓受眾願意自主下載App較為困難。  \n解決方式:目標與電視台合作製作，因為不少電視節目已有雛形相關節目，而且因為是以知識為導向節目，相較外景紀錄片、戲劇、綜藝等節目來說，內容不需要過多的裝飾或效果，知識即是產品因此成本較低，最大成本在於節目企劃的內容。而且對於電視台本身製作單位來說，廣告此app也僅是順便的，他們自行製作此節目也能獲得效益。  \n  \n2.找尋提供優秀知識的生產者也較為困難。  \n因其中最大賣點為開講與說書，目標能與作家、補教業或專業學派人士合作。對於作家來說，實體書市場日漸式微，由自己宣傳自己的書也是另一種有趣且實際的方式；而與補教業者合作，對於他們來說是將自己的課程藉由網路無邊界推廣，以及專業學派的教授而言，也是一種對自己的廣告，甚至此app能創造知識型網紅體系，做為某種虛擬標準。  \n  \n3.讓知識生產者願意上傳知識也需要引誘點。  \n能與書城公司合作，實體書市場、電子書城皆日漸式微，此app在開講與說書的同時，可以置入電子書資訊即為書城廣告，建立連結即可購買，有人購買知識產產者可以抽成獲利。  \n  \n執行層面分為吸引使用者之app廣告、app知識生產者、app程式開發、app腳本建構、app音效處理。除上述外，另外執行層面，還需要app程式開發公司、app腳本建構、app音效處理，音效處理也是重要部分，因為此款為用聆聽來學習知識，音質以及背景音樂音效，是需要後製處理的。  \n  \n還有製作此應用程式之費用龐大，需要精簡構想。  ",
+            "useMarkdown": true
+          }
+        },
+        {
+          "key": "Nh9Xk0BeL05zQ0B_M0CBLrX",
+          "type": "form-long-answer",
+          "title": "本專案結束後，未來可能進一步的發展？",
+          "answer": {
+            "content": "此app運作為用知識吸引app使用者（虛擬學生），用資金吸引app知識生產者（虛擬教師）。 因此永續的可能，建立在資源的永續，資源其一為知識，其二為資金。  \n  \nA.App製作單位收益  \n應用程式內的廣告費用，可與補教業或書店的電子商城合作。  \n解讀者支付的會費。以及學生和解讀者購買開講/說書/電子書的版權費用。  \n  \nB.App解讀者收益  \n廣告自己專業之餘，所教授的開講或說書的點閱率可以賺錢，用說書成功賣出指定的書籍可賺錢。  \n  \nC.App一般使用者的收益（包含偏鄉學生）  \n每日免費議題、便宜且有系統的學習、可參與線上讀書會/實體講座/知識挑戰賽，知識社群順便交誼。其二為偏鄉學生，若有偏鄉或低收入證明，每月可以免費聆聽開講/說書/電子書一定次數，其最重要為大學城能提供系統教程，有專業及邏輯的學習平時在校無法獲得的資訊，以及話題室對他們的影響，話題室可以訓練其獨立思考表達能力，並有即時性交流。  \n  \nＤ.App節目製作單位收益  \n所製作之廣告、知識型節目或影片可從Youtube點閱做收益，或與電視台製作優質節目獲取收視率，參與廣播電視獎項獎金，申請政府補助等。  \n",
+            "useMarkdown": true
+          }
+        },
+        {
+          "key": "2DpA+T04VR05ED0BZd02-Wr9t",
+          "type": "form-checkbox",
+          "title": "自選三大主題分類",
+          "answer": {
+            "list": [
+              "遠距教學解決方案（Solution of Distance Learing）",
+              "教育內容（Educational Content）"
+            ]
+          }
+        },
+        {
+          "key": "pFOOG0Eyn057k0C6604X1Lsf",
+          "type": "form-long-answer",
+          "title": "你有什麼其他想補充的事情嗎？",
+          "answer": {
+            "content": "App腳本企劃  \n五項重要資訊:大學城、學生證、話題室、知商場、學霸群。首頁為大學城。    \n\nA.大學城    \n頁面資訊  \na.搜尋/每日免費精選/解讀者廣告   \nb.熱門榜/開講榜/熱門聽書榜/熱門電子書榜  \nc.你關注的解讀者的開講或說書  \nd.各學院/各科系選擇  \n  \n*主題選擇  \n有點類似學院科系的選擇，可以從使用者本身職業或學系做引導入相關主題的學院科系，讓聽閱者選擇自己想學習的主題。  \n*「說書」或「開講」  \n進入主題可選擇想要學習的課程方式：「說書」或「開講」。都是以音頻與畫面文字做閱聽方式。  \n*「說書」  \na.說書以解書為主。  \nb.解讀者解讀一書為一「說」，每說20分鐘。  \nc.進入「說書」頁面資訊:此書學習人數/發起話題  \nd.免費試聽書的介紹2分鐘，頁面包含書的資訊和目錄，以及文字輔佐。  \ne.付費後聆聽「說書」完整內容，文字輔佐，推薦書目，以及購買此電子書點擊此(進入商城)。  \nf.建立說後回饋，每聽完一說後，進入此「說書」的主題話題室回饋一則心得，即完成積分。說者或作者以及其他有聽過此「說書」主題的閱眾可以回饋每個人的回饋。  \n*「開講」  \na.以探討時事議題學派等知識為主。  \nb.一個議題需有邏輯地分為「十」講，每講20分鐘。  \nc.進入「開講」的頁面資訊:此議題學習人數/此議題發起話題  \nd.免費試議題的介紹2分鐘，頁面包含議題的十講目錄，以及文字輔佐。  \ne.付費後聆聽「開講」完整內容，文字輔佐，推薦書目，以及購買此電子書點擊此(進入商城)。  \nf.建立講後回饋，每聽完一講後，進入此「開講」的主題話題室回饋一則心得，即完成積分。講者或作者以及其他有聽過此「開講」主題的閱眾可以回饋每個人的回饋。  \n\n\nB.我的學生證    \n建立會員制度，讓所有學習皆有紀錄，以及以知識等級建立自己的價值。  \n頁面資訊  \na.個人頭貼/個人資料/我的關注/關注我的人  \nb.大學城:學習統計/學習紀錄/學習計畫/學習成就  \nc.話題室:我的發佈/我的回應/我的通知/我的收藏/  \nd.知商場:錢包帳戶/已購開講/已購說書/已購電子書  \ne.學霸群:等級解鎖/線上讀書會/實體講座/知識挑戰賽  \n  \n我是解讀者  \nf.解讀者:教授統計/教授紀錄/教授計畫/教授成就/  \ng.知賣場:錢包帳戶/點閱比率/賣出的書  \nh.實教室:等級解鎖/發起線上讀書會/舉辦實體講座/  \n  \n*會員制度  \n我的學生證會顯示個人資料頁面，包含頭貼、最喜歡書、最近參與的話題等，並有學習統計、學習紀錄、學習計畫、學習成就等資訊並為公開，可運用於「話題室」、「學霸群」等聯誼交際制度。會員初始資本可以免費聽7次的開講或說書，而每日也可免費聽第1講，創造閱讀知識的習慣。  \n*解讀者  \n由作家、專家、補教老師、教授擔任，可以免費做說書人或開講人三次，他們可將平時教課演講，製作錄音及文字檔案上傳成為開講議題，有一定點閱率即可收益。以及利用說書，每賣出一本app指定（可能銷售率極低）的書籍可換部分收益，但名額限制需搶購。正式成為解讀者需要支付會費，每月可獲得一本免費電子書。  \n   \n  \nＣ.話題室     \n建立主題的推文室，讓app使用者在該主題社群內發起暢談話題。  \n頁面資訊  \na.搜尋/關注動態/推薦話題/限定話題  \nb.點擊別人頭貼/即可看到他最喜歡書/最近參與的話題  \nc.我的發佈/我的回應/我的通知/我的收藏/  \n＊關注動態  \n為關注其他人或解讀者發起的話題，皆可發起和回饋。  \n＊推薦話題  \n有區分主題類別，只能看不能回應留言，可讓app使用者了解此主題的話題導向為何，若有興趣即可購買相關說書開講或電子書。  \n*限定話題  \n為自己曾聆聽過的說書開講或電子書發起的話題，可以發起和回饋。  \n  \nＤ.知商場  \n支付錢包設置，每聽一次開講或說書，需付費。  \n頁面資訊  \na.搜尋/推薦書目/熱門書單/電子書城/學習計畫  \nb.錢包帳戶/已購開講/已購說書/已購電子書    \n  \n  \nE.學霸群  \n等級制度，並藉由虛擬等級制度創造實體受益。  \n頁面資訊  \na.學霸排行榜/我的等級/學習成就/  \nb.解鎖任務/線上讀書會/實體講座/知識挑戰賽  \n*學習成就與實體效益  \n聆聽100講或說者即為學士，可參與線上讀書聯誼會。聆聽200講或說的閱眾即為碩士，可免費參加講或說者實體演講。聆聽500講或說的閱眾即為博士，可上節目參加知識挑戰賽領獎金。  ",
+            "useMarkdown": true
+          }
+        }
+      ]
+    },
+    {
+      "slug": "2V7pM104tU05c20AvB02ungo1",
+      "name": "手寫繁體中文的識別",
+      "description": "本計劃提出手寫繁體中文的識別，盼在繁體中文寫的測試，能夠提供有效率且公正的測試學生中文寫的工具。目前AI市場上最熱門的是深度學習 Deep Learning, 深度學習的主要功能之一是用電腦取代人類眼晴的識別能力，且準確率高。本計劃是利用AI的深度學習的技術來作手寫繁體中文的辨識。",
+      "group": "零時小學校 2020 Demo Day",
+      "owner": "kelvin chen",
+      "team": null,
+      "tags": [],
+      "badge": null,
+      "thumb": "img/prj/2V7pM104tU05c20AvB02ungo1.webp",
+      "createdtime": "2020-07-18T17:27:51.356Z",
+      "fields": [
+        {
+          "key": "t4zr0DpX05Zq0AHo03YZo+3",
+          "type": "form-short-answer",
+          "title": "專案名稱",
+          "answer": {
+            "content": "手寫繁體中文的識別"
+          }
+        },
+        {
+          "key": "4P+Npj0GRW05Mb0Cye0P21Ng",
+          "type": "form-short-answer",
+          "title": "提案代表人",
+          "answer": {
+            "content": "陳健如"
+          }
+        },
+        {
+          "key": "4C31dv0DnI05aP0ChB0PILyn",
+          "type": "form-short-answer",
+          "title": "提案團隊名稱",
+          "answer": {
+            "content": "永志"
+          }
+        },
+        {
+          "key": "h5YfN06Ps05-l0AeA054_RD",
+          "type": "form-long-answer",
+          "title": "提案團隊簡介",
+          "answer": {
+            "content": "陳健如，從事IT工作約三十年，退休工程師，偏鄉志工\n邱立平，淡江大學資訊研究所，資訊工程師"
+          }
+        },
+        {
+          "key": "378Opi0DFr05eI09Ly07+vGO",
+          "type": "form-long-answer",
+          "title": "為什麼要做這個專案？（動機）",
+          "answer": {
+            "content": " 6月21日參加識字量工作坊"
+          }
+        },
+        {
+          "key": "4-jkrj07Vd05zL0Aot03Tee-N",
+          "type": "form-long-answer",
+          "title": "請以此句型釐清專案目標、受眾與獨特性：問題的標題",
+          "answer": {
+            "content": "為了解決小學生遇到要手寫中文測試的困難，我的專案提供手寫繁體中文的辨識，可以做到小朋友手寫繁體中文的測試，我的專案跟高師大和花蓮識字量網站不同，他們都缺乏手寫繁體中文的自動辨認功能，因此我的專案在識字量檢測具有不可取代性。"
+          }
+        },
+        {
+          "key": "4ITd9G04s405JQ0BAm02olt4W",
+          "type": "form-long-answer",
+          "title": "請列出這個計畫的目標對象，他們的需求、情境與使用動機？",
+          "answer": {
+            "content": "目標對象:小學生，自動化手寫繁體字的測驗"
+          }
+        },
+        {
+          "key": "8Jad90B9e05hL0CE-02k4G3d",
+          "type": "form-short-answer",
+          "title": "請提供本專案的示意圖或介面設計草圖問題的標題",
+          "answer": {
+            "content": "https://drive.google.com/file/d/18Sltjy3MV_mxMl8A31yX_-2S4qJi6URQ/view?usp=sharing"
+          }
+        },
+        {
+          "key": "27Rkcy04_a055k09Op02oCHcD",
+          "type": "form-long-answer",
+          "title": "你覺得本專案可能會面臨的困難有哪些，你又會如何解決這些困難？",
+          "answer": {
+            "content": "目前專注提高手寫的辨識率，尚未考慮UI，以後可以和現有的識字量網站結合\n本專案結束後，未來可能進一步的發展\n"
+          }
+        },
+        {
+          "key": "Nh9Xk0BeL05zQ0B_M0CBLrX",
+          "type": "form-long-answer",
+          "title": "本專案結束後，未來可能進一步的發展？",
+          "answer": {
+            "content": "朝手寫作文，或手寫注音符號方面的測試發展"
+          }
+        },
+        {
+          "key": "2DpA+T04VR05ED0BZd02-Wr9t",
+          "type": "form-checkbox",
+          "title": "自選三大主題分類",
+          "answer": {
+            "list": [
+              "識字量檢測（Literacy Assessment Test）"
+            ]
+          }
+        },
+        {
+          "key": "4oeXQG0F7X05nm0AH+034EWKL",
+          "type": "form-short-answer",
+          "title": "若有本專案介紹的投影片，請提供。",
+          "answer": {
+            "content": "nothing"
+          }
+        },
+        {
+          "key": "pFOOG0Eyn057k0C6604X1Lsf",
+          "type": "form-long-answer",
+          "title": "你有什麼其他想補充的事情嗎？",
+          "answer": {
+            "content": "no"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "38s4+U0A3m051R0AZJ04tG1Ez",
+      "name": "國中小AI深度學習的教材",
+      "description": "深度學習Deep Learning(DL)將影響台灣未來士農工商的行業甚鉅，本專案針對國中、國小的學生，撰寫一套DL簡介的教材，其重點在於闡述深度學習的概念和應用，符合國中小學生能夠接受的程度。本專案除DL外，還包括程式設計，機械人，和物聯網等簡介. ",
+      "group": "零時小學校 2020 Demo Day",
+      "owner": "kelvin chen",
+      "team": null,
+      "tags": [],
+      "badge": null,
+      "thumb": "img/prj/38s4+U0A3m051R0AZJ04tG1Ez.webp",
+      "createdtime": "2020-07-18T18:33:37.187Z",
+      "fields": [
+        {
+          "key": "t4zr0DpX05Zq0AHo03YZo+3",
+          "type": "form-short-answer",
+          "title": "專案名稱",
+          "answer": {
+            "content": "國中小AI深度學習的教材"
+          }
+        },
+        {
+          "key": "4P+Npj0GRW05Mb0Cye0P21Ng",
+          "type": "form-short-answer",
+          "title": "提案代表人",
+          "answer": {
+            "content": "陳健如"
+          }
+        },
+        {
+          "key": "4C31dv0DnI05aP0ChB0PILyn",
+          "type": "form-short-answer",
+          "title": "提案團隊名稱",
+          "answer": {
+            "content": "永志"
+          }
+        },
+        {
+          "key": "h5YfN06Ps05-l0AeA054_RD",
+          "type": "form-long-answer",
+          "title": "提案團隊簡介",
+          "answer": {
+            "content": "陳健如，從事IT工作約三十年，退休工程師，偏鄉志工"
+          }
+        },
+        {
+          "key": "378Opi0DFr05eI09Ly07+vGO",
+          "type": "form-long-answer",
+          "title": "為什麼要做這個專案？（動機）",
+          "answer": {
+            "content": "非洲迦納科技的發展, 加納的三位年輕創新者正在激勵下一代在科學領域取得成功。\n\nhttps://www.cnn.com/videos/world/2020/01/16/ghana-science-epilepsy-inside-africa.cnn\nhttps://www.bbc.com/news/av/technology-50763356/a-ghanaian-kit-for-teaching-children-science\n"
+          }
+        },
+        {
+          "key": "4-jkrj07Vd05zL0Aot03Tee-N",
+          "type": "form-long-answer",
+          "title": "請以此句型釐清專案目標、受眾與獨特性：問題的標題",
+          "answer": {
+            "content": "為了解決國中以下學生們，遇到要瞭解深夜學習的困難，我的專案提供做到去除複雜邏輯運算的深度學習簡介和應用。我的專案跟市面上大陸或是鴻海不同，他們AI的內容是針對高中以上的學生，因此我的專案具有不可取代性。\n\n2020年三月至八月中旬，本教材已在花蓮和高雄偏鄕一家國中和四家國小教學過，教材雙語並放在GitHub上，不停修改, 盼能更規範化，使DL普及台灣國中、國小。\n\ngithub.com/kienchen/tungli_ai"
+          }
+        },
+        {
+          "key": "4ITd9G04s405JQ0BAm02olt4W",
+          "type": "form-long-answer",
+          "title": "請列出這個計畫的目標對象，他們的需求、情境與使用動機？",
+          "answer": {
+            "content": "國中小學生，瞭解什麼是AI深度學習"
+          }
+        },
+        {
+          "key": "8Jad90B9e05hL0CE-02k4G3d",
+          "type": "form-short-answer",
+          "title": "請提供本專案的示意圖或介面設計草圖問題的標題",
+          "answer": {
+            "content": "https://drive.google.com/file/d/13g1cifXYx5vIWPxDXjKmiYJxG3MpLseL/view?usp=sharing"
+          }
+        },
+        {
+          "key": "27Rkcy04_a055k09Op02oCHcD",
+          "type": "form-long-answer",
+          "title": "你覺得本專案可能會面臨的困難有哪些，你又會如何解決這些困難？",
+          "answer": {
+            "content": "教材中，為提高學生的興緻，要買些簡單的機械人的零件，若某些縣市仍缺乏microbit或arduino，則涉及較多行政事務。行政事務要有其他的志工配合，至於缺乏單板機則要與各地縣市的教育主管單位聯繫"
+          }
+        },
+        {
+          "key": "Nh9Xk0BeL05zQ0B_M0CBLrX",
+          "type": "form-long-answer",
+          "title": "本專案結束後，未來可能進一步的發展？",
+          "answer": {
+            "content": "加強AI深度學習師資培訓\n"
+          }
+        },
+        {
+          "key": "2DpA+T04VR05ED0BZd02-Wr9t",
+          "type": "form-checkbox",
+          "title": "自選三大主題分類",
+          "answer": {
+            "list": [
+              "教育內容（Educational Content）"
+            ]
+          }
+        },
+        {
+          "key": "4oeXQG0F7X05nm0AH+034EWKL",
+          "type": "form-short-answer",
+          "title": "若有本專案介紹的投影片，請提供。",
+          "answer": {
+            "content": "no"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "4q7HGk0COk05aH09VA03L7MTm",
+      "name": "自主規劃生涯手冊",
+      "description": "我們想製作一本供國高中生參考的生涯規劃與探索電子手冊。",
+      "group": "零時小學校 2020 Demo Day",
+      "owner": "rita40529",
+      "team": null,
+      "tags": [],
+      "badge": "short",
+      "thumb": "img/prj/4q7HGk0COk05aH09VA03L7MTm.webp",
+      "createdtime": "2020-07-18T21:15:23.334Z",
+      "fields": [
+        {
+          "key": "t4zr0DpX05Zq0AHo03YZo+3",
+          "type": "form-short-answer",
+          "title": "專案名稱",
+          "answer": {
+            "content": "自主規劃生涯手冊"
+          }
+        },
+        {
+          "key": "4P+Npj0GRW05Mb0Cye0P21Ng",
+          "type": "form-short-answer",
+          "title": "提案代表人",
+          "answer": {
+            "content": "陳思樺"
+          }
+        },
+        {
+          "key": "4C31dv0DnI05aP0ChB0PILyn",
+          "type": "form-short-answer",
+          "title": "提案團隊名稱",
+          "answer": {
+            "content": "Sci-flipper 2020 Group6"
+          }
+        },
+        {
+          "key": "h5YfN06Ps05-l0AeA054_RD",
+          "type": "form-long-answer",
+          "title": "提案團隊簡介",
+          "answer": {
+            "content": "Bess、林素任\n余姵璇、吳佩蓁\n\n需要更多有相關資源的人們共同努力!"
+          }
+        },
+        {
+          "key": "378Opi0DFr05eI09Ly07+vGO",
+          "type": "form-long-answer",
+          "title": "為什麼要做這個專案？（動機）",
+          "answer": {
+            "content": "現今國高中生普遍對於生涯規劃沒有想法，或者有想法但是不知道該如何達成目標，學生可能需要有更多資源協助他們探索，雖然網路上已經有很多相關資源，但是學生可能不知道它們的存在，或是該如何使用，希望可以以hackmd製作一本供台灣的國高中生在做生涯探索與規劃時可以參考的資源電子手冊，然而我們所悉知的資源以及平台仍有限，希望可以有更多人的力量一同將相關資源集結。"
+          }
+        },
+        {
+          "key": "4-jkrj07Vd05zL0Aot03Tee-N",
+          "type": "form-long-answer",
+          "title": "請以此句型釐清專案目標、受眾與獨特性：問題的標題",
+          "answer": {
+            "content": "為了解現今台灣國高中生遇到的生涯選擇困難，我的專案提供各種生涯探索相關資源、資料、平台集結，可以做到讓學生知道該從何著手探索並規劃自己的生涯。我的專案希望能夠匯集現有資源或加入更多，使得生涯探索與規劃資源能夠加全面。"
+          }
+        },
+        {
+          "key": "4ITd9G04s405JQ0BAm02olt4W",
+          "type": "form-long-answer",
+          "title": "請列出這個計畫的目標對象，他們的需求、情境與使用動機？",
+          "answer": {
+            "content": "現今國高中生普遍對於生涯規劃沒有想法，或者有想法但是不知道該如何達成目標，學生可能需要有更多資源協助他們探索，雖然網路上已經有很多相關資源，但是學生可能不知道它們的存在，或是該如何使用。"
+          }
+        },
+        {
+          "key": "8Jad90B9e05hL0CE-02k4G3d",
+          "type": "form-short-answer",
+          "title": "請提供本專案的示意圖或介面設計草圖問題的標題",
+          "answer": {
+            "content": "https://drive.google.com/file/d/1Xk7od7b7YmHnayJ8Xz6xMQrATMn93vFk/view?usp=sharing"
+          }
+        },
+        {
+          "key": "27Rkcy04_a055k09Op02oCHcD",
+          "type": "form-long-answer",
+          "title": "你覺得本專案可能會面臨的困難有哪些，你又會如何解決這些困難？",
+          "answer": {
+            "content": "1. 對於相關資源所知有限\n2. 對於各式各樣的學生需求與興趣，難以符合所有人需求\n解決方式>>希望匯集有志之士一同分享資源"
+          }
+        },
+        {
+          "key": "Nh9Xk0BeL05zQ0B_M0CBLrX",
+          "type": "form-long-answer",
+          "title": "本專案結束後，未來可能進一步的發展？",
+          "answer": {
+            "content": "加入更多相關資源，例如: 線上諮詢輔導、在職人士聯絡問與答、職場體驗與參訪媒合平台....\n\n"
+          }
+        },
+        {
+          "key": "2DpA+T04VR05ED0BZd02-Wr9t",
+          "type": "form-checkbox",
+          "title": "自選三大主題分類",
+          "answer": {
+            "list": [
+              "教育內容（Educational Content）"
+            ]
+          }
+        },
+        {
+          "key": "4oeXQG0F7X05nm0AH+034EWKL",
+          "type": "form-short-answer",
+          "title": "若有本專案介紹的投影片，請提供。",
+          "answer": {
+            "content": "https://hackmd.io/@GLheHjmrQz-kMDE9B4z9tQ/BkH6MIWeD"
+          }
+        },
+        {
+          "key": "pFOOG0Eyn057k0C6604X1Lsf",
+          "type": "form-long-answer",
+          "title": "你有什麼其他想補充的事情嗎？",
+          "answer": {
+            "content": "無"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "4ekZey0EM05ss0AwS04g4-cT",
+      "name": "STEAM教育的挑戰",
+      "description": "源自於我們想要解決不熟悉STEAM的內容，但想要將其理念融入課程並推廣，以滿足其未來的人才需求，提升其國家的競爭力。",
+      "group": "零時小學校 2020 Demo Day",
+      "owner": "hs12456",
+      "team": null,
+      "tags": [],
+      "badge": null,
+      "thumb": "img/prj/4ekZey0EM05ss0AwS04g4-cT.webp",
+      "createdtime": "2020-07-18T21:48:37.837Z",
+      "fields": [
+        {
+          "key": "t4zr0DpX05Zq0AHo03YZo+3",
+          "type": "form-short-answer",
+          "title": "專案名稱",
+          "answer": {
+            "content": "STEAM教育的挑戰"
+          }
+        },
+        {
+          "key": "4P+Npj0GRW05Mb0Cye0P21Ng",
+          "type": "form-short-answer",
+          "title": "提案代表人",
+          "answer": {
+            "content": "陳民峰"
+          }
+        },
+        {
+          "key": "4C31dv0DnI05aP0ChB0PILyn",
+          "type": "form-short-answer",
+          "title": "提案團隊名稱",
+          "answer": {
+            "content": "STEAM優質團隊"
+          }
+        },
+        {
+          "key": "h5YfN06Ps05-l0AeA054_RD",
+          "type": "form-long-answer",
+          "title": "提案團隊簡介",
+          "answer": {
+            "content": "我們是一群由國中和國小組成的團隊，其中包含自然科學與特教背景的在職老師，在此專案中提出各種以環境為範疇的相關課程，依照STEAM設計面向檢核表，配合不同施教的對象，進行跨領域討論，產出相關的課程設計。"
+          }
+        },
+        {
+          "key": "378Opi0DFr05eI09Ly07+vGO",
+          "type": "form-long-answer",
+          "title": "為什麼要做這個專案？（動機）",
+          "answer": {
+            "content": "由於新課綱中，原本在國中自然課程單元「力的作用與方向大小」的內容竟然改到國小自然中年級出現！STEAM的課程教學目前在台灣尚未成熟，教師如何教學？其次如何將STEAM融入正式課程？因此提案想尋求更多有興趣並專業的行家參與專案。"
+          }
+        },
+        {
+          "key": "4-jkrj07Vd05zL0Aot03Tee-N",
+          "type": "form-long-answer",
+          "title": "請以此句型釐清專案目標、受眾與獨特性：問題的標題",
+          "answer": {
+            "content": "為了解決學生學習動機低落遇到的教師教學無助的困難，我的專案提供黃金圈搭配STEAM的課程，可以做到分析STEAM課程融入教學活動。我的專案跟傳統課程，在改善學生學習動機及教師備課歷程不同，因此具有不可取代性。"
+          }
+        },
+        {
+          "key": "4ITd9G04s405JQ0BAm02olt4W",
+          "type": "form-long-answer",
+          "title": "請列出這個計畫的目標對象，他們的需求、情境與使用動機？",
+          "answer": {
+            "content": "1.目標對象：國小、國中師生\n2.需求：原本為分科課程為主，為符合學習需求， 因此強調學科間的連結。\n3.情境：以生活情境帶入教學，並以主題性課程融入各科學科知識，讓學生做中學。\n4.使用動機：打破傳統單一學科講述，以實作方式與跨領域的課程，提升學生學習動機，同時增進教師共同備課的動力。"
+          }
+        },
+        {
+          "key": "8Jad90B9e05hL0CE-02k4G3d",
+          "type": "form-short-answer",
+          "title": "請提供本專案的示意圖或介面設計草圖問題的標題",
+          "answer": {
+            "content": "https://s3-ap-northeast-1.amazonaws.com/g0v-hackmd-images/uploads/upload_2e88be82b324a82d9fbaf0cb73e21f4f.png"
+          }
+        },
+        {
+          "key": "27Rkcy04_a055k09Op02oCHcD",
+          "type": "form-long-answer",
+          "title": "你覺得本專案可能會面臨的困難有哪些，你又會如何解決這些困難？",
+          "answer": {
+            "content": "1. 難以融入正式課程：可以試著跟課程內內容作結合；STEAM融入正式課程可以節省教學時間，但需要更多時間的課程設計。\n2. 備課困難：STEAM可以協同教學，也可以一人教師\u000b然而要先考慮學生的程度與年齡。\n3. 低年級太低、沒有太多的知識與能力背景： STEAM是一種以科學為主、旁及各領域的跨域課程設計精神，力求有、再求多；訂定適合學生能力的學習目標。\n4. 如何推行STEAM的課程：可找有興趣的老師們共備，選擇適合學生學習階段的內容，選取想強調的教學目標，作為教學重點。"
+          }
+        },
+        {
+          "key": "Nh9Xk0BeL05zQ0B_M0CBLrX",
+          "type": "form-long-answer",
+          "title": "本專案結束後，未來可能進一步的發展？",
+          "answer": {
+            "content": "推廣STEAM，並成立STEAM教案的共享平台，資源共享不藏私。"
+          }
+        },
+        {
+          "key": "2DpA+T04VR05ED0BZd02-Wr9t",
+          "type": "form-checkbox",
+          "title": "自選三大主題分類",
+          "answer": {
+            "list": [
+              "教育內容（Educational Content）",
+              "社群經營與基礎建設（Community Management & Infrastructure）"
+            ]
+          }
+        },
+        {
+          "key": "4oeXQG0F7X05nm0AH+034EWKL",
+          "type": "form-short-answer",
+          "title": "若有本專案介紹的投影片，請提供。",
+          "answer": {
+            "content": "https://drive.google.com/file/d/1Hrqmp2kNGQ4ZFjVAqW69p4oSLqxi41Tb/view?usp=sharing"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "3VWQ8m06DW05jP09ve04J5dcB",
+      "name": "識字題庫 Literacy Practices Database",
+      "description": "以機器產生題目並網羅各政府機關提供的識字題目。以萌典結構化資料為基礎，建立供教師、開發者使用，開放授權的識字量題庫。",
+      "group": "零時小學校 2020 Demo Day",
+      "owner": "tmonk",
+      "team": null,
+      "tags": [],
+      "badge": "special",
+      "thumb": "img/prj/3VWQ8m06DW05jP09ve04J5dcB.webp",
+      "createdtime": "2020-07-20T21:58:10.137Z",
+      "fields": [
+        {
+          "key": "t4zr0DpX05Zq0AHo03YZo+3",
+          "type": "form-short-answer",
+          "title": "專案名稱",
+          "answer": {
+            "content": "識字題庫 Literacy Practices Database"
+          }
+        },
+        {
+          "key": "4P+Npj0GRW05Mb0Cye0P21Ng",
+          "type": "form-short-answer",
+          "title": "提案代表人",
+          "answer": {
+            "content": "tmonk"
+          }
+        },
+        {
+          "key": "4C31dv0DnI05aP0ChB0PILyn",
+          "type": "form-short-answer",
+          "title": "提案團隊名稱",
+          "answer": {
+            "content": "識字題庫館"
+          }
+        },
+        {
+          "key": "h5YfN06Ps05-l0AeA054_RD",
+          "type": "form-long-answer",
+          "title": "提案團隊簡介",
+          "answer": {
+            "content": "- 網頁前/後端工程師：建置題庫檢索平台及眾包的協作平台。\n- 文字著作的著作權顧問：協助確認資料集授權，讓專案最後的產出是開放授權的。\n- 華語學習/教育者：依學習/教育所需提供建議、豐富題型。",
+            "useMarkdown": true
+          }
+        },
+        {
+          "key": "378Opi0DFr05eI09Ly07+vGO",
+          "type": "form-long-answer",
+          "title": "為什麼要做這個專案？（動機）",
+          "answer": {
+            "content": "從誠致教育基金會的分享得知識字能力除了影響國語語文能力之外，也很直接的影響學生學習其他學科時的理解能力。\n觀察識字量的教學，即使是不同的學習方式，大多都能拆解成透過不同的題型練習（Practice）來增進，因此有了想建立這樣的資料庫服務自學/教學者。",
+            "useMarkdown": true
+          }
+        },
+        {
+          "key": "4-jkrj07Vd05zL0Aot03Tee-N",
+          "type": "form-long-answer",
+          "title": "請以此句型釐清專案目標、受眾與獨特性：問題的標題",
+          "answer": {
+            "content": "不論是識字量相關的自學、教學或互動遊戲平台，大多仍可以將整個服務拆成一個個題型、題目，以此來推斷對使用者來說，建立豐富的題型與題目是一直存在且耗時的工作。\n我的專案將這個需求獨立開來，試著一次蒐集好建立成資料庫服務所有的使用者。\n為了縮短大家蒐集/發想識字量題目所花費的時間，專案累積的題庫能快速讓使用者查詢，取得所需的題目。",
+            "useMarkdown": true
+          }
+        },
+        {
+          "key": "4ITd9G04s405JQ0BAm02olt4W",
+          "type": "form-long-answer",
+          "title": "請列出這個計畫的目標對象，他們的需求、情境與使用動機？",
+          "answer": {
+            "content": "- 小學國文老師：依想測驗的字詞能快速的搜尋到相對應的題目。\n- 開發教案：開發者能來檢索需要的題目去運用在自己的教案上，並回饋題型豐富題庫。\n- 文字相關遊戲/學習應用的開發者：開發者能來檢索需要的題目去運用在自己的應用程式上，並回饋題型豐富題庫。",
+            "useMarkdown": true
+          }
+        },
+        {
+          "key": "8Jad90B9e05hL0CE-02k4G3d",
+          "type": "form-short-answer",
+          "title": "請提供本專案的示意圖或介面設計草圖問題的標題",
+          "answer": {
+            "content": "https://imgur.com/UrvBnQ1"
+          }
+        },
+        {
+          "key": "27Rkcy04_a055k09Op02oCHcD",
+          "type": "form-long-answer",
+          "title": "你覺得本專案可能會面臨的困難有哪些，你又會如何解決這些困難？",
+          "answer": {
+            "content": "1. 用程式產生的題目很可能會沒有鑑別度（不通順或沒出題邏輯），這部分打算透過眾包的方式請大家針對題目給予回饋精進演算法。\n2. 希望題目不要過時，所使用的資料集需與時俱進、或有「跟得上時代」的特色，g0v 的另一個專案「0archive 零時檔案局」所蒐集的新聞內容是其中一個能滿足特色的資料集。\n3. 使用到的資料集都要詳細確認使用的授權，讓本專案能順利開放授權。",
+            "useMarkdown": true
+          }
+        },
+        {
+          "key": "Nh9Xk0BeL05zQ0B_M0CBLrX",
+          "type": "form-long-answer",
+          "title": "本專案結束後，未來可能進一步的發展？",
+          "answer": {
+            "content": "實做一個最小可行性的應用（例如語言學習平台）。積極取得受眾的回饋來更新演進題型的開發方向。",
+            "useMarkdown": true
+          }
+        },
+        {
+          "key": "2DpA+T04VR05ED0BZd02-Wr9t",
+          "type": "form-checkbox",
+          "title": "自選三大主題分類",
+          "answer": {
+            "list": [
+              "識字量檢測（Literacy Assessment Test）"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "slug": "4VoEDj0CSt05wM0Cqm04GKzCm",
+      "name": "建立自己的線上教室",
+      "description": "目前有很多線上視訊會議軟體，但是能客製自己想要的界面、流程的軟體很少，本提案想要透過 Jitsi 這個開源的線上會議軟體，讓教育現場的老師可以自行建立自己想要的教室，讓學生透過線上上課更能夠有接近實體上課的體驗",
+      "group": "零時小學校 2020 Demo Day",
+      "owner": "Ronny Wang",
+      "team": null,
+      "tags": [],
+      "badge": null,
+      "thumb": "img/prj/4VoEDj0CSt05wM0Cqm04GKzCm.webp",
+      "createdtime": "2020-07-20T23:35:50.974Z",
+      "fields": [
+        {
+          "key": "t4zr0DpX05Zq0AHo03YZo+3",
+          "type": "form-short-answer",
+          "title": "專案名稱",
+          "answer": {
+            "content": "建立自己的線上教室"
+          }
+        },
+        {
+          "key": "4P+Npj0GRW05Mb0Cye0P21Ng",
+          "type": "form-short-answer",
+          "title": "提案代表人",
+          "answer": {
+            "content": "王向榮"
+          }
+        },
+        {
+          "key": "4C31dv0DnI05aP0ChB0PILyn",
+          "type": "form-short-answer",
+          "title": "提案團隊名稱",
+          "answer": {
+            "content": "Ronny Wang"
+          }
+        },
+        {
+          "key": "h5YfN06Ps05-l0AeA054_RD",
+          "type": "form-long-answer",
+          "title": "提案團隊簡介",
+          "answer": {
+            "content": "程式設計師，有透過 Jitsi 開發過 2D 線上聊天室軟體 https://g0v.github.io/2d-online-chat/"
+          }
+        },
+        {
+          "key": "378Opi0DFr05eI09Ly07+vGO",
+          "type": "form-long-answer",
+          "title": "為什麼要做這個專案？（動機）",
+          "answer": {
+            "content": "因為疫情讓線上會議協作需求越來越強烈，而老師們往往受限於現有軟體限制而很難順暢使用，希望透過此專案讓老師更容易建立符合自行需求的線上會議或教室"
+          }
+        },
+        {
+          "key": "4-jkrj07Vd05zL0Aot03Tee-N",
+          "type": "form-long-answer",
+          "title": "請以此句型釐清專案目標、受眾與獨特性：問題的標題",
+          "answer": {
+            "content": "為了解決老師遇到的線上授課困難，我的專案提供自訂會議功能，可以做到符合老師上課需求的線上教室。我的專案跟 Zoom 、Google Meet 在界面的客製上不同，因此具有不可取代性。"
+          }
+        },
+        {
+          "key": "4ITd9G04s405JQ0BAm02olt4W",
+          "type": "form-long-answer",
+          "title": "請列出這個計畫的目標對象，他們的需求、情境與使用動機？",
+          "answer": {
+            "content": "老師：想要線上授課，但又希望能有一些客製情境（Ex: 平常學生不能說話，但是在老師點到同學發問時要能夠讓學生發言。學生可以舉手，老師可以看到點起來說話），可以透過自己課程建立自己需要的線上教室"
+          }
+        },
+        {
+          "key": "8Jad90B9e05hL0CE-02k4G3d",
+          "type": "form-short-answer",
+          "title": "請提供本專案的示意圖或介面設計草圖問題的標題",
+          "answer": {
+            "content": "https://g0v.hackmd.io/D85FTYnaT-KsNAB4auw2pA?edit"
+          }
+        },
+        {
+          "key": "27Rkcy04_a055k09Op02oCHcD",
+          "type": "form-long-answer",
+          "title": "你覺得本專案可能會面臨的困難有哪些，你又會如何解決這些困難？",
+          "answer": {
+            "content": "本專案的困難在於自訂教室的流程是否容易到老師能夠短時間學會使用\n\n解決方式會多採取一些 workshop 來讓老師或使用者能具體自己製作教室"
+          }
+        },
+        {
+          "key": "Nh9Xk0BeL05zQ0B_M0CBLrX",
+          "type": "form-long-answer",
+          "title": "本專案結束後，未來可能進一步的發展？",
+          "answer": {
+            "content": "可以用在除了教室以外更多的情境，例如線上分享會、討論會、演講等\n另外也可以讓老師分享自己做出來的教室，讓其他老師可以重覆使用或是以其為基礎再改造使用"
+          }
+        },
+        {
+          "key": "2DpA+T04VR05ED0BZd02-Wr9t",
+          "type": "form-checkbox",
+          "title": "自選三大主題分類",
+          "answer": {
+            "list": [
+              "遠距教學解決方案（Solution of Distance Learing）"
+            ]
+          }
+        },
+        {
+          "key": "pFOOG0Eyn057k0C6604X1Lsf",
+          "type": "form-long-answer",
+          "title": "你有什麼其他想補充的事情嗎？",
+          "answer": {
+            "content": "目前本專案也有在 g0v summit 有投稿 workshop "
+          }
+        }
+      ]
+    },
+    {
+      "slug": "5UfId0Gr905-T0Cw70E6Akj",
+      "name": "Kunanum垃圾美景修圖及地圖導覽",
+      "description": "1. 使用者提供有垃圾的美景照片, 透過媒合可協助將照片背景垃圾移除, 並且上傳社群引起話題. （參考提案縮圖：開心和垃圾拍照）\n2.  收集垃圾地圖點越多將引起關注, 會間接影響政府及當地居民重視自主保護環境.  \n3.  全民,小商家都能加入支持鼓勵Volunteer \n",
+      "group": "零時小學校 2020 Demo Day",
+      "owner": "游東承",
+      "team": null,
+      "tags": [],
+      "badge": null,
+      "thumb": "img/prj/5UfId0Gr905-T0Cw70E6Akj.webp",
+      "createdtime": "2020-07-22T02:34:59.894Z",
+      "fields": [
+        {
+          "key": "t4zr0DpX05Zq0AHo03YZo+3",
+          "type": "form-short-answer",
+          "title": "專案名稱",
+          "answer": {
+            "content": "Kunanum垃圾美景修圖及地圖導覽"
+          }
+        },
+        {
+          "key": "4P+Npj0GRW05Mb0Cye0P21Ng",
+          "type": "form-short-answer",
+          "title": "提案代表人",
+          "answer": {
+            "content": "游東承"
+          }
+        },
+        {
+          "key": "4C31dv0DnI05aP0ChB0PILyn",
+          "type": "form-short-answer",
+          "title": "提案團隊名稱",
+          "answer": {
+            "content": "Ku-nanum 真正的水"
+          }
+        },
+        {
+          "key": "h5YfN06Ps05-l0AeA054_RD",
+          "type": "form-long-answer",
+          "title": "提案團隊簡介",
+          "answer": {
+            "content": "<h4>成員:</h4>\n游東承 Barry Yu（全端工程師助理  PM助理 , 業務 ,免費提供精緻手沖咖啡） \n\n<h4>第一階段：</h4>\n1.需要媒體行銷人員, 因為議題需要被關注, 可以用那些工具. \n2.需要媒體行銷人員, 可以協助洽談重視環保組職及重視環保的媒體關注人\n3.需要修照片編輯技能 , 可以修網美照片和垃圾照片做比較. 希望有專業拍攝者加入\n\n<h4>第二階段：</h4>建立社群關係平台, 設計遊戲及推廣方案,  尋找新議題\n1. 需要ＰＭ人員 , 因為需要懂平台開發流程 \n2. 需要前端工程師（包含我 , 因為開始要有個網頁平台. \n3. 需要媒體行銷專長, 可以更多行銷方式推廣議題和環境保護教育延伸更低年齡層\n\n<h4>第三階段：</h4>編制垃圾地圖導覽 （可參考環保局淨灘地圖）\n前端＆後端工程師 \n尋找居民, 小商家合作 \n如：當地居民給予志工們, 提供免費餐點, 午餐, 飲料 幫助, \n讓參與改善環境團體及個人, 可以獲取身份感動, 贊助鼓勵, 榮譽感\n\n雖然是提專案人, 但更重視團隊合作 , 我在團隊裡永遠是個夥伴角色. 沖咖啡小弟\n重視樂於分享,  參與社交活動 ,  過有使命的生活 .\n\n先讓心靈有財富, 才能為真正生活財富做準備. ",
+            "useMarkdown": true
+          }
+        },
+        {
+          "key": "378Opi0DFr05eI09Ly07+vGO",
+          "type": "form-long-answer",
+          "title": "為什麼要做這個專案？（動機）",
+          "answer": {
+            "content": " <h5> 將來會更少人去關注垃圾髒亂問題</h5>\n1.高雄西子灣去欣賞號稱台灣最美夕陽海岸線,  但照片上垃圾多 .最後透過軟體修圖, 讓垃圾都沒有了.能靠修圖而來.  \n\n<h5>環境新聞不被群眾關注. </h5>\n2.非常小篇幅報導在海拔非常高的七彩湖 ‘ 僅開放一年, 就出現『大量垃圾』,偉大辛苦的布農族原住民去清理垃圾 . 無法改善. \n\n<h5>新志工體驗不會參加第二次</h5>\n3.參加過‘一次福隆淨灘 , 好多垃圾, 超熱 , 曬黑, 很累 ! 會再去參加第二次？  \n答案: 不會. 因為我家都不會去淨了, 還去幫你們淨.  \n<p> </p>\n<h5>政府單位執行無法彈性</h5>\n4.當環保局也有類似支持志工想法, 如：志工贊助 ,異業合作,  地圖淨灘認領. 可是成效不好.  \n（因為政府單位本來彈性是不夠, 所以要依靠民間 is Kunanum  ）\n",
+            "useMarkdown": true
+          }
+        },
+        {
+          "key": "4-jkrj07Vd05zL0Aot03Tee-N",
+          "type": "form-long-answer",
+          "title": "請以此句型釐清專案目標、受眾與獨特性：問題的標題",
+          "answer": {
+            "content": "<h3>該如何從『 從根本解決'我隨意製造垃圾 』的惡性循環？</h3>\n\n<h4>專案的功能：</h4>\n1. 搭起互惠平台及反諷推廣方式, 引起社群關注及建立強勁行銷推廣團隊. \n    <p>1-1. 反諷方式： 用網美照反諷方式, 引起年輕族群去關注.\n    <p>1-2.  互惠平台： 讓每一環節群體,都有循環關係達到持續營運\n    <p>\n2. 社群平台網站：收集社群上每一位參與社群風潮,秀出最美垃圾美景照的網友.   \n       <p>2-1. 公開垃圾地圖的位置. \n        <p>2-2. 不同社群及族群間能建立連結關係. \n        <p>\n\n3. 建立主動提供援助保護環境制度\n     <p>3-1. 透過平台讓volunteer 和 當地居民建立關係, 主動給予幫助和支持. \n     <p>3-2. 透過平台讓volunteer 和 當地商家建立關係 , 主動給予幫助和支持.</p>\n   <p> </p>\n\n4. 解決政府環保資訊的推動無法彈性的部分：\n     <p>4-1.  不同社群間透過平台互動, 取代政府與社群的平台角色 \n     <p>4-2.  減輕政府在推廣宣導的財政經費,轉為實質幫助-社群平台發展. \n\n<h4>專案要傳達的內容：</h4>\n1. 當你土地被自己守護很辛苦,  自然地去別人區域享受美景也會感同身受.也較不會造成別人環境污染.  \n2. Volunteer吃不飽得不到感動的時候, 也會有疲態感.  \n\n<h4>專案最終目標</h4>\n1.\t減輕volunteer 負擔,\n2.\t給予volunteer 榮耀感\n3.\t全民參與 , 不隨意給別人家製造垃圾\n4.     建立互惠關係, 循環越多影響就會更多\n\n\n\n<h4>獨特性:</h4>\n1. 為解決使用者的風景照片出現垃圾, 免費修圖. \n<p></p>\n2. 用比較照片的前後差異.在反諷方式SHOＷ在社群平台. \n<p></p>\n2. 我的專案是媒合提供人工修圖技能服務, 回饋給提供垃圾圖的社群朋友\n<p></p>\n3. 社群參與者 , 如：志工, 提供照片者 , 編修照片者 , 提供贊助商家及居民, \n 透過參與可得到某些獎勵幫助及獲得第三方團體贊助支持. 為達到持續互惠的循環關係. \n\n徽章識別,  臨時硬幣 ,  社群議題給予鼓勵,  （假設性方式）\n\n讓保護議題的宣導工具 , 是有趣有意義的互動工具, 吸引年輕人加入.  \n\n這是趨勢未來可以到全世界使用. \n\n\n<<<某句話有彩蛋 , 找到它聯絡我請你喝咖啡限一位>>>",
+            "useMarkdown": true
+          }
+        },
+        {
+          "key": "4ITd9G04s405JQ0BAm02olt4W",
+          "type": "form-long-answer",
+          "title": "請列出這個計畫的目標對象，他們的需求、情境與使用動機？",
+          "answer": {
+            "content": "<h4>目標對象 </h4>   \n普通使用者 ：需求修改美景圖,重視社群話題\n郊外遊玩的使用者 ：需求修改美景圖, 重視社群話題, 環保\n美編技術者：提供修圖美編技術, 公開垃圾點, 專案人員 ,  voulunteer\n對社群制度有興趣者：可主動透過公布垃圾清單獲取積分, 累積成就和榮耀感, 使命感 \n\n<h4>提醒關注方：</h4>志願工清潔 , 新聞媒體 ,社群FB\n   1. 志願工清潔 : 知道那邊有垃圾去執行.  (希望能延伸城市,住宅區及更多地方 ）.  \n2. 新聞媒體 ：將垃圾美景圖公佈報章 . 幫助政府單位更強而有力的執行.  \n\n<h4>宣導被關注方：</h4>政府單位, 附近居民, 關係人 , \n1. 政府單位看到公佈出來美景有很多垃圾, 主動去改善. 讓行政效率提高, \n2. 附近住民被動關注垃圾議題, 變為主動關注垃圾議題, \n\n\n<h4>支持贊助方：</h4>\n當全民共識有了以後. 住民 , 商家 , 企業 皆可以加入贊助. \n\n如果是您是一位福隆賣便當商家, 為了感謝保護環境志願工,  也許提供個便當優惠也是環境保護的支持. \n<h5>親愛的各位, 你們應該知道我的意思吧？<h5>\n<p><h5>志工雖然是不求報酬. 但也不是理所當然. </h5></P>\n\n<P> </P>\n\n\n",
+            "useMarkdown": true
+          }
+        },
+        {
+          "key": "8Jad90B9e05hL0CE-02k4G3d",
+          "type": "form-short-answer",
+          "title": "請提供本專案的示意圖或介面設計草圖問題的標題",
+          "answer": {
+            "content": "https://i.ibb.co/hVT1mnt/Screen-Shot-2020-07-24-at-9-24-35-AM.png"
+          }
+        },
+        {
+          "key": "27Rkcy04_a055k09Op02oCHcD",
+          "type": "form-long-answer",
+          "title": "你覺得本專案可能會面臨的困難有哪些，你又會如何解決這些困難？",
+          "answer": {
+            "content": "前期： \nPM\n專業行銷建議 , \n人工美編照片\n環保團體組織支持\n\n中期目標：\n架設網站,  社群平台 , \n\n後期\n需要創意想法, 讓vouluteer 獎勵機制 => 身份認定的方式 \n\n業務協談：\n被關注方支持及第三團體贊助 ＝>  有使命感 ＝>傳承\n\n第三方資助：\n第三方贊助 ,  及推廣其他國使用 , \n能持續循環這個模式,  並發展更多應用. \n\n",
+            "useMarkdown": true
+          }
+        },
+        {
+          "key": "Nh9Xk0BeL05zQ0B_M0CBLrX",
+          "type": "form-long-answer",
+          "title": "本專案結束後，未來可能進一步的發展？",
+          "answer": {
+            "content": "加強功能是在分享垃圾美景照片, 同時會公佈在社群平台及 “ APP地圖上” . \n讓同樣模組套用在不同情境上, 媒體資訊爆炸的年代,  很多事情被過度美化行銷而看不見真正本體.  我希望把這個打敗！\n\n透過互惠方式在社群間持續循環, 因此能增加關注度.  ‘\n如果大成功將希望進一步透過募資方式打造更好的更完善模式. \n\n“OpenSoure “   在這個平台模式可以運用在很多地方. \n\n",
+            "useMarkdown": true
+          }
+        },
+        {
+          "key": "2DpA+T04VR05ED0BZd02-Wr9t",
+          "type": "form-checkbox",
+          "title": "自選三大主題分類",
+          "answer": {
+            "list": [
+              "社群經營與基礎建設（Community Management & Infrastructure）",
+              "教育內容（Educational Content）"
+            ],
+            "other": true,
+            "otherValue": "正確解決根本, 傳承下一代使命"
+          }
+        },
+        {
+          "key": "pFOOG0Eyn057k0C6604X1Lsf",
+          "type": "form-long-answer",
+          "title": "你有什麼其他想補充的事情嗎？",
+          "answer": {
+            "content": "<h3></h3>\n 我最近在學習全端工程師,  ' 最近積極投遞履歷 ' ,  希望去企業實習, 但是因經驗不足和超過29歲, 不符合勞動部興雇用企業實習條件, 某個新創來信告知並建議我去黑客松及open soure ,  懞懞懂懂的去爬文什麼是黑客松 ,  過程中讓我看到零時小學校 , 這有非常棒的提案計畫 , 當時是07 / 22 時間真的不足夠讓我去完善更多內容, 方面請多見諒.  \n\n<h3>願景</h3>\n這平台是類似於Twitter社群模式, 我將它結合有互惠架構下, 讓未來是可以一直循環營運及延伸更多應用,  而且這個架構也許能套用更多創意想法, \n<h4>想想看 twitter 如何在歐美及日韓變成每個人的話題工具</h4>\n同意我會像twitter一樣成長, 加入我的共筆：<p>\nhttps://g0v.hackmd.io/6fs1VICsTxmbjvpoH-IEwA?both\n<h3>聯絡方式</h3>\n歡迎合作或給予職業工作機會也可以聯絡. \n<p>Mail : doung1118@gmail.com </p>\nResume (CV) :  https://www.cakeresume.com/doung1118  \n",
+            "useMarkdown": true
+          }
+        }
+      ]
+    },
+    {
+      "slug": "2dFiP-043D05fj09--0syDKn",
+      "name": "AIoTeaching 派派同學",
+      "description": "一個可快速佈建於配備單槍及資訊講桌的一般教室的遠距教學視訊應用及更多智慧教育情境應用想像的AIoTeaching，透過樹莓派AIY裝置串接教學現場進行協同教學，故名為「AIoTeaching 派派同學」。",
+      "group": "零時小學校 2020 Demo Day",
+      "owner": "x1001000",
+      "team": null,
+      "tags": [],
+      "badge": null,
+      "thumb": "img/prj/2dFiP-043D05fj09--0syDKn.webp",
+      "createdtime": "2020-07-24T19:35:39.470Z",
+      "fields": [
+        {
+          "key": "t4zr0DpX05Zq0AHo03YZo+3",
+          "type": "form-short-answer",
+          "title": "專案名稱",
+          "answer": {
+            "content": "AIoTeaching 派派同學"
+          }
+        },
+        {
+          "key": "4P+Npj0GRW05Mb0Cye0P21Ng",
+          "type": "form-short-answer",
+          "title": "提案代表人",
+          "answer": {
+            "content": "十百千"
+          }
+        },
+        {
+          "key": "4C31dv0DnI05aP0ChB0PILyn",
+          "type": "form-short-answer",
+          "title": "提案團隊名稱",
+          "answer": {
+            "content": "十百千實驗室"
+          }
+        },
+        {
+          "key": "h5YfN06Ps05-l0AeA054_RD",
+          "type": "form-long-answer",
+          "title": "提案團隊簡介",
+          "answer": {
+            "content": "十百千，當過老師，目前一人團隊。"
+          }
+        },
+        {
+          "key": "378Opi0DFr05eI09Ly07+vGO",
+          "type": "form-long-answer",
+          "title": "為什麼要做這個專案？（動機）",
+          "answer": {
+            "content": "實驗。"
+          }
+        },
+        {
+          "key": "4-jkrj07Vd05zL0Aot03Tee-N",
+          "type": "form-long-answer",
+          "title": "請以此句型釐清專案目標、受眾與獨特性：問題的標題",
+          "answer": {
+            "content": "為了解決教學現場閉門教造車的問題，我的專案以現成單槍接派派同學，可以做到隨插即用。我的專案跟用筆電視訊，在視角及更多情境應用不同，因此具有不可取代性。"
+          }
+        },
+        {
+          "key": "4ITd9G04s405JQ0BAm02olt4W",
+          "type": "form-long-answer",
+          "title": "請列出這個計畫的目標對象，他們的需求、情境與使用動機？",
+          "answer": {
+            "content": "想嘗試 Open Classroom 和 Social Learning 的學校教師社群。"
+          }
+        },
+        {
+          "key": "8Jad90B9e05hL0CE-02k4G3d",
+          "type": "form-short-answer",
+          "title": "請提供本專案的示意圖或介面設計草圖問題的標題",
+          "answer": {
+            "content": "https://aiyprojects.withgoogle.com/static/images/vision-v2/product_vision@1x.png"
+          }
+        },
+        {
+          "key": "27Rkcy04_a055k09Op02oCHcD",
+          "type": "form-long-answer",
+          "title": "你覺得本專案可能會面臨的困難有哪些，你又會如何解決這些困難？",
+          "answer": {
+            "content": "沒有想嘗試 Open Classroom 和 Social Learning 的學校教師社群。"
+          }
+        },
+        {
+          "key": "Nh9Xk0BeL05zQ0B_M0CBLrX",
+          "type": "form-long-answer",
+          "title": "本專案結束後，未來可能進一步的發展？",
+          "answer": {
+            "content": "教學現場語音數據收集。"
+          }
+        },
+        {
+          "key": "2DpA+T04VR05ED0BZd02-Wr9t",
+          "type": "form-checkbox",
+          "title": "自選三大主題分類",
+          "answer": {
+            "list": [
+              "遠距教學解決方案（Solution of Distance Learing）",
+              "社群經營與基礎建設（Community Management & Infrastructure）"
+            ]
+          }
+        },
+        {
+          "key": "pFOOG0Eyn057k0C6604X1Lsf",
+          "type": "form-long-answer",
+          "title": "你有什麼其他想補充的事情嗎？",
+          "answer": {
+            "content": "預計跟跨校教師團隊「愛思客」及教學ｅ化廠商「捷達」提案合作。"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "3UfZN402G205ov0CO104l+vAs",
+      "name": "繁體中文 CC0 句庫",
+      "description": "搜集整理無版權限制的繁體中文句子，建立CC0授權、不限定任何用途的資料庫，作為中文相關專案的基礎建設：  https://github.com/irvin/cc0-sentences/",
+      "group": "零時小學校 2020 Demo Day",
+      "owner": "cc0-sentences",
+      "team": null,
+      "tags": [],
+      "badge": "winner",
+      "thumb": "img/prj/3UfZN402G205ov0CO104l+vAs.webp",
+      "createdtime": "2020-07-24T20:23:49.808Z",
+      "fields": [
+        {
+          "key": "t4zr0DpX05Zq0AHo03YZo+3",
+          "type": "form-short-answer",
+          "title": "專案名稱",
+          "answer": {
+            "content": "繁體中文 CC0 句庫"
+          }
+        },
+        {
+          "key": "4P+Npj0GRW05Mb0Cye0P21Ng",
+          "type": "form-short-answer",
+          "title": "提案代表人",
+          "answer": {
+            "content": "Irvin Chen"
+          }
+        },
+        {
+          "key": "4C31dv0DnI05aP0ChB0PILyn",
+          "type": "form-short-answer",
+          "title": "提案團隊名稱",
+          "answer": {
+            "content": "CC0 中文句庫"
+          }
+        },
+        {
+          "key": "h5YfN06Ps05-l0AeA054_RD",
+          "type": "form-long-answer",
+          "title": "提案團隊簡介",
+          "answer": {
+            "content": "Irvin - 提案者、專案協調人\n\n徵求成員：\n- 程式：寫 node.js script 進行統計與分析\n- 打字：把 CC0 來源文本整理彙整放入句庫",
+            "useMarkdown": true
+          }
+        },
+        {
+          "key": "378Opi0DFr05eI09Ly07+vGO",
+          "type": "form-long-answer",
+          "title": "為什麼要做這個專案？（動機）",
+          "answer": {
+            "content": "Mozilla 在 2017 年發起 Common Voice 專案，計畫收集世界上各語言的錄音，建立 CC0 語音資料庫，提供語音辨識、語音合成等 AI 相關專案運用。因此我們開始搜集無版權限制的句子，以提供台灣人錄音，衍生成為 CC0 中文句庫的專案。"
+          }
+        },
+        {
+          "key": "4-jkrj07Vd05zL0Aot03Tee-N",
+          "type": "form-long-answer",
+          "title": "請以此句型釐清專案目標、受眾與獨特性：問題的標題",
+          "answer": {
+            "content": "為了解決任何繁體中文相關的專案遇到的「沒有無版權限制的繁體中文語句文本資料庫」的困難，我的專案提供「大量無版權問題的繁體中文句子」，可以做到「不受任何限制的運用」。我的專案跟「現有的任何繁體文本資料庫」，在「版權限制」（市面上的文本資料庫均使用「非商業性」或「限學術使用」授權）上不同，因此具有不可取代性。"
+          }
+        },
+        {
+          "key": "4ITd9G04s405JQ0BAm02olt4W",
+          "type": "form-long-answer",
+          "title": "請列出這個計畫的目標對象，他們的需求、情境與使用動機？",
+          "answer": {
+            "content": "- 收集語音的專案： 運用本資料庫提供的句子進行錄音\n- 教育應用相關專案： 運用本資料庫的句子於考卷、測驗⋯⋯\n- 字典 / 語言學領域相關專案： 以本資料庫的句子作為例句，作語言學研究分析素材⋯⋯\n- UX 相關專案： 以本資料庫的句子作為假文素材⋯⋯\n\n還有許許多多的應用方式",
+            "useMarkdown": true
+          }
+        },
+        {
+          "key": "8Jad90B9e05hL0CE-02k4G3d",
+          "type": "form-short-answer",
+          "title": "請提供本專案的示意圖或介面設計草圖問題的標題",
+          "answer": {
+            "content": "https://imgur.com/kr494Sd"
+          }
+        },
+        {
+          "key": "27Rkcy04_a055k09Op02oCHcD",
+          "type": "form-long-answer",
+          "title": "你覺得本專案可能會面臨的困難有哪些，你又會如何解決這些困難？",
+          "answer": {
+            "content": "整理句子的人工問題：需要更多人投入整理文本\n\n建立流程與招募更多關心本問題的成員，定期舉辦 workshop 進行整理；與其他應用本資料庫的相關專案（例如 Mozilla Common Voice）合作，相輔相成互相推廣。",
+            "useMarkdown": true
+          }
+        },
+        {
+          "key": "Nh9Xk0BeL05zQ0B_M0CBLrX",
+          "type": "form-long-answer",
+          "title": "本專案結束後，未來可能進一步的發展？",
+          "answer": {
+            "content": "開始收集台語文 & 原住民語文。"
+          }
+        },
+        {
+          "key": "2DpA+T04VR05ED0BZd02-Wr9t",
+          "type": "form-checkbox",
+          "title": "自選三大主題分類",
+          "answer": {
+            "list": [
+              "社群經營與基礎建設（Community Management & Infrastructure）"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "slug": "4RefOj03eG05ru0Atf04f37Ef",
+      "name": "利用智慧音箱建立自然的非母語環境",
+      "description": "藉由人工智能建構自然互動的語言學習環境",
+      "group": "零時小學校 2020 Demo Day",
+      "owner": "A03",
+      "team": null,
+      "tags": [],
+      "badge": null,
+      "thumb": "img/prj/4RefOj03eG05ru0Atf04f37Ef.webp",
+      "createdtime": "2020-07-25T01:35:09.787Z",
+      "fields": [
+        {
+          "key": "t4zr0DpX05Zq0AHo03YZo+3",
+          "type": "form-short-answer",
+          "title": "專案名稱",
+          "answer": {
+            "content": "利用智慧音箱建立自然的非母語環境"
+          }
+        },
+        {
+          "key": "4P+Npj0GRW05Mb0Cye0P21Ng",
+          "type": "form-short-answer",
+          "title": "提案代表人",
+          "answer": {
+            "content": "史美延"
+          }
+        },
+        {
+          "key": "4C31dv0DnI05aP0ChB0PILyn",
+          "type": "form-short-answer",
+          "title": "提案團隊名稱",
+          "answer": {
+            "content": "螢火燎原"
+          }
+        },
+        {
+          "key": "h5YfN06Ps05-l0AeA054_RD",
+          "type": "form-long-answer",
+          "title": "提案團隊簡介",
+          "answer": {
+            "content": "史美延-專案經理\n徵求:\n全端工程師、顧問\n"
+          }
+        },
+        {
+          "key": "378Opi0DFr05eI09Ly07+vGO",
+          "type": "form-long-answer",
+          "title": "為什麼要做這個專案？（動機）",
+          "answer": {
+            "content": "語言教學時常強調自然互動的語言學習環境，建置完整仿造之國外場景，若缺乏 native speaker 與學習者同時投入情境，建置外語環境終究僅是南柯一夢。\nnative speaker 若能使用智能音箱隨時待命、即時反饋，必有助於語言學習。\n",
+            "useMarkdown": true
+          }
+        },
+        {
+          "key": "4-jkrj07Vd05zL0Aot03Tee-N",
+          "type": "form-long-answer",
+          "title": "請以此句型釐清專案目標、受眾與獨特性：問題的標題",
+          "answer": {
+            "content": "「為了解決（學生）遇到的（學習語言口語化）困難，我的專案提供（情境式語言互動），可以做到（native speaking）。我的專案跟（一般語言教學），在（缺乏提供正確且多變的對話者），因此具有不可取代性。」"
+          }
+        },
+        {
+          "key": "4ITd9G04s405JQ0BAm02olt4W",
+          "type": "form-long-answer",
+          "title": "請列出這個計畫的目標對象，他們的需求、情境與使用動機？",
+          "answer": {
+            "content": "學習各種語言的學習者，從建立語言思考取代閱讀式語言學習"
+          }
+        },
+        {
+          "key": "8Jad90B9e05hL0CE-02k4G3d",
+          "type": "form-short-answer",
+          "title": "請提供本專案的示意圖或介面設計草圖問題的標題",
+          "answer": {
+            "content": "https://mega.nz/file/mKw3VbpQ#urbevVo17xh2VQq71Nl22Bg2bLHIKmqgjLRnI_R11dg"
+          }
+        },
+        {
+          "key": "27Rkcy04_a055k09Op02oCHcD",
+          "type": "form-long-answer",
+          "title": "你覺得本專案可能會面臨的困難有哪些，你又會如何解決這些困難？",
+          "answer": {
+            "content": "如何調控音箱指向性學習課程內容?\n音箱是否能夠掌握並有效配合不同程度的學習者?\n\n",
+            "useMarkdown": true
+          }
+        },
+        {
+          "key": "Nh9Xk0BeL05zQ0B_M0CBLrX",
+          "type": "form-long-answer",
+          "title": "本專案結束後，未來可能進一步的發展？",
+          "answer": {
+            "content": "進入校園供學生學習語言口說使用",
+            "useMarkdown": true
+          }
+        },
+        {
+          "key": "2DpA+T04VR05ED0BZd02-Wr9t",
+          "type": "form-checkbox",
+          "title": "自選三大主題分類",
+          "answer": {
+            "list": [
+              "遠距教學解決方案（Solution of Distance Learing）",
+              "識字量檢測（Literacy Assessment Test）",
+              "教育內容（Educational Content）"
+            ]
+          }
+        },
+        {
+          "key": "4oeXQG0F7X05nm0AH+034EWKL",
+          "type": "form-short-answer",
+          "title": "若有本專案介紹的投影片，請提供。",
+          "answer": {
+            "content": "無"
+          }
+        },
+        {
+          "key": "pFOOG0Eyn057k0C6604X1Lsf",
+          "type": "form-long-answer",
+          "title": "你有什麼其他想補充的事情嗎？",
+          "answer": {
+            "content": "本提案希望試用於欠缺雙語教師的小學",
+            "useMarkdown": true
+          }
+        }
+      ]
+    },
+    {
+      "slug": "4CxLfQ07Wl058V0CUt04ISQfB",
+      "name": "椅子站起來，我們坐下來－從再造校園廢棄桌椅認識身體與環境",
+      "description": "政府機關常淘汰清運仍可用的資源，本計畫建立循環資源模板，進行跨校、組織的多元領域合作。依需求設計串連在地社區，並結合環境藝術教育課程，帶入身體與環境探索、解構再製，協力設計製成學校、社區共用的街道家具。並建構淘汰共享清單、公開開源教案及成果設計圖，分享資源，轉化再生，讓資源從塵埃中再次組成站起來！",
+      "group": "零時小學校 2020 Demo Day",
+      "owner": "ketingchen",
+      "team": null,
+      "tags": [],
+      "badge": "short",
+      "thumb": "img/prj/4CxLfQ07Wl058V0CUt04ISQfB.webp",
+      "createdtime": "2020-07-25T07:07:57.607Z",
+      "fields": [
+        {
+          "key": "t4zr0DpX05Zq0AHo03YZo+3",
+          "type": "form-short-answer",
+          "title": "專案名稱",
+          "answer": {
+            "content": "椅子站起來，我們坐下來－從再造校園廢棄桌椅認識身體與環境"
+          }
+        },
+        {
+          "key": "4P+Npj0GRW05Mb0Cye0P21Ng",
+          "type": "form-short-answer",
+          "title": "提案代表人",
+          "answer": {
+            "content": "陳科廷"
+          }
+        },
+        {
+          "key": "4C31dv0DnI05aP0ChB0PILyn",
+          "type": "form-short-answer",
+          "title": "提案團隊名稱",
+          "answer": {
+            "content": "採集人共作室"
+          }
+        },
+        {
+          "key": "h5YfN06Ps05-l0AeA054_RD",
+          "type": "form-long-answer",
+          "title": "提案團隊簡介",
+          "answer": {
+            "content": "＜陳科廷＞專案經理。新北市坪林人，推動、執行「採集人共作室」及「坪林故事採集計畫」，搭建社區及校方的橋樑，透過整合內外部社區資源，採集合適人才配合共作執行，導入在地學校，轉化建構成地方知識系統，並將產出洄流社區，循環共生。\n\n　　＜黃筠淇＞建築身體與環境課程設計與執行。建築與藝術背景出身的雜食創作者，參與紐約市多項生態藝術相關展覽、裝置藝術、公共藝術與活動之策劃與執行。創作類型包括空間裝置藝術、展覽空間規劃、藝術工作坊策劃執行、平面設計／插畫、網站設計。\n\n　　＜余秉澤＞多功展櫃工作坊設計與執行。無界塾實驗機構高二生，自認為是一個不愛讀書、不愛文字，只愛手作、木工、畫圖的叛逆小孩 ，只願意做著自己喜歡做的事 。一個信念讓他不管再累都持續做著手作：「雖然有時候做東西做到十分疲憊、崩潰但至少是在做自己喜歡的事」。\n\n　　＜徵求淘汰物資分享平台建構設計人，讓各單位可以提前宣布將淘汰的資源，也減少清運經費及資源浪費。＞\n"
+          }
+        },
+        {
+          "key": "378Opi0DFr05eI09Ly07+vGO",
+          "type": "form-long-answer",
+          "title": "為什麼要做這個專案？（動機）",
+          "answer": {
+            "content": "學校利用暑假期間修整校園空間，清出很多廢棄的原木課桌椅，本將全數拆毀做廢棄物清運。近年團隊與在地學校、社區、及外部單位合作，配合設計新北坪林國中的實驗永續課程，又正好團隊與無界塾實驗機構合作的「議題討論：社會實作」課程，學生進入社區發現問題後共同提案，希望於公共空間製作街道家具，更可善加利用此批材料，接下來實際執行的木工作坊，正好也配合坪中推動的環境教育與地方共創課程，讓學校、社區參與實現更好的資源循環。\n同時也希望讓學生利用廢棄物思考日常生活用品的形成過程，從實作中認識在熟悉的資本主義下，工業量產的製品外其他製造物件的方式和可能，藉由「依自身或特殊需求而做的設計」培養對於自身與環境尺度的認識，近一步培養對於物件與空間的敏感度。\n加上盤點各單位要淘汰的物件，成為線上分享平台，有需求的非營利者可以交流使用，也引導學生一起思考與參與平台運作，讓不被需要的資源重新被需要，也藉由學生或校方自發性傳承，讓平台可以被永續經營。"
+          }
+        },
+        {
+          "key": "4-jkrj07Vd05zL0Aot03Tee-N",
+          "type": "form-long-answer",
+          "title": "請以此句型釐清專案目標、受眾與獨特性：問題的標題",
+          "answer": {
+            "content": "「為了解決（學校及各級機關）遇到的（清運仍堪用或可部分使用的硬體、推動環境教育資源循環的）困難，我的專案提供（設計資源永續共享的環境教育課程），可以做到（由課程讓參與者多元思考自身與環境的關係，透過零廢棄物的循環經濟模式，加值再生(upcycle)資源，實際依照需求動手製作滿足需求）。我的專案跟（原本未經盤點就直接清運廢棄物），在（走向資源不可逆的單向直線思考）不同，因此具有不可取代性。」"
+          }
+        },
+        {
+          "key": "4ITd9G04s405JQ0BAm02olt4W",
+          "type": "form-long-answer",
+          "title": "請列出這個計畫的目標對象，他們的需求、情境與使用動機？",
+          "answer": {
+            "content": "＜學校＞：推動108課綱面臨環境教育及在地課程的設計困境。同時也有清運淘汰物資的需求。\n　＜單位機關＞：需要環境教育時數，及解決清運淘汰的物資需求。\n　＜學生＞：跳脫既定教課書更有生活感，從做中學，手做體驗的有趣課程。\n　＜社區組織＞：為了增加遊客駐足社區參訪、消費時間，需要在老街廣場設置更多休憩空間與設施。也提供居民更多元的公共空間想像與使用。\n　＜團隊＞：成功連結社區及學校，轉化及共享資源。"
+          }
+        },
+        {
+          "key": "8Jad90B9e05hL0CE-02k4G3d",
+          "type": "form-short-answer",
+          "title": "請提供本專案的示意圖或介面設計草圖問題的標題",
+          "answer": {
+            "content": "https://drive.google.com/drive/folders/1g-lLAWPYbNGwCpJIBwAGm-A6Tw1FhJGS?usp=sharing"
+          }
+        },
+        {
+          "key": "27Rkcy04_a055k09Op02oCHcD",
+          "type": "form-long-answer",
+          "title": "你覺得本專案可能會面臨的困難有哪些，你又會如何解決這些困難？",
+          "answer": {
+            "content": "＜1. 配合計畫執行的校內課程＞：\n已與坪林國中校方討論，可將原本由團隊所執行的七年級文化走讀課程，當中的「認識新生活、校園及社區環境」主題調整成此課程進行，並可以增加生活科技課、美術課協助執行工作坊。\n另外團隊與「無界塾實驗機構」的合作課程「議題討論：社會實作」，目前已完成學生針對坪林現況提案，將會再持續兩學期（其機構為三學期制），余秉澤同學將提案計畫修正後，將實際與坪中、社區合作執行。\n　＜2. 課程設計及人力資源＞：由於校方沒有相關人力資源，需由團隊協尋建築藝術背景講師與校內老師共同設計與執行。目前陳科廷已與黃筠淇、余秉澤初步討論及規劃設計，將與校方相關老師合作，也於7月底校方的暑期課程實際測試，待更進一步的課程修正與執行。\n　＜3. 經費＞：學校僅能支付部分授課鐘點，待更多經費挹注課程執行及材料費用。目前由團隊及坪中校方共同提案，並盤點可以申請的資源。\n　＜4. 工具及材料＞：並由坪中校方提供既有的完善木工機具、手工具、廢棄課桌椅，剩餘材料如螺絲、砂紙、膠等耗材，再另外購買。\n　＜5. 社區合作＞：由團隊接洽可協助的社區組織及人力，目前已與區公所、新北市坪林茶葉永續生產合作社、創生小組，持續討論之後社區與學校一起協作的工作坊形式。\n",
+            "useMarkdown": false
+          }
+        },
+        {
+          "key": "Nh9Xk0BeL05zQ0B_M0CBLrX",
+          "type": "form-long-answer",
+          "title": "本專案結束後，未來可能進一步的發展？",
+          "answer": {
+            "content": "本計畫預計結合學校的文化走讀、社會實作課程，透過解決問題創造新的可能，而課桌椅除了是可再利用的硬體資源，更正好提供大家重新思考身體與環境之間的關係，也介入參與永續資源的推動，藉此達到環境藝術教育及學校社區共好的目的。此計畫將透過網路共編方式生產出系列教案，包含：桌椅是甚麼、認識身體比例、身體的延伸、身體與環境互動、了解需求、解構與再造、木工作坊、成果發表。也將完成開源街道家具設計圖。未來希望淘汰的資源可以先讓更多有需要的人使用，你的垃圾可能就是我的寶藏，完成健全的物資平台，讓資源盡可能循環創生。"
+          }
+        },
+        {
+          "key": "2DpA+T04VR05ED0BZd02-Wr9t",
+          "type": "form-checkbox",
+          "title": "自選三大主題分類",
+          "answer": {
+            "list": [
+              "教育內容（Educational Content）"
+            ],
+            "other": true,
+            "otherValue": "資源循環"
+          }
+        },
+        {
+          "key": "4oeXQG0F7X05nm0AH+034EWKL",
+          "type": "form-short-answer",
+          "title": "若有本專案介紹的投影片，請提供。",
+          "answer": {
+            "content": "https://drive.google.com/file/d/1lMD1EcHTJJSfafVe0PFqd7AfztbuTa45/view?usp=sharing"
+          }
+        },
+        {
+          "key": "pFOOG0Eyn057k0C6604X1Lsf",
+          "type": "form-long-answer",
+          "title": "你有什麼其他想補充的事情嗎？",
+          "answer": {
+            "content": "團隊本身在地長期耕耘，與坪林國中固定合作文化走讀課程，持續導入多方資源：在地公部門（公所、茶業博物館）、農會、新北市坪林茶葉永續生產合作社、地方創生小組等，及外部的竹圍工作室、不同藝術領域的工作者與工作室，一同合作規畫主題性跨域課程與工作坊。\n　由於坪林國中被教育部列為級偏等級學校，招生具有相當的難度，學校因此規劃轉型成實驗學校，就坪林的優勢發展環境教育及戶外探索，更努力與社區合作，開創實驗課程。\n　上半年團隊、坪中已與「無界塾實驗機構」合作跨地域的「議題討論：社會實作」課程，由修課學生收集資料、實際於坪林觀察、訪談發現問題並提出解決方案。其中余秉澤同學結合自身木工興趣的街道家具提案，符合社區需求，解決遊客無合適休憩空間、建立居民公共空間、及活動展覽的多元機動展示等需求，是可行性極高的計畫。更加入有建築、藝術背景的黃筠淇，在木工實作外讓計畫增加更多有趣的思考教案。\n　此計畫提案將透過團隊、各合作單位的網絡平台，除介紹相關進度與資訊，線下也同時、持續與社區溝通，彙整大家的意見，同時納入修正、執行，最後統整成一完整的教案，也可透過平台回饋分享。"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "3mqxD50EFP05Im0B3N04bQOON",
+      "name": "Art For All",
+      "description": "視障者的美術館導覽資源（口述影像）之所以成長緩慢，且難以從短期特展跨到常態服務原因在於市場需求小，視障者的文化參與需求較少被看見，Art For All平台提供視障者友善介面、即時導覽協助及線上互動功能，期望能創造個人化觀展體驗與服務需求，落實明眼人和視障者之共融教育，促進文化平權。",
+      "group": "零時小學校 2020 Demo Day",
+      "owner": "Iris HSIEH",
+      "team": null,
+      "tags": [],
+      "badge": "short",
+      "thumb": "img/prj/3mqxD50EFP05Im0B3N04bQOON.webp",
+      "createdtime": "2020-07-26T00:22:21.156Z",
+      "fields": [
+        {
+          "key": "t4zr0DpX05Zq0AHo03YZo+3",
+          "type": "form-short-answer",
+          "title": "專案名稱",
+          "answer": {
+            "content": "Art For All"
+          }
+        },
+        {
+          "key": "4P+Npj0GRW05Mb0Cye0P21Ng",
+          "type": "form-short-answer",
+          "title": "提案代表人",
+          "answer": {
+            "content": "謝思盈"
+          }
+        },
+        {
+          "key": "4C31dv0DnI05aP0ChB0PILyn",
+          "type": "form-short-answer",
+          "title": "提案團隊名稱",
+          "answer": {
+            "content": "文化棲地"
+          }
+        },
+        {
+          "key": "h5YfN06Ps05-l0AeA054_RD",
+          "type": "form-long-answer",
+          "title": "提案團隊簡介",
+          "answer": {
+            "content": "- 美術館研究/謝思盈\n    <p>白天是美術館員，下班是藝術家，假日是偏鄉孩子的姐姐。</p>\n\n\n- SA/郝昀\n    <p>現為程式教育品牌共同創辦人兼任技術長，期望透過教育帶給台灣一股正向的力量。</p>\n\n\n- UI/柯瑜綉\n    <p>今年碩士畢業，擅長插畫與平面設計，此次為首次嘗試以UI設計身份完成介面設計。</p>\n\n\n- UX/陳佳鈴\n    <p>醫療復健數位產品設計負責人，目前正在開發數位平台提升物理治療師工作效率。</p>\n\n\n- Frontend /黃文鴻\n    <p>台大資管碩士，現為全端工程師，下班為調酒師。期待透過跨領域交流激盪更多火花</p>\n\n\n- Backend/Dex\n    <p>由IC工程師自學程式語言，現擔任資料分析師兼AI工程師，喜愛認識不同面向的夥伴。</p>\n\n<br>\n\n**＊徵求夥伴：**\n\n1. 智慧財產權法律顧問：\n    <p>博物館之展品影像牽涉到各個作品/文物的著作財產權，上架到平臺之公開播放授權，有待法務專家協助研擬授權同意。</p>\n\n\n\n2. 教育推廣暨社群經營夥伴：\n    <p>本計劃之觀眾服務研究及視障者產品測試，需有長期規劃及經驗分享，以徵集更多有興趣的專家夥伴共同加入策動，希望徵求對於倡議博物館教育有興趣，擅長行銷領域、願意了解視障者的夥伴進行採訪共筆及社群經營。</p>\n\n",
+            "useMarkdown": true
+          }
+        },
+        {
+          "key": "378Opi0DFr05eI09Ly07+vGO",
+          "type": "form-long-answer",
+          "title": "為什麼要做這個專案？（動機）",
+          "answer": {
+            "content": "1. **視障無障礙服務稀缺**\n\t<p>由於視障者佔博物館觀眾為極少數，口述影像資料量不足，且視障者友善的展覽很少被重視，缺乏常態性、長期的展覽。雖公部門近年推動無障礙服務並設有示範點，然而資源成本限制下，每年只有極少數特展，能服務視障者進行友善導覽體驗，且資源皆分散於各個博物館，尚無系統性規劃專為視障者服務的文化內容及資源。</p>\n\n\n2. **促進共融教育**\n\t<p>無障礙服務的市場需求少，供給量少，因此語音資料更新速度慢，較少最新的資訊更新，造成了視障民眾和一般民眾的藝術領域的資訊落差。是故以科技導入於博物館導覽服務，透過一般民眾和視障者共同使用和更新資源、達到共融的目的，以創造新的博物館導覽需求，為當代觀眾服務的趨勢。</p>\n\n\n3. **創新博物館教育**\n\t<p>博物館推出的口述影像服務，流程常為空間環境、視覺特色以及展示重點，再搭配觸摸輔具等多元的感官體驗設計。但在資源取得上視障者的參觀困難，在於提供無障礙服務的場館少，且資源集中在大都市，另需透過向館方團體預約，而提出申請也僅限於少數團體，難以規模化，使用和學習彈性較低。</p>\n\n\n因此，促進視障者無障礙參觀美術館，能獲得藝術資源，落實文化平權。本專案期望能達到：\n\n- 擴增對視障者友善友善的展覽及參觀內容\n- 提昇口述影像、導覽資源的可及性\n- 促進明眼人和視障者的共融學習與交流\n\n",
+            "useMarkdown": true
+          }
+        },
+        {
+          "key": "4-jkrj07Vd05zL0Aot03Tee-N",
+          "type": "form-long-answer",
+          "title": "請以此句型釐清專案目標、受眾與獨特性：問題的標題",
+          "answer": {
+            "content": "為了解決視障朋友遇到的**[不友善文化參與環境]**之困難，我的專案提供**[視障者可體驗的語音資源、參觀時的線上專人協助、個人化的聲音旅行導覽]**，可以做到**[博物館的共融學習]**，和**[線上開放博物館]**及**[語音導覽機]**不同，因此具有不可取代性。本計畫的特色有三：\n\n1. 服務視障者，內容和語音導覽不同，能夠提供視覺感覺的內容體驗，作為參觀博物館的科技小幫手。\n2. 提供一般民眾參觀博物館的個人化體驗，以聲音旅行的概念，串連館內展品並進行參觀。\n3. 和虛擬藝廊等數位體驗不同，需進館參觀應用，視障者也能即時向專人求助，達到線上下活動整合。",
+            "useMarkdown": true
+          }
+        },
+        {
+          "key": "4ITd9G04s405JQ0BAm02olt4W",
+          "type": "form-long-answer",
+          "title": "請列出這個計畫的目標對象，他們的需求、情境與使用動機？",
+          "answer": {
+            "content": "#### 目標對象與需求\n\n1. 視障者&一般大眾\n\t<p>具有參觀博物館需求且需協助的視障者（含全盲及不同視力障礙）、自行參觀且需要導覽協助的一般民眾。</p>\n\n\n2. 導覽人員&博物館志工\n\t<p>導覽人員及志工對服務身障、視障朋友具耐心及專業經驗，且透過平台使用，觀眾能預約線上真人導覽或是使用平台定位取用導覽資源，能達到減少導覽成本，落實個別化服務。</p>\n\n\n3. 博物館\t\n\t<p>館方透過平台設定展覽&展品資訊，管理導覽內容，串連志工社群力量，提供更優質的無障礙導覽服務。</p>\n\n\n#### 使用情境\n\n- **展品導覽**\n\n1. 館內自助導覽模式\n\t<p>觀眾於合作展館內開啟平台自助導覽功能，透過室內定位技術，移動到任一展品前\t即可自動撥放該展品之口述影像音訊。</p>\n\n\n2. 真人導覽模式\n\t<p>觀眾透過平台預先預約，結合室內定位技術即時確認展品，並以通話及展品照片輔助的形式，由專業志工協助語音導覽，以獎勵機制提高志工參與度。解決口述影像資源不足的問題。</p>\n\n\n- **互動功能**\n\n1. 聲音旅行清單\n\t<p>與實體展館結合，透過室內定位技術，建立依據策展動線的展品語音清單。協助視障者踏入館內，於展品前透過平台收聽語音導覽。</p>\n\n\n2. 心得交流模式\t\n\t<p>觀眾可於館內自助、真人導覽模式時，透過室內定位技術輔助下即時錄製聲音檔案上傳心得。 當開啟[交流旅行]功能時，走到每個展品前會隨機撥放觀眾語音心得。</p>\n\n\n- **展品維護**\n\n1. 資料庫包含影像及語音\n\t<p>平台透過錄音快速更新語音資料庫，透過拍照儲存展品各角度影像。</p>\n\n\n2. 資料建置、更新及輔助\t\n\t<p>館方人員透過後台界面將展品關聯室內定位裝置、展品名稱、展品介紹與上傳口述影像聲音檔案即完成展品更新動作。</p>\n\n\n#### 使用動機\n\n視障者仰賴語音資源了解視覺性的文化內容，尤其口述影像是將明眼人對於作品的視覺描述，成為口語化的導覽資源，不僅止於一般語音導覽的作品說明。經團隊實地訪查與電話訪問，全台符合博物館法之博物館僅有 6.4%提供口述影像，視障者在博物館參觀時能獲取的資源稀缺，而進一步深入了解各館導覽與無障礙設施，各館無障礙導覽品質良莠不齊，而常見的語音導覽不但資料更新維護不易，且大多數僅為導覽語音並非口述影像。\n\n故，Art For All平台能提供博物館觀眾三大服務：\n\n1. 視障者無障礙的語音資源\n2. 視障者專人協助導覽\n3. 一般民眾的個別化體驗與聲音旅行\n\n",
+            "useMarkdown": true
+          }
+        },
+        {
+          "key": "8Jad90B9e05hL0CE-02k4G3d",
+          "type": "form-short-answer",
+          "title": "請提供本專案的示意圖或介面設計草圖問題的標題",
+          "answer": {
+            "content": "https://imgur.com/3QY0TRu"
+          }
+        },
+        {
+          "key": "27Rkcy04_a055k09Op02oCHcD",
+          "type": "form-long-answer",
+          "title": "你覺得本專案可能會面臨的困難有哪些，你又會如何解決這些困難？",
+          "answer": {
+            "content": "1. **口述影像的產出品質和速度較難掌握**\n\t<p>預計從培訓資料庫志工開始，納入對配音表達、博物館導覽專業的志工組成民間團隊。</p>\n\n\n2. **推廣時程較長**\t\n\t<p>目前社會大眾對於口述影像的認識還不夠多，需成立多個教育示範點，預計洽談科技應用較成熟的國立故宮博物院。</p>\n\n\n3. **影像授權取得**\n\t<p>博物館展品/作品影像的財產權歸屬及可授權應用狀況不一，在與博物館洽談授權的內容和應用範圍年限，擬請法律顧問協助授權書擬稿。</p>\n\n",
+            "useMarkdown": true
+          }
+        },
+        {
+          "key": "Nh9Xk0BeL05zQ0B_M0CBLrX",
+          "type": "form-long-answer",
+          "title": "本專案結束後，未來可能進一步的發展？",
+          "answer": {
+            "content": "1. **真人博物館串連計畫**\n\t<p>口述影像資料產出成本較高，目前正與其他美術館夥伴共同研擬，共編語音導覽的替代性資源，預計邀請藝術家本人或是已過世藝術家之後代、各界意見領袖，錄製展品介紹及語音資料，形成真人圖書館資料，增加社會大眾對文化藝術的認識。</p>\n\n\n2. **建立口述影像推動的社群網絡**\n\t<p>博物館參觀的現場服務，有許多已參與多年服務的志工，也形成了大型志工團體，常態維持館內第一線觀眾服務，希望能夠透過科技導入，增進館方無障礙服務的專業度，並建立口述影像服務的社群。</p>\n\n\n3. **持續倡議：增進社會大眾對於視障者的跨族群理解**\n\t<p>讓視障者體會到視覺的展品呈現本就不易，尤其視障者更是博物館觀眾的少數族群。透過本計畫，期望能夠帶動明眼人及視障朋友之間的跨文化交流與理解，透過線上社群互動，博物館實體的活動，虛實整合串連，提升民眾對文化平權的認識。</p>\n\n\n",
+            "useMarkdown": true
+          }
+        },
+        {
+          "key": "2DpA+T04VR05ED0BZd02-Wr9t",
+          "type": "form-checkbox",
+          "title": "自選三大主題分類",
+          "answer": {
+            "list": [
+              "社群經營與基礎建設（Community Management & Infrastructure）"
+            ]
+          }
+        },
+        {
+          "key": "4oeXQG0F7X05nm0AH+034EWKL",
+          "type": "form-short-answer",
+          "title": "若有本專案介紹的投影片，請提供。",
+          "answer": {
+            "content": "https://drive.google.com/file/d/12izYyG0bVheTdm5EFZbdcR71Hskal6bk/view?usp=sharing"
+          }
+        },
+        {
+          "key": "pFOOG0Eyn057k0C6604X1Lsf",
+          "type": "form-long-answer",
+          "title": "你有什麼其他想補充的事情嗎？",
+          "answer": {
+            "content": "- **線上社群經營**\n\t<p>本團隊自今年4月成立，於9週內迅速完成產品概念驗證，也同步研究博物館觀眾及導覽服務，希望能邀集更多夥伴討論無障礙教育推廣暨應用規劃，預計於8月成立Medium專頁，並邀請更多專業領域夥伴及團隊成員進行專文分享，創造博物館教育及科技應用的連結網絡與交流。</p>\n\n\n- **專家諮詢與博物館概況調查**\n\t<p>本團隊持續徵詢視障族群及口述影像專家的回饋，現階段正進行與民間語音導覽公司諮詢，目前各博物館的科技應用概況，預計於8月前完成市場調查。各博物館的館方需求及無障礙服務概況，預計於9月前完成普查，並研擬將平台應用導入博物館志工培訓之執行方案。</p>\n\n\n- **美術館作為教育基地**\n\t<p>蒲添生雕塑紀念館為台灣第一座提供觸摸藝術作品真跡的私人美術館，與前輩藝術家陳澄波家族一脈相傳，該館長期致力於台灣藝術史教育，並與啟明學校合作觸摸藝術等教育推廣課程。目前本團隊正與該館共同合作口述影像推廣計畫，預計於12月底前完成第一階段資料建置，未來將與之合作平台使用推廣，以紀念館為教育基地，持續進行視障者回饋蒐集及優化平台使用。</p>\n",
+            "useMarkdown": true
+          }
+        }
+      ]
+    },
+    {
+      "slug": "3arFTZ08Gz05t10B1104X79g8",
+      "name": "偏鄉書適圈 Beyond Read Let’s Think ",
+      "description": "偏鄉學生在閱讀上缺乏推薦好的書籍外，更缺乏人跟人環境等閱讀同儕。透過同儕力量，讓孩子也能引發滿滿閱讀動機。\n\n我們想打破傳統教育或閱讀單方面接收知識，讓學生對一本書提問，甚至提出觀點，打造以「觀點」作為主體的一個群眾閱讀互動的工具。",
+      "group": "零時小學校 2020 Demo Day",
+      "owner": "William",
+      "team": null,
+      "tags": [],
+      "badge": null,
+      "thumb": "img/prj/3arFTZ08Gz05t10B1104X79g8.webp",
+      "createdtime": "2020-07-26T03:10:39.931Z",
+      "fields": [
+        {
+          "key": "t4zr0DpX05Zq0AHo03YZo+3",
+          "type": "form-short-answer",
+          "title": "專案名稱",
+          "answer": {
+            "content": "偏鄉書適圈 Beyond Read Let’s Think "
+          }
+        },
+        {
+          "key": "4P+Npj0GRW05Mb0Cye0P21Ng",
+          "type": "form-short-answer",
+          "title": "提案代表人",
+          "answer": {
+            "content": "程煒倫"
+          }
+        },
+        {
+          "key": "4C31dv0DnI05aP0ChB0PILyn",
+          "type": "form-short-answer",
+          "title": "提案團隊名稱",
+          "answer": {
+            "content": "Team Beyond Read "
+          }
+        },
+        {
+          "key": "h5YfN06Ps05-l0AeA054_RD",
+          "type": "form-long-answer",
+          "title": "提案團隊簡介",
+          "answer": {
+            "content": "程煒倫，中研院資訊所IASL lab，自然語言處理，熟悉新創/團隊成員in TAcc+加速器。\n    歡迎Doer/UI設計師/前端/後端工程師    ",
+            "useMarkdown": true
+          }
+        },
+        {
+          "key": "378Opi0DFr05eI09Ly07+vGO",
+          "type": "form-long-answer",
+          "title": "為什麼要做這個專案？（動機）",
+          "answer": {
+            "content": "  有的時候會在想捐數的目的和意義。左想右想，或許偏鄉捐書就是為了傳遞知識、和弭平城鄉差距吧？  \n  很多書捐贈到偏鄉，沒有被好好整理，書籍太多、選擇太多、無從推薦、或被動又硬性的開著書單、缺乏同儕環境...，真的蠻可惜的。  \n  於是想了個方法，或許功能不能一次滿足，但讓我們從製造好的同儕閱讀環境開始吧。  \n",
+            "useMarkdown": true
+          }
+        },
+        {
+          "key": "4-jkrj07Vd05zL0Aot03Tee-N",
+          "type": "form-long-answer",
+          "title": "請以此句型釐清專案目標、受眾與獨特性：問題的標題",
+          "answer": {
+            "content": "  ###### 功能主軸（同儕閱讀圈、個人想法塗鴉牆）：  \n\n  過去閱讀多為個人之事，但我們想讓閱讀變成群眾活動，甚至對一本書想法可以被討論，被人看見。  \n  若是單純以使用者的閱讀量多寡，輔以以獎勵制度作為誘因，我們想會衍生出許多問題，無法引起人共鳴，也無法作為他人有無進行閱讀的依據。  \n\n  因此我們想從使用者對一本書的觀點，或對問題的回覆，來反映出自己對這本書的認識，作為書籍閱讀依據。  \n  而他人也能藉由你對書的觀點，可以認識你，也連同可以認識到你的書架上，對於你所收藏的書的種種想法。  \n\n    『一本書的頁面上，會有多個人留下的問題和觀點，\n          一個人的頁面上，會收錄自己對多本書的看法。』  \n  並且在他閱讀過後，有擁有對該書的提問資格，讓更多人回應和討論。  \n\n  個人收藏書籍的頁面，會以此使用者的回覆句子為主來排列。如果你喜歡這個讀者，還有他的讀書項目，跟觀點想法，便可以追蹤他。  \n\n######  工具輔助（輔助學習識字＆統計識字率）：  \n\n  從學生日常實際的閱讀體驗中出發，透過工具功能，以了解不同年級不同地域學生不熟悉字，以圖卡的方式輔助，讓學生於閱讀中學習，紀錄的同時可以檢測出真實情境之識字率。  \n\n  同儕都看什麼書，留什麼言，引發了小朋友興趣，進而想讀懂一本書。  \n  在讀的過程中，提供友善的字詞查詢，提供學習協助的同時，從旁紀錄而檢測得出不同年級使用者的識字量。  ",
+            "useMarkdown": true
+          }
+        },
+        {
+          "key": "4ITd9G04s405JQ0BAm02olt4W",
+          "type": "form-long-answer",
+          "title": "請列出這個計畫的目標對象，他們的需求、情境與使用動機？",
+          "answer": {
+            "content": "  書籍推薦：國小 - 大學。  \n  識字輔助：國小、國中為主。  \n\n  * 學生會推薦到一本書，顯示有1000個四年級的小朋友都讀過，也了留言，你是四年級的小朋友，對留言很感興趣，也會想讀讀看。  \n  * 但其中有可能會有幾個不懂的單詞，因此可以透過手寫輸入法查詢意思，會有詞彙的教學圖卡出現，幫助閱讀這本書。  \n  * 而自己閱讀的書，會以自己留言觀點的方式，記錄到自己的頁面上，所以讀多少本不在是重點，重點是自己的想法會展現給他人看。  \n  * 當自己閱讀完後，便可以對此書提問題，讓他人留下觀點，產生一種討論的形式，讓想法交流更深。  ",
+            "useMarkdown": true
+          }
+        },
+        {
+          "key": "8Jad90B9e05hL0CE-02k4G3d",
+          "type": "form-short-answer",
+          "title": "請提供本專案的示意圖或介面設計草圖問題的標題",
+          "answer": {
+            "content": "https://docs.google.com/presentation/d/1RUkbhAfzHWMSjdVC0HiOML7G36dKjD4T5FQqR7PJ7b4/edit#slide=id.g8e995e4354_0_143"
+          }
+        },
+        {
+          "key": "27Rkcy04_a055k09Op02oCHcD",
+          "type": "form-long-answer",
+          "title": "你覺得本專案可能會面臨的困難有哪些，你又會如何解決這些困難？",
+          "answer": {
+            "content": "  1.前期，在同儕數量不多時，推薦書籍較不容易自動化。必須先透過自訂或既有的書籍的分類與摘要斷詞向量化，先來粗分適合年級，推薦給使用者。  \n  2.推薦的書籍目錄也不可能包山包海，也要建立一個流暢讓使用者自動登入新書的介面。  \n  3.國中小學生閱讀書籍，會發生不會的單詞。要產生有效的工具，發想對應的方式是，大家都有閱讀英文文章時，發現某個單字不會的經驗，也有圖卡輔助記憶，而我們製作中文的版本。  \n  4.小學學生在手機上的使用率，這部分可能需要實際驗證或使用者觀察，進而調整機制或客群。  \n  低年級比較容易有使用上的問題，但若發現很少學生查詢紙本字典，而多使用手機查單字、或打字回覆，方向就不太需要修正。若低年級很少用，則改為方便大人共同進行輔助的模式、或者是調整目標客群。  ",
+            "useMarkdown": true
+          }
+        },
+        {
+          "key": "Nh9Xk0BeL05zQ0B_M0CBLrX",
+          "type": "form-long-answer",
+          "title": "本專案結束後，未來可能進一步的發展？",
+          "answer": {
+            "content": "  將觀點進行分級，因為不同年齡層會有適合的同儕觀點。  \n  加強書友夥伴的認識機制。  \n  加強學生識字率，完整的中文圖卡複習機制，藉由引發閱讀興趣增加識字率。  \n  書籍觀點與問題的權重演算法整理。  ",
+            "useMarkdown": true
+          }
+        },
+        {
+          "key": "2DpA+T04VR05ED0BZd02-Wr9t",
+          "type": "form-checkbox",
+          "title": "自選三大主題分類",
+          "answer": {
+            "list": [
+              "識字量檢測（Literacy Assessment Test）",
+              "遠距教學解決方案（Solution of Distance Learing）",
+              "社群經營與基礎建設（Community Management & Infrastructure）"
+            ]
+          }
+        },
+        {
+          "key": "4oeXQG0F7X05nm0AH+034EWKL",
+          "type": "form-short-answer",
+          "title": "若有本專案介紹的投影片，請提供。",
+          "answer": {
+            "content": "https://docs.google.com/presentation/d/1RUkbhAfzHWMSjdVC0HiOML7G36dKjD4T5FQqR7PJ7b4/edit?usp=sharing"
+          }
+        },
+        {
+          "key": "pFOOG0Eyn057k0C6604X1Lsf",
+          "type": "form-long-answer",
+          "title": "你有什麼其他想補充的事情嗎？",
+          "answer": {
+            "content": "尚未決定好NPO、預計與有興趣的國中小老師進行合作，從小班開始實驗，再逐步規模化。"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "NyQx-03Zb058E0BpY03p34Ou",
+      "name": "Wowa 互動式遠距教學平台",
+      "description": "Wowa希望以人偶動畫與線上工具的功能整合，形成一款增進互動的遠端教學軟體。",
+      "group": "零時小學校 2020 Demo Day",
+      "owner": "賴靜儀",
+      "team": null,
+      "tags": [],
+      "badge": null,
+      "thumb": "img/prj/NyQx-03Zb058E0BpY03p34Ou.webp",
+      "createdtime": "2020-07-26T03:43:59.121Z",
+      "fields": [
+        {
+          "key": "t4zr0DpX05Zq0AHo03YZo+3",
+          "type": "form-short-answer",
+          "title": "專案名稱",
+          "answer": {
+            "content": "Wowa 互動式遠距教學平台"
+          }
+        },
+        {
+          "key": "4P+Npj0GRW05Mb0Cye0P21Ng",
+          "type": "form-short-answer",
+          "title": "提案代表人",
+          "answer": {
+            "content": "賴靜儀"
+          }
+        },
+        {
+          "key": "4C31dv0DnI05aP0ChB0PILyn",
+          "type": "form-short-answer",
+          "title": "提案團隊名稱",
+          "answer": {
+            "content": "Wanna"
+          }
+        },
+        {
+          "key": "h5YfN06Ps05-l0AeA054_RD",
+          "type": "form-long-answer",
+          "title": "提案團隊簡介",
+          "answer": {
+            "content": "「Wanna」由清華大學載物書院的六名學生所組成，分別來自\n      ◆ 人文社會學院\n      ◆ 工業工程學系\n      ◆ 科技管理學院\n所有人皆參與整體專案的發想與製作，唯細節處根據特長與意願有所調整。團隊內主職包含介面設計、插畫設計、專案管理與使用者研究員等，然而在程式撰寫上目前無人可以協助，若將來有機會希望能與工程師合作將專案實做出來。\n\n各成員的特色如下：李信錩，在專案中負責介面設計與實驗設計；李冠霆主修工業工程與數據科學，在專案中負責介面統整、介面設計與互動設計；郭仲恩主修工業工程與創新創業，在專案中負責介面設計、網頁製作、實驗設計與影片剪輯；黃子瑜主修管理學與學習科技，在專案中主要負責介面設計、PPT製作與概念統整；黃婕瑜主修社會學，在專案中主要負責介面設計、影片字幕與企劃撰寫；賴靜儀主修人類學與創新設計，在專案中負責介面規格與網頁架構、插畫設計、Logo設計與企劃撰寫。",
+            "useMarkdown": false
+          }
+        },
+        {
+          "key": "378Opi0DFr05eI09Ly07+vGO",
+          "type": "form-long-answer",
+          "title": "為什麼要做這個專案？（動機）",
+          "answer": {
+            "content": "今年年初，隨著農曆年節開始，疫情造成的威脅擴散至全球，遠端教學與協作的需求日漸上升。學期間，校園課程紛紛改成遠端教學以確保社交距離。在這幾個月，我們嘗試了不同的遠端工具軟體，從視訊、會議紀錄、檔案分享、筆記協作，到高互動性的工作坊、議題討論、情感建立等，體驗了不同工具的特點，並嘗試在遠端的情況下，達成實體互動時的效益。\n\n然而，我們發現，儘管運用網際網路方便的即時通訊與線上資料庫能達到傳遞資訊與課程互動的基本要求，卻在更深層的人際互動與情感建立上有所難度。實體見面所產生的肢體接觸、傳遞暗示的肢體語言、即時性的互動回饋，在遠端協作的模式下消失了。同時，遠端協作軟體多元，從Miro的便利貼、Notion的共享筆記、雲端硬碟資料庫，到即時視訊的Google meet、Zoom等，選擇豐富，時常要依據功能在不同的軟體間切換，造成使用上的麻煩。因此，當Wanna團隊成員在修習清華大學曾元琦教授所開授的心理+設計課程時，被鼓勵開發一款協助遠端教學的產品時，我們將焦點放在以下兩個特點：第一、補足遠端教學時所缺乏的人情味；第二、將遠端協作的主要需求統合到同一款軟體產品。"
+          }
+        },
+        {
+          "key": "4-jkrj07Vd05zL0Aot03Tee-N",
+          "type": "form-long-answer",
+          "title": "請以此句型釐清專案目標、受眾與獨特性：問題的標題",
+          "answer": {
+            "content": "「為了解決遠端教學與協作參與者遇到的互動性低與軟體功能單一問題，我的專案提供結合捏臉系統、視訊、便利貼與資料庫的高互動且性能統合的遠端協作軟體 Wowa，可以客製化使用者的視覺角色以提高互動性，並將視訊、便利貼、會議與課程紀錄統整到同一個線上軟體。我的專案跟 Miro的便利貼、Notion的共享筆記、雲端硬碟資料庫，與即時視訊的 Google meet、Zoom 等都不同，在互動性上，增加像3D遊戲人偶或2D似顏繪角色增加使用者的興趣與互動，在功能上結合Miro、Notion、雲端與視訊軟體，統合了視訊教學與會議，因此具有不可取代性。」"
+          }
+        },
+        {
+          "key": "4ITd9G04s405JQ0BAm02olt4W",
+          "type": "form-long-answer",
+          "title": "請列出這個計畫的目標對象，他們的需求、情境與使用動機？",
+          "answer": {
+            "content": "此計畫的核心目標對象為專案導向的學習者以及遠距教學教師，而任何需要遠端教學或協作的教學組織、學校、公司，或任何性質的專案團隊也都是該計畫的服務對象。\n\n遠端教學或協作的參與者需要更完整全面的線上軟體，幫助他們在遠距離、觸碰不到、甚至看不到對方即時影像的情況下，順利且愉快地完成任務。\n\n以遠距教學為例，老師時常碰到學生因為害羞或其他原因，無法開啟視訊攝影機的情況，若此時需要講課三小時，卻只能對著螢幕自言自語，對牛彈琴，對教學者來說是很挫折的事情。參與者在面對螢幕時，需要即時的互動回饋。就像在實體上課，能從學生的一顰一笑、肢體互動中，確認學生知識吸收的狀況、情緒與感受，這是在遠端視訊很難做到的。針對這項困難，我們的產品開發捏臉系統，為每個參與者客製化屬於自己的角色，即使沒有開啟攝影機，也能透過動畫反映參與者的狀態，老師因此能感受到整堂課學生的狀態。另一方面，為了增進互動，我們也增加即時的Cue人快捷鍵，能即時提醒同學需要發言，或傳遞其他悄悄話，就像在實體課堂上，學生們能自在與彼此互動。\n\n另一方面，在開會時，除了捏臉角色增進團隊成員的感情外，我們在整體會議紀錄的工具上，更做了統合性的功能討論模式與資料庫。首先，在討論模式方面，主要分成心智圖（Mind Map） 與主題地圖（Topic Map）。心智圖顧名思意識由一個討論點延伸想法，在發想時能做到發散的功能；主題地圖則是將整體體系依據規模（Scale）做不同層級的分類，在收斂發想時方便統整。雖然以上介紹主要針對發散與收斂的使用，但根據功能模式不同的特性，能有更多的應用。例如，在心智圖部分，能簡單列出討論主題的優點和缺點，方便使用者快速釐清討論點；也能當作便利貼應用，用來分類想法，是靈活度很高的空間。在主題地圖部分，能將討論內容作層次上的整理，方便議程（Agenda）切換時順暢且聚焦。除了以上兩種討論介面外，Wowa 內建的資料庫能把每一次的課程紀錄（包含錄影、講義、訊息討論等）、會議資料（包含錄影、文件、訊息討論等）自動整理在主要頁面（Main Page），供使用者複習與回顧。\n\nWowa的功能包含學習與專案兩大主題，並以此分類，清楚的發展兩者的服務。彼此統合，完整需求。不管是大學、企業、許多組織，皆時常接觸學習與專案，是日常互動的重點。相信在科技化、全球化的未來，遠端協作日漸頻繁的時代，Wowa 能在各團體中占有一席之地。"
+          }
+        },
+        {
+          "key": "8Jad90B9e05hL0CE-02k4G3d",
+          "type": "form-short-answer",
+          "title": "請提供本專案的示意圖或介面設計草圖問題的標題",
+          "answer": {
+            "content": "網站：https://tinyurl.com/y4mgolaf "
+          }
+        },
+        {
+          "key": "27Rkcy04_a055k09Op02oCHcD",
+          "type": "form-long-answer",
+          "title": "你覺得本專案可能會面臨的困難有哪些，你又會如何解決這些困難？",
+          "answer": {
+            "content": "本專案最大的問題為程式撰寫困難，若要實做出來需要陣容堅強的工程師團隊。\n目前希望能募集資金聘請工程師團隊協助撰寫整體程式架構。"
+          }
+        },
+        {
+          "key": "Nh9Xk0BeL05zQ0B_M0CBLrX",
+          "type": "form-long-answer",
+          "title": "本專案結束後，未來可能進一步的發展？",
+          "answer": {
+            "content": "本專案結束後應能成為一小型新創公司，我們能持續維護平台並優化更多功能、開發其他線上軟體。"
+          }
+        },
+        {
+          "key": "2DpA+T04VR05ED0BZd02-Wr9t",
+          "type": "form-checkbox",
+          "title": "自選三大主題分類",
+          "answer": {
+            "list": [
+              "遠距教學解決方案（Solution of Distance Learing）"
+            ]
+          }
+        },
+        {
+          "key": "4oeXQG0F7X05nm0AH+034EWKL",
+          "type": "form-short-answer",
+          "title": "若有本專案介紹的投影片，請提供。",
+          "answer": {
+            "content": "https://tinyurl.com/y5v2jy7f"
+          }
+        },
+        {
+          "key": "pFOOG0Eyn057k0C6604X1Lsf",
+          "type": "form-long-answer",
+          "title": "你有什麼其他想補充的事情嗎？",
+          "answer": {
+            "content": "我們團隊主要以設計師為主，在研究調查與使用者協調方面有些進展，但在程式撰寫方面卻仍然缺乏技術，是我們須有補足的困難。"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "3w-o2z0DyZ05qK0BDB04znVUE",
+      "name": "討論\"性\"平台",
+      "description": "引用性啟萌書本中的一句「孩子學習性教育是世上文明社會的共識」，希望透過提案的平台輔以友善的機制和整理過的性知識，提供正確的性知識、有安全感的討論空間、親子互助共同學習的機會。",
+      "group": "零時小學校 2020 Demo Day",
+      "owner": "大順",
+      "team": null,
+      "tags": [],
+      "badge": null,
+      "thumb": "img/prj/3w-o2z0DyZ05qK0BDB04znVUE.webp",
+      "createdtime": "2020-07-26T07:25:37.583Z",
+      "fields": [
+        {
+          "key": "t4zr0DpX05Zq0AHo03YZo+3",
+          "type": "form-short-answer",
+          "title": "專案名稱",
+          "answer": {
+            "content": "討論\"性\"平台"
+          }
+        },
+        {
+          "key": "4P+Npj0GRW05Mb0Cye0P21Ng",
+          "type": "form-short-answer",
+          "title": "提案代表人",
+          "answer": {
+            "content": "李大順"
+          }
+        },
+        {
+          "key": "4C31dv0DnI05aP0ChB0PILyn",
+          "type": "form-short-answer",
+          "title": "提案團隊名稱",
+          "answer": {
+            "content": "討論\"性\"平台"
+          }
+        },
+        {
+          "key": "h5YfN06Ps05-l0AeA054_RD",
+          "type": "form-long-answer",
+          "title": "提案團隊簡介",
+          "answer": {
+            "content": "徵求UX設計師、專案經理、全端工程師、教育顧問。"
+          }
+        },
+        {
+          "key": "378Opi0DFr05eI09Ly07+vGO",
+          "type": "form-long-answer",
+          "title": "為什麼要做這個專案？（動機）",
+          "answer": {
+            "content": "有鑒於自身過往學習性知識的經驗上，沒有父母的教導、性是羞恥的傳統價值而少有討論、多來自父權遺毒的網路社群和媒體影音，而自己在最近這幾年特別意識到性知識的不足、迷思、羞恥感，對自身的健康、人際關係和工作都有著相當大的影響力。"
+          }
+        },
+        {
+          "key": "4-jkrj07Vd05zL0Aot03Tee-N",
+          "type": "form-long-answer",
+          "title": "請以此句型釐清專案目標、受眾與獨特性：問題的標題",
+          "answer": {
+            "content": "期許解決自身經驗整裡後所看到的三個問題：網路發達帶來性知識的取得容易及判斷困難、能公開且健康地討論“性”空間的缺乏、性知識貧乏的家長可能帶來誤導的性教育甚至壓抑孩童去學習正確的性知識。"
+          }
+        },
+        {
+          "key": "4ITd9G04s405JQ0BAm02olt4W",
+          "type": "form-long-answer",
+          "title": "請列出這個計畫的目標對象，他們的需求、情境與使用動機？",
+          "answer": {
+            "content": "- 0-18歲的學童、不論年齡對性感到有任何疑惑的人：提供有安全感且健康的討論空間，同時輔以最新的正確的性知識或相關事件資訊的補充。\n- 家長：補足教育孩童所需的正確的性知識和方法。",
+            "useMarkdown": true
+          }
+        },
+        {
+          "key": "8Jad90B9e05hL0CE-02k4G3d",
+          "type": "form-short-answer",
+          "title": "請提供本專案的示意圖或介面設計草圖問題的標題",
+          "answer": {
+            "content": "https://images.unsplash.com/photo-1534774251706-35764d143b56?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=900&q=60"
+          }
+        },
+        {
+          "key": "27Rkcy04_a055k09Op02oCHcD",
+          "type": "form-long-answer",
+          "title": "你覺得本專案可能會面臨的困難有哪些，你又會如何解決這些困難？",
+          "answer": {
+            "content": "找不到願意使用的學童或家長，因此需要透過撰寫文章或辦活動，來推廣平台幫助更多有興趣的使用者跨過心中門檻來加入。"
+          }
+        },
+        {
+          "key": "Nh9Xk0BeL05zQ0B_M0CBLrX",
+          "type": "form-long-answer",
+          "title": "本專案結束後，未來可能進一步的發展？",
+          "answer": {
+            "content": "希望建立在平台的公開且健康討論的用戶社群基礎上，可以進一步發展性知識的遠端咨詢或遠端教學，來降低原本面對面諮詢所需要的門檻，同時提供更即時性的幫助。"
+          }
+        },
+        {
+          "key": "2DpA+T04VR05ED0BZd02-Wr9t",
+          "type": "form-checkbox",
+          "title": "自選三大主題分類",
+          "answer": {
+            "list": [
+              "社群經營與基礎建設（Community Management & Infrastructure）",
+              "教育內容（Educational Content）"
+            ]
+          }
+        },
+        {
+          "key": "pFOOG0Eyn057k0C6604X1Lsf",
+          "type": "form-long-answer",
+          "title": "你有什麼其他想補充的事情嗎？",
+          "answer": {
+            "content": "參考資料：\n- [性啟萌：青少年性教育讀本](https://readmoo.com/book/210089490000101)\n- [性愛好科學：掙脫迷思、用自己的方式高潮](https://readmoo.com/book/210069849000101)\n- [TGEEA 台灣性別平等教育協會 - 性平教育課綱](https://www.tgeea.org.tw/tag/curriculum_guidelines/)\n- [健康與體育課綱之性教育與教學之檢討](http://www.ater.org.tw/journal/article/7-12/free/12.pdf)\n",
+            "useMarkdown": true
+          }
+        }
+      ]
+    },
+    {
+      "slug": "unHnP07mz055q0AZ+04oW3E2",
+      "name": "Thinking Cube",
+      "description": "想打造一個針對各年齡層學生的「思考訓練平台」，讓老師能在各學科以及討論公共事務的教學環境中，輔助各年級學生使用適合的「思考學習歷程」並且記錄下來，團體討論出來的議題思考歷程以及結果也可作為校內開放教材資源供師生閱讀、回應以作長期的思考訓練。\n",
+      "group": "零時小學校 2020 Demo Day",
+      "owner": "Lou Lin",
+      "team": null,
+      "tags": [],
+      "badge": null,
+      "thumb": "img/prj/unHnP07mz055q0AZ+04oW3E2.webp",
+      "createdtime": "2020-07-26T07:50:40.552Z",
+      "fields": [
+        {
+          "key": "t4zr0DpX05Zq0AHo03YZo+3",
+          "type": "form-short-answer",
+          "title": "專案名稱",
+          "answer": {
+            "content": "Thinking Cube"
+          }
+        },
+        {
+          "key": "4P+Npj0GRW05Mb0Cye0P21Ng",
+          "type": "form-short-answer",
+          "title": "提案代表人",
+          "answer": {
+            "content": "Lou Lin"
+          }
+        },
+        {
+          "key": "4C31dv0DnI05aP0ChB0PILyn",
+          "type": "form-short-answer",
+          "title": "提案團隊名稱",
+          "answer": {
+            "content": "Thinking Cube"
+          }
+        },
+        {
+          "key": "h5YfN06Ps05-l0AeA054_RD",
+          "type": "form-long-answer",
+          "title": "提案團隊簡介",
+          "answer": {
+            "content": "Lou - UI/UX designer, User Researcher\n(教育背景：高師大美術系 )"
+          }
+        },
+        {
+          "key": "378Opi0DFr05eI09Ly07+vGO",
+          "type": "form-long-answer",
+          "title": "為什麼要做這個專案？（動機）",
+          "answer": {
+            "content": "現代教育對「思考」越來越重視，急欲擺脫過去填鴨式教學，但是以「思考為教育中心」這件事的訓練並不容易，除了需要有相關專業的引導師來引導與訓練學生思考和表達能力之外，在團體討論和學習的過程之中，每個人的學習和思考認知歷程並不一定同步，這也是在「思考訓練」的教育當中比較難進行的部份，因此想打造一個針對各年齡層學生的「思考訓練平台」，讓老師能在各學科以及討論公共事務的教學環境中，輔助各年級學生使用適合的思考學習歷程並且記錄下來，團體討論出來的議題思考歷程以及結果也可作為校內開放教材資源供師生閱讀、回應以作長期的思考訓練。\n\n這個平台參考批判式思考與哈佛大學和上千位教師所開發的教學方法「零點計畫」，適用於各年齡層的學生甚至是在工作中需要思考的任何人。"
+          }
+        },
+        {
+          "key": "4-jkrj07Vd05zL0Aot03Tee-N",
+          "type": "form-long-answer",
+          "title": "請以此句型釐清專案目標、受眾與獨特性：問題的標題",
+          "answer": {
+            "content": "為了擺脫過去填鴨式教學，但是以「思考為教育中心」這件事的訓練並不容易，除了需要有相關專業的引導師來引導與訓練學生思考和表達能力之外，在團體討論和學習的過程之中，每個學生的學習和思考認知歷程並不一定同步，這也是在「思考訓練」的教育當中比較難進行的部份，因此想打造一個針對各年齡層學生的「思考訓練平台」，讓老師能在各學科以及討論公共事務的教學環境中，輔助各年級學生使用適合的思考學習歷程並且記錄下來，團體討論出來的議題思考歷程以及結果也可作為校內開放教材資源供師生閱讀、回應以作長期的思考訓練。\n\n這個平台參考批判式思考與哈佛大學和上千位教師所開發的教學方法「零點計畫」，適用於各年齡層的學生甚至是在工作中需要思考的任何人。"
+          }
+        },
+        {
+          "key": "4ITd9G04s405JQ0BAm02olt4W",
+          "type": "form-long-answer",
+          "title": "請列出這個計畫的目標對象，他們的需求、情境與使用動機？",
+          "answer": {
+            "content": "現代教育對「思考」越來越重視，急欲擺脫過去填鴨式教學，但是以「思考為教育中心」這件事的訓練並不容易，除了需要有相關專業的引導師來引導與訓練學生思考和表達能力之外，在團體討論和學習的過程之中，每個人的學習和思考認知歷程並不一定同步，這也是在「思考訓練」的教育當中比較難進行的部份，因此想打造一個針對各年齡層學生的「思考訓練平台」，讓老師能在各學科以及討論公共事務的教學環境中，輔助各年級學生使用適合的思考學習歷程並且記錄下來，團體討論出來的議題思考歷程以及結果也可作為校內開放教材資源供師生閱讀、回應以作長期的思考訓練。\n\n這個平台參考批判式思考與哈佛大學和上千位教師所開發的教學方法「零點計畫」，適用於各年齡層的學生甚至是在工作中需要思考的任何人。"
+          }
+        },
+        {
+          "key": "8Jad90B9e05hL0CE-02k4G3d",
+          "type": "form-short-answer",
+          "title": "請提供本專案的示意圖或介面設計草圖問題的標題",
+          "answer": {
+            "content": "https://www.figma.com/file/aEPjrOCxqksEyAQLgjBzOQTR/Thinking-Cube?node-id=0%3A1"
+          }
+        },
+        {
+          "key": "27Rkcy04_a055k09Op02oCHcD",
+          "type": "form-long-answer",
+          "title": "你覺得本專案可能會面臨的困難有哪些，你又會如何解決這些困難？",
+          "answer": {
+            "content": "教師本身的思考訓練與引導訓練"
+          }
+        },
+        {
+          "key": "Nh9Xk0BeL05zQ0B_M0CBLrX",
+          "type": "form-long-answer",
+          "title": "本專案結束後，未來可能進一步的發展？",
+          "answer": {
+            "content": "應用到社會中任何需要思考的人，可用於開會、公共事務討論"
+          }
+        },
+        {
+          "key": "2DpA+T04VR05ED0BZd02-Wr9t",
+          "type": "form-checkbox",
+          "title": "自選三大主題分類",
+          "answer": {
+            "list": [
+              "教育內容（Educational Content）",
+              "遠距教學解決方案（Solution of Distance Learing）"
+            ],
+            "other": true,
+            "otherValue": "思考訓練"
+          }
+        },
+        {
+          "key": "4oeXQG0F7X05nm0AH+034EWKL",
+          "type": "form-short-answer",
+          "title": "若有本專案介紹的投影片，請提供。",
+          "answer": {
+            "content": "目前無"
+          }
+        }
+      ]
+    }
+  ]
+}

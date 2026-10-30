@@ -1,0 +1,32 @@
+//- view
+extends /modules/layout.pug
+block vars
+  - var title = prj.name, description = prj.description
+block content
+  nav.crumb
+    a(href=`${root}index.html`) 首頁
+    span /
+    a(href=`${root}brd/${brd.slug}/index.html`)= brd.label
+  article.prj
+    header.prj-head
+      if prj.thumb
+        img.prj-thumb(src=`${root}${prj.thumb}`, alt="")
+      .prj-info
+        if prj.badge
+          span.badge.inline(class=prj.badge)= badgeName[prj.badge]
+        h1= prj.name
+        .owner 提案人 #[b= prj.team || prj.owner]
+        if prj.tags.length
+          .tags: each t in prj.tags
+            span= t
+        if prj.description
+          p.lead= prj.description
+    if prj.fields.length
+      nav.toc
+        each f, i in prj.fields
+          a(href=`#f${i}`)= f.title
+    .fields
+      each f, i in prj.fields
+        section.field(id=`f${i}`)
+          h2= f.title
+          .answer!= answer(f)

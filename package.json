@@ -1,0 +1,27 @@
+{
+  "name": "sch001-archive",
+  "private": true,
+  "description": "g0v 零時小學校 歷年提案典藏",
+  "version": "0.0.1",
+  "scripts": {
+    "start": "node server.js",
+    "export": "node tool/export.js",
+    "build": "node tool/build.js",
+    "deploy": "./deploy"
+  },
+  "frontendDependencies": {
+    "root": "web/static/assets/lib",
+    "modules": []
+  },
+  "devDependencies": {
+    "fedep": "^1.9.0",
+    "pg": "^8.23.1",
+    "sharp": "^0.35.5"
+  },
+  "dependencies": {
+    "@plotdb/srcbuild": "^0.1.9",
+    "express": "^5.3.0",
+    "marked": "^18.1.2"
+  },
+  "main": "server.js"
+}

@@ -1,0 +1,1280 @@
+{
+  "slug": "sch001-2021",
+  "label": "2021 專案孵化競賽",
+  "name": "零時小學校 2021-22 Demo Day",
+  "description": "- 8/1 Sun. 00:00 線上公開提案開始\n- 11/30 Tue. 23:59 提案上傳截止",
+  "starttime": "2021-02-28T08:00:00.000Z",
+  "endtime": "2021-12-30T08:00:00.000Z",
+  "projects": [
+    {
+      "slug": "4+gQed0ECU05LS0BrV04lQ2lD",
+      "name": "Sync Slide - 萬人演講零延遲  ",
+      "description": "Sync Slide 目前是個手機 App ，在上面可以跟講者同步看到相同投片，並且搭配 clubhouse 萬人即時語音功能來聽演講，講者與聽者看到投影片上是一樣的頁數。",
+      "group": "零時小學校 Demo Day 2021-2022",
+      "owner": "joanmirochen",
+      "team": null,
+      "tags": [],
+      "badge": "winner",
+      "thumb": "img/prj/4+gQed0ECU05LS0BrV04lQ2lD.webp",
+      "createdtime": "2021-09-21T22:30:36.055Z",
+      "fields": [
+        {
+          "key": "fOoUs0ec05i+09N202je6p+",
+          "type": "form-short-answer",
+          "title": "專案名稱",
+          "answer": {
+            "content": "Sync Slide - 萬人演講零延遲  "
+          }
+        },
+        {
+          "key": "2DXUGn0A-o05+m0Awe02ryQk6",
+          "type": "form-short-answer",
+          "title": "專案簡介",
+          "answer": {
+            "content": "Sync Slide 目前是個手機 App ，在上面可以跟講者同步看到相同投片，並且搭配 clubhouse 萬人即時語音功能來聽演講，講者與聽者看到投影片上是一樣的頁數。"
+          }
+        },
+        {
+          "key": "YskrQ0Cml05cU09uC0q+ojQ",
+          "type": "form-short-answer",
+          "title": "提案代表人",
+          "answer": {
+            "content": "Milo Chen"
+          }
+        },
+        {
+          "key": "2BOf6f0FkI05170CTp04D1OkM",
+          "type": "form-radio",
+          "title": "提案代表人是否具有 U-22 組資格？",
+          "answer": {
+            "list": [
+              "是"
+            ],
+            "other": false
+          }
+        },
+        {
+          "key": "3C1UH908RD05fW0A7q03cQpZs",
+          "type": "form-long-answer",
+          "title": "提案團隊簡介",
+          "answer": {
+            "content": "我是個人提案 - Milo Chen \n\n主修 法律、資訊與電子 \n個人成就 (不相依任何公司的資源) \n2018 Intel 獎(HACKIDB)\n2021 Stack Overflow 單月單季  排行前 1000 名 \n(Stack overflow 3千多萬註冊用戶, 最有公信力的論壇)\n2021 Gather Town Taiwan User Group 創始人\n(目成立已三個月，人數與互動已經全球最大的 GT 社群 )\n"
+          }
+        },
+        {
+          "key": "3MJ5l04vc05dn0AFt048Osxh",
+          "type": "form-long-answer",
+          "title": "為什麼要做這個專案？（動機）",
+          "answer": {
+            "content": "因為許多人都有破百人無法好好演講的困擾。\n所以使用 Sync Slide 結合 Clubhouse + Gather Town \n就可以解決多人演講，但台下人又持續互動的好效果。\n未來就可以透過遠端的方式，舉辦一些國際破萬人的大活動"
+          }
+        },
+        {
+          "key": "3MgBgJ0E-N05kO09i802PR6+d",
+          "type": "form-long-answer",
+          "title": "請以此句型釐清專案目標、受眾與獨特性：",
+          "answer": {
+            "content": "想透過線上辦大型活動的都是我們合適的 User \n另外對一般參與者來說，也比較方便，可同步用Gather Town 交流同步在手機上看到投影畫面並且聽到 clubhouse 上的講者聲音，全部都是即時的呈獻，不延遲。"
+          }
+        },
+        {
+          "key": "BEU6K02v905ZG09I80IE3m+",
+          "type": "form-long-answer",
+          "title": "請列出這個計畫的目標對象，他們的需求、情境與使用動機？",
+          "answer": {
+            "content": "1. 大活動的人需要拓展到辦世界級的活動時，大企業會贊助，但目前就卡在百人問題。無法再向上拓展。\n2. Gather Town User  可同時手機看見畫面與聲音來聽演講，但又可以在台下與其它人互動。目前 Gather Town Taiwan User Group 有 4k 人，又有許多人社群的人使用 GT。我們可以考慮用 Sync Slide 來辦國際型大活動，並且透過 clubhouse 將全球知名的人事都 join  在台灣人所辦的活動中。\n"
+          }
+        },
+        {
+          "key": "3dNUK30AnT05I8095W04RAGR8",
+          "type": "form-short-answer",
+          "title": "請提供本專案的示意圖或介面設計草圖",
+          "answer": {
+            "content": "https://jamboard.google.com/d/1TRpH32KhXLe_mgo_Z0pJ0lxB128g733M9SYFQGFgNWE/viewer?f=1"
+          }
+        },
+        {
+          "key": "4EJWtG0BbQ05Yq09Ex0-IG1J",
+          "type": "form-long-answer",
+          "title": "你覺得本專案可能會面臨的困難有哪些，你又會如何解決這些困難？",
+          "answer": {
+            "content": "目前還在持續開發中，目前想要免費提供給大家用\n推廣的話會有小批用戶，都自己 group 內的\n但大型活動的話，則需要有一些大企業願意走出際，支持一下使用 Sync Slide "
+          }
+        },
+        {
+          "key": "iiTX_07T105Th0B5403S1jkP",
+          "type": "form-long-answer",
+          "title": "本專案結束後，未來可能進一步的發展？",
+          "answer": {
+            "content": "先研發好推廣起來再說，需要看市場反應再作下一步決定"
+          }
+        },
+        {
+          "key": "3mUQlN087S05ho0Ctn03I+5z8",
+          "type": "form-short-answer",
+          "title": "若有本專案介紹的投影片，請提供。",
+          "answer": {
+            "content": "https://jamboard.google.com/d/1TRpH32KhXLe_mgo_Z0pJ0lxB128g733M9SYFQGFgNWE/viewer?f=1"
+          }
+        },
+        {
+          "key": "e_NVW0CmB05sV0B8M03tFL+N",
+          "type": "form-long-answer",
+          "title": "你有什麼其他想補充的事情嗎？",
+          "answer": {
+            "content": "這是 Live Demo 的影片 (手機)\nhttps://youtu.be/mS1ngYYkI0w\n\nRaspberry Pi Chrome extension  + 手機 App 投影片一起同步 \nhttps://www.facebook.com/groups/python/posts/1060638081443422/\n\n透過 SlideWallet (影片1分39秒開始) 可以管理手上的投影片\n在體驗上希望可以作到線下與線上都達到快速交流的體驗。\nhttps://www.facebook.com/1826034531/videos/pcb.10161648064908438/1486150421756155\n\n\n\n這邊講說也許 SyncSlide 可以拿來協助辦線上 MWC  \nhttps://www.facebook.com/groups/developer.taiwan/posts/415671289963788\n\n"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "3Mgj9a0AGC054Y0C6J0y7XfG",
+      "name": "CourseAPI 開放式課程資訊匯流學院",
+      "description": "研提開放式課程的資料架構 (schema) 與資料交換方案、建立一站式開放課程查詢網頁雛形、與國內開放式課程營運單位、使用推廣單位交流",
+      "group": "零時小學校 Demo Day 2021-2022",
+      "owner": "Ted Lu 呂顥天",
+      "team": null,
+      "tags": [],
+      "badge": "winner",
+      "thumb": "img/prj/3Mgj9a0AGC054Y0C6J0y7XfG.webp",
+      "createdtime": "2021-10-01T23:52:18.605Z",
+      "fields": [
+        {
+          "key": "fOoUs0ec05i+09N202je6p+",
+          "type": "form-short-answer",
+          "title": "專案名稱",
+          "answer": {
+            "content": "CourseAPI 開放式課程資訊匯流學院"
+          }
+        },
+        {
+          "key": "2DXUGn0A-o05+m0Awe02ryQk6",
+          "type": "form-short-answer",
+          "title": "專案簡介",
+          "answer": {
+            "content": "研提開放式課程的資料架構 (schema) 與資料交換方案、建立一站式開放課程查詢網頁雛形、與國內開放式課程營運單位、使用推廣單位交流"
+          }
+        },
+        {
+          "key": "YskrQ0Cml05cU09uC0q+ojQ",
+          "type": "form-short-answer",
+          "title": "提案代表人",
+          "answer": {
+            "content": "Ted (顥天)"
+          }
+        },
+        {
+          "key": "2BOf6f0FkI05170CTp04D1OkM",
+          "type": "form-radio",
+          "title": "提案代表人是否具有 U-22 組資格？",
+          "answer": {
+            "list": [
+              "是"
+            ],
+            "other": false
+          }
+        },
+        {
+          "key": "3C1UH908RD05fW0A7q03cQpZs",
+          "type": "form-long-answer",
+          "title": "提案團隊簡介",
+          "answer": {
+            "content": "台灣開放教育推動團隊是由在學學生、教育工作者、開放知識及開源社群參與者，所組成的自發性團隊，關心開放教育的學習資源，積極與民間開放教育資源交流討論，並整理資源供學生參考，實踐「Open for everyone, support for needed」的概念，讓課程開放給所有人，並給予足夠資源與協助給有進一步學習動機的學生、教育工作者。",
+            "useMarkdown": false
+          }
+        },
+        {
+          "key": "3MJ5l04vc05dn0AFt048Osxh",
+          "type": "form-long-answer",
+          "title": "為什麼要做這個專案？（動機）",
+          "answer": {
+            "content": "OCW（OpenCourseWare）自2001年由美國麻省理工學院提出，台灣也於 2007 年由交通大學率先響應，許多大專院校紛紛跟進，建立豐富的線上課程資源。團隊成員本身也從國中生的學習情境中，了解相關課程資源，發現以下問題：\n\n一、開放式課程資料分散，使用者需要多方查詢，不易促進整體資料分析與應用 🧐\n目前各個平台網站其系統皆獨自運行，未有完整整合平台，依照團隊逐站瞭解，少數開放課程平台（如中華開放教育平台）有涵蓋尚未自行建立 OCW 網站的大專院校課程。但整體來說，仍未解決 OCW 之分散情形，依團隊成員檢索也尚未查得「開放式課程資料集」釋出，也因此許多的資料應用構想，例如「開放式課程-個人課表 app」、「同名課程跨校內容比較」等應用也甚為少見。\n\n二、開放式課程資源，需要加強串接 U18 年齡層的學習情境 😎\nU18 意即年齡層 18 歲以前，包含國高中學校學習歷程中，尚未有效整合開放式課程資源。例如國中的校內資訊領域課程提供入門類課程內容後，引介資訊領域的「開放式課程資源」，或是作為「高中自主學習」的資源等。\n\n延伸課題包含：(1) 學生若完成 OCW 平台課程後，能否取得到相關認證或證明 (2) 許多 OCW 網頁已有長時間未更新 (3) 非大專院校所開設的線上特色課程，也期待能進行呈現給 U18 年齡層的學習者。（前述課題描述參考本團隊訪談六位國高中與大學生，回顧國中階段的資訊領域課程教學方式：[https://bit.ly/3i5brEH](https://bit.ly/3i5brEH)，以及團隊成員包含國中教師與學生的現況經驗）",
+            "useMarkdown": true
+          }
+        },
+        {
+          "key": "3MgBgJ0E-N05kO09i802PR6+d",
+          "type": "form-long-answer",
+          "title": "請以此句型釐清專案目標、受眾與獨特性：",
+          "answer": {
+            "content": "為了解決個人學習者、自主學習推動單位與教育機關遇到的資源分散之蒐集上困難，我們的專案提供入口整合查詢平台，可以做到課程的整理與比較。我們的專案跟現有的跨校平台，在課程完整度與課程搜尋結果排行的演算法不同，因此具有不可取代性。"
+          }
+        },
+        {
+          "key": "BEU6K02v905ZG09I80IE3m+",
+          "type": "form-long-answer",
+          "title": "請列出這個計畫的目標對象，他們的需求、情境與使用動機？",
+          "answer": {
+            "content": "一、提供「個人學習者」一個開放式課程整合查詢工具\n對於學習者，本平台將能提供更好的學習體驗，進而提高學習效率。\n\n二、提供「自主學習推動單位：組織、老師」輔助於課程資源籌備\n透過本階段所完成的「課程整合查詢網頁、課程資訊資料集」等專案雛形，進一步諮詢國高中自主學習推動單位，進行專案意見蒐集。意見舉例例如期待能自行上傳符合 開放式課程 schema 資料格式的課程資料，以利課程資訊流通，或協助 OCW 課程的刊登與上傳。本專案所整理之 API 服務，亦可提供各類教育推動單位運用。\n\n三、提供「教育機關與部門」安排進階學習資源\n基於開放式學習風潮，教育部門各階段可掌握大專院校之開放式課程資源總覽，體制內教學可以更進一步搭配線上開放式課程，讓學生可以了解校內校外的學習資源指引。"
+          }
+        },
+        {
+          "key": "3dNUK30AnT05I8095W04RAGR8",
+          "type": "form-short-answer",
+          "title": "請提供本專案的示意圖或介面設計草圖",
+          "answer": {
+            "content": "https://www.figma.com/proto/oAEHhJqzb9zJ4i2zQsIYqS/CourseAPI-Wireframe?node-id=2%3A2&starting-point-node-id=2%3A2"
+          }
+        },
+        {
+          "key": "4EJWtG0BbQ05Yq09Ex0-IG1J",
+          "type": "form-long-answer",
+          "title": "你覺得本專案可能會面臨的困難有哪些，你又會如何解決這些困難？",
+          "answer": {
+            "content": "本專案在營運上需要雲端主機等相關技術營運費用，因此在開銷方面，可能是我們將會遇到最大的困難。\n我們預計會透過尋求企業贊助，籌措經費以保持平台的持續運作，也藉此連結更多元的網站推廣夥伴。"
+          }
+        },
+        {
+          "key": "iiTX_07T105Th0B5403S1jkP",
+          "type": "form-long-answer",
+          "title": "本專案結束後，未來可能進一步的發展？",
+          "answer": {
+            "content": "一、Open Course Data/API 研提開放式課程的資料架構 (schema) 與資料交換方案\n二、One-stop 建立一站式開放課程查詢網頁雛形\n三、Co-work 與國內開放式課程營運單位、國高中階段的使用單位交流"
+          }
+        },
+        {
+          "key": "29XT5707sx05KQ0Azo03lYmSf",
+          "type": "form-radio",
+          "title": "自選「四大主題」分類或「其他」",
+          "answer": {
+            "list": [
+              "教育內容（Educational Content）"
+            ],
+            "other": false
+          }
+        },
+        {
+          "key": "3mUQlN087S05ho0Ctn03I+5z8",
+          "type": "form-short-answer",
+          "title": "若有本專案介紹的投影片，請提供。",
+          "answer": {
+            "content": "https://docs.google.com/presentation/d/1N95JR5NmzzkBwwPpx3p4X5JzvJMpxQxLabrUTdKGYGQ/edit?usp=sharing"
+          }
+        },
+        {
+          "key": "e_NVW0CmB05sV0B8M03tFL+N",
+          "type": "form-long-answer",
+          "title": "你有什麼其他想補充的事情嗎？",
+          "answer": {
+            "content": "團隊網頁：[https://toedu.g0v.tw/](https://toedu.g0v.tw/)\n\n團隊信箱：[mailto:toedu@googlegroups.com](mailto:toedu@googlegroups.com)\n\n專案頻道：g0v slack #edu-open",
+            "useMarkdown": true
+          }
+        }
+      ]
+    },
+    {
+      "slug": "2Sk_LR05YD05j20AmR02l9dxC",
+      "name": "鄉民都來開拓公民天文學家的地圖[0]：從互動式開源教材開始",
+      "description": "藉由舉辦工作坊及黑客松，與鄉民們一同協作開發多個基於開放資料且開放授權允許他人使用改作的天文教育網頁應用程式，希望能結合不同背景的人提供天文知識、教材設計、程式開發、使用回饋等貢獻，以達到公民參與天文推廣教育的目的。",
+      "group": "零時小學校 Demo Day 2021-2022",
+      "owner": "astrobackhacker",
+      "team": null,
+      "tags": [],
+      "badge": "winner",
+      "thumb": "img/prj/2Sk_LR05YD05j20AmR02l9dxC.webp",
+      "createdtime": "2021-11-18T19:14:19.793Z",
+      "fields": [
+        {
+          "key": "fOoUs0ec05i+09N202je6p+",
+          "type": "form-short-answer",
+          "title": "專案名稱",
+          "answer": {
+            "content": "鄉民都來開拓公民天文學家的地圖[0]：從互動式開源教材開始"
+          }
+        },
+        {
+          "key": "2DXUGn0A-o05+m0Awe02ryQk6",
+          "type": "form-short-answer",
+          "title": "專案簡介",
+          "answer": {
+            "content": "藉由舉辦工作坊及黑客松，與鄉民們一同協作開發多個基於開放資料且開放授權允許他人使用改作的天文教育網頁應用程式，希望能結合不同背景的人提供天文知識、教材設計、程式開發、使用回饋等貢獻，以達到公民參與天文推廣教育的目的。"
+          }
+        },
+        {
+          "key": "YskrQ0Cml05cU09uC0q+ojQ",
+          "type": "form-short-answer",
+          "title": "提案代表人",
+          "answer": {
+            "content": "Yi-Hao Su"
+          }
+        },
+        {
+          "key": "2BOf6f0FkI05170CTp04D1OkM",
+          "type": "form-radio",
+          "title": "提案代表人是否具有 U-22 組資格？",
+          "answer": {
+            "list": [
+              "否\n"
+            ],
+            "other": false
+          }
+        },
+        {
+          "key": "3C1UH908RD05fW0A7q03cQpZs",
+          "type": "form-long-answer",
+          "title": "提案團隊簡介",
+          "answer": {
+            "content": "「開放天文 拉近群眾與星空的距離」 Astrohackers in Taiwan社群致力於推動開放天文及公民天文學。我們目前的主要發展方向有: 1.在台灣天文學術及教育界推廣Python及開源文化 2.讓大眾參與協作關於天文推廣教育與研究的開源專案\n\n* 「[Astrohackers-TW: Python在天文領域的應用](https://www.facebook.com/groups/1022708484514663)」FB社團\n\n* 「[Astrohackers-TW: 天文黑客松](https://www.facebook.com/groups/888264928001934)」FB社團",
+            "useMarkdown": true
+          }
+        },
+        {
+          "key": "3MJ5l04vc05dn0AFt048Osxh",
+          "type": "form-long-answer",
+          "title": "為什麼要做這個專案？（動機）",
+          "answer": {
+            "content": "每當島民們仰望星空，總幻想能伸手捕獲星星來一探其奧秘，但即使看了科普書籍及新聞報導，他們仍覺得離星空好遠。\n\n某天，一位島民在網上搜尋：「如何捕獲星星？」時，跳出一則訊息:「嗨，這是Astrohackers in Taiwan對黑蛋們的召喚，我們在尋找潛在的獵星黑客，與我們一同開拓公民天文學家的地圖，協助建造基礎建設：互動式開源教材。點擊『接受』，你將被傳送至神祕的宇宙社團…」。"
+          }
+        },
+        {
+          "key": "3MgBgJ0E-N05kO09i802PR6+d",
+          "type": "form-long-answer",
+          "title": "請以此句型釐清專案目標、受眾與獨特性：",
+          "answer": {
+            "content": "為了解決不滿足於只在門外看熱鬧(科普書籍、新聞報導)的鄉民們遇到不知有哪些管道可協助天文教育和研究的困難，我的專案提供大眾以及從事天文教育與研究人員合作的機會，可以做到公民參與科學教育貢獻。我的專案希望能從協作過程中產出開源教材，讓更多人運用於教學、擴充改作並發起新的協作專案，因此具有不可取代性。"
+          }
+        },
+        {
+          "key": "BEU6K02v905ZG09I80IE3m+",
+          "type": "form-long-answer",
+          "title": "請列出這個計畫的目標對象，他們的需求、情境與使用動機？",
+          "answer": {
+            "content": "1. 想參與天文教育與研究的公民們能藉由自主提案感興趣的天文主題、協助教材設計開發與使用回饋，對於科學教育提供貢獻\n2. 學生們能藉由互動式教材引發學習天文知識的興趣，並從天文相關的實例學習Python程式的撰寫，進而了解如何用Python取得、過濾分析、視覺化開放的天文資料\n3. 教師們能透過開放授權使用此計劃所產出的開源教材，並當作模版依不同教學情境擴充改作教材",
+            "useMarkdown": true
+          }
+        },
+        {
+          "key": "3dNUK30AnT05I8095W04RAGR8",
+          "type": "form-short-answer",
+          "title": "請提供本專案的示意圖或介面設計草圖",
+          "answer": {
+            "content": "https://github.com/YihaoSu/streamlit4astroedu-exoplanets"
+          }
+        },
+        {
+          "key": "4EJWtG0BbQ05Yq09Ex0-IG1J",
+          "type": "form-long-answer",
+          "title": "你覺得本專案可能會面臨的困難有哪些，你又會如何解決這些困難？",
+          "answer": {
+            "content": "開發網頁應用程式涉及多項複雜技術，為了降低教材開發門檻、方便讓人改作以豐富教材模版，本專案將使用Streamlit作為開發教材的工具，使用者只要以Python程式語言就能快速製作出能視覺化資料的網頁應用程式並分享到網路上。此外，有興趣參與的協作者可能不了解如何使用開放的天文資料，也可能對於Python和Streamlit不熟悉，這些可透過工作坊來降低協作的溝通障礙。"
+          }
+        },
+        {
+          "key": "iiTX_07T105Th0B5403S1jkP",
+          "type": "form-long-answer",
+          "title": "本專案結束後，未來可能進一步的發展？",
+          "answer": {
+            "content": "* 建立教材彙整平台，方便師生搜尋合適的教材\n* 大眾與天文學家一同協作開發出適合讓公民參天文研究的開源應用程式",
+            "useMarkdown": true
+          }
+        },
+        {
+          "key": "29XT5707sx05KQ0Azo03lYmSf",
+          "type": "form-radio",
+          "title": "自選「四大主題」分類或「其他」",
+          "answer": {
+            "list": [
+              "社群經營與基礎建設（Community Management & Infrastructure）"
+            ],
+            "other": false
+          }
+        },
+        {
+          "key": "3mUQlN087S05ho0Ctn03I+5z8",
+          "type": "form-short-answer",
+          "title": "若有本專案介紹的投影片，請提供。",
+          "answer": {
+            "content": "https://hackmd.io/@astrobackhacker/r1sEG3eeF#/"
+          }
+        },
+        {
+          "key": "e_NVW0CmB05sV0B8M03tFL+N",
+          "type": "form-long-answer",
+          "title": "你有什麼其他想補充的事情嗎？",
+          "answer": {
+            "content": "曾在PyCon Taiwan 2021分享如何用Streamlit快速開發用於天文及程式教育的網頁apps：「[搭上Streamlit特快車遊沐星光程式](https://tw.pycon.org/2021/zh-hant/conference/talk/201)」",
+            "useMarkdown": true
+          }
+        }
+      ]
+    },
+    {
+      "slug": "2Ub81R0G6W05280A2607K3j4",
+      "name": "音感訓練app",
+      "description": "在準備音樂系術科的過程中，發現聽音感訓練的資源大都是外語而且分散，希望能做出一個app",
+      "group": "零時小學校 Demo Day 2021-2022",
+      "owner": "yutang0323",
+      "team": null,
+      "tags": [],
+      "badge": null,
+      "thumb": "img/prj/2Ub81R0G6W05280A2607K3j4.webp",
+      "createdtime": "2021-11-21T00:05:04.842Z",
+      "fields": [
+        {
+          "key": "fOoUs0ec05i+09N202je6p+",
+          "type": "form-short-answer",
+          "title": "專案名稱",
+          "answer": {
+            "content": "音感訓練app"
+          }
+        },
+        {
+          "key": "2DXUGn0A-o05+m0Awe02ryQk6",
+          "type": "form-short-answer",
+          "title": "專案簡介",
+          "answer": {
+            "content": "在準備音樂系術科的過程中，發現聽音感訓練的資源大都是外語而且分散，希望能做出一個app"
+          }
+        },
+        {
+          "key": "YskrQ0Cml05cU09uC0q+ojQ",
+          "type": "form-short-answer",
+          "title": "提案代表人",
+          "answer": {
+            "content": "游聿堂"
+          }
+        },
+        {
+          "key": "2BOf6f0FkI05170CTp04D1OkM",
+          "type": "form-radio",
+          "title": "提案代表人是否具有 U-22 組資格？",
+          "answer": {
+            "list": [
+              "是"
+            ],
+            "other": false
+          }
+        },
+        {
+          "key": "3C1UH908RD05fW0A7q03cQpZs",
+          "type": "form-long-answer",
+          "title": "提案團隊簡介",
+          "answer": {
+            "content": "1. 游聿堂\n高中自學生，會一點點音樂和程式\n2. 需要音樂顧問和app開發人員\n3. ui/ux開發\n\n",
+            "useMarkdown": true
+          }
+        },
+        {
+          "key": "3MJ5l04vc05dn0AFt048Osxh",
+          "type": "form-long-answer",
+          "title": "為什麼要做這個專案？（動機）",
+          "answer": {
+            "content": "在自己準備大學音樂系的術科考試時(樂理、聽寫、視唱)時，發現多數練習網站都是以外語為主，而且很多都需要電腦，這對於很多高中生是不太方便的，所以我希望結合多種練習功能，而且能夠用手機和全中文呈現，並且能提供數據統計弱點分析。"
+          }
+        },
+        {
+          "key": "3MgBgJ0E-N05kO09i802PR6+d",
+          "type": "form-long-answer",
+          "title": "請以此句型釐清專案目標、受眾與獨特性：",
+          "answer": {
+            "content": "為了解決**音樂自學者**遇到的中文**資源不足**問題，我的專案提供集合**多種練習功能**、**全中文**、並提供**手機app**，可以做到讓更多人方便的練習音感。我的專案和Gnu solfege、Music exercise，不同的是他可以在手機上使用、介面更乾淨、中文，因此具備不可替代性。",
+            "useMarkdown": true
+          }
+        },
+        {
+          "key": "BEU6K02v905ZG09I80IE3m+",
+          "type": "form-long-answer",
+          "title": "請列出這個計畫的目標對象，他們的需求、情境與使用動機？",
+          "answer": {
+            "content": "想自行練習音感的任何人，尤其是非科班想考音樂班的學生，在資源有限，每辦法請老師幫忙練習，也沒有足夠好的外語能力。"
+          }
+        },
+        {
+          "key": "3dNUK30AnT05I8095W04RAGR8",
+          "type": "form-short-answer",
+          "title": "請提供本專案的示意圖或介面設計草圖",
+          "answer": {
+            "content": "https://hackmd.io/1OBnOydtQQSIECO1PelsGg"
+          }
+        },
+        {
+          "key": "4EJWtG0BbQ05Yq09Ex0-IG1J",
+          "type": "form-long-answer",
+          "title": "你覺得本專案可能會面臨的困難有哪些，你又會如何解決這些困難？",
+          "answer": {
+            "content": "最大困難我認為在開發過程，我雖然有一些寫程式經驗，但完全不會開發app，設計ui/ux，希望透過邀請有興趣的同學一同參語。"
+          }
+        },
+        {
+          "key": "iiTX_07T105Th0B5403S1jkP",
+          "type": "form-long-answer",
+          "title": "本專案結束後，未來可能進一步的發展？",
+          "answer": {
+            "content": "根據使用者反饋新增功能或是增加不同樂器練習(吉他)，調整介面。"
+          }
+        },
+        {
+          "key": "29XT5707sx05KQ0Azo03lYmSf",
+          "type": "form-radio",
+          "title": "自選「四大主題」分類或「其他」",
+          "answer": {
+            "list": [
+              "教育內容（Educational Content）"
+            ],
+            "other": false
+          }
+        },
+        {
+          "key": "e_NVW0CmB05sV0B8M03tFL+N",
+          "type": "form-long-answer",
+          "title": "你有什麼其他想補充的事情嗎？",
+          "answer": {
+            "content": "https://hackmd.io/1OBnOydtQQSIECO1PelsGg"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "3Cyfkt0EDc05-70AJd02ny2Yt",
+      "name": "高中生108課綱教育資源整合平台",
+      "description": "為偏鄉高中生建置一個108課綱高等教育資源整合平台，(受眾不侷限偏鄉高中生)，提供學生在地化師資查詢，學術活動資源整合，及給高中生升學先修自學專區，期待弭平城鄉差距。",
+      "group": "零時小學校 Demo Day 2021-2022",
+      "owner": "hctsai.be10",
+      "team": null,
+      "tags": [],
+      "badge": "winner",
+      "thumb": "img/prj/3Cyfkt0EDc05-70AJd02ny2Yt.webp",
+      "createdtime": "2021-11-22T11:18:35.093Z",
+      "fields": [
+        {
+          "key": "fOoUs0ec05i+09N202je6p+",
+          "type": "form-short-answer",
+          "title": "專案名稱",
+          "answer": {
+            "content": "高中生108課綱教育資源整合平台"
+          }
+        },
+        {
+          "key": "2DXUGn0A-o05+m0Awe02ryQk6",
+          "type": "form-short-answer",
+          "title": "專案簡介",
+          "answer": {
+            "content": "為偏鄉高中生建置一個108課綱高等教育資源整合平台，(受眾不侷限偏鄉高中生)，提供學生在地化師資查詢，學術活動資源整合，及給高中生升學先修自學專區，期待弭平城鄉差距。"
+          }
+        },
+        {
+          "key": "YskrQ0Cml05cU09uC0q+ojQ",
+          "type": "form-short-answer",
+          "title": "提案代表人",
+          "answer": {
+            "content": "蔡秀吉"
+          }
+        },
+        {
+          "key": "2BOf6f0FkI05170CTp04D1OkM",
+          "type": "form-radio",
+          "title": "提案代表人是否具有 U-22 組資格？",
+          "answer": {
+            "list": [
+              "是"
+            ],
+            "other": false
+          }
+        },
+        {
+          "key": "3C1UH908RD05fW0A7q03cQpZs",
+          "type": "form-long-answer",
+          "title": "提案團隊簡介",
+          "answer": {
+            "content": "三名來自屏南地區東港、枋寮及恆春的學生，就讀屏東縣的社區高中；見識到城鄉教育上的困境，希望改善 108課綱於偏鄉地區高中實際遇到的問題。\n\n> 1.   吳宜樺：顧問、屏東縣第八任兒少代表，致力於推廣 資源「屏」權，突破教育框架，思考如何解決城鄉教育上的困境\n> 2.   吳恩恩：顧問、潮州高中班聯會主席。\n> 3.   蔡秀吉：全端工程師、主修醫學相關科系。\n> 4.   需要前端、後端還有UI開發人員\n",
+            "useMarkdown": true
+          }
+        },
+        {
+          "key": "3MJ5l04vc05dn0AFt048Osxh",
+          "type": "form-long-answer",
+          "title": "為什麼要做這個專案？（動機）",
+          "answer": {
+            "content": "團隊成員皆來自貧東偏鄉高中，一名為第一屆108課綱白老鼠，一名是99課綱尾代，校本課程無法滿足我們對於喜歡領域知識上的追求，上了台北參與了相關的培訓營，因緣際會下，見識了都市高中生的經歷，從小到大身處舒適圈的我們，第一次感受到嚴重的「城鄉差距」，身為高中生機會成本最低，是最可以嘗試及犯錯的時候，原來有這麼多的資源進修自我，但是我們居然都不知道。\n提案人現為大一新鮮人，剛上大學看到來自各地的電神，也許我已經了錯過高中三年的機會，覺得有些許遺憾，但是遺憾不能改變任何事。既然找到問題，力所能及的我就來做出改變幫助下一屆學弟妹別再重蹈覆轍；於是漸漸去思考，應該如何去建置一個資源平台推廣給偏鄉莘莘學子，我們要開發什麼樣專案的給下一屆？"
+          }
+        },
+        {
+          "key": "3MgBgJ0E-N05kO09i802PR6+d",
+          "type": "form-long-answer",
+          "title": "請以此句型釐清專案目標、受眾與獨特性：",
+          "answer": {
+            "content": "為了解決偏鄉高中生資源的城鄉差距及他們108課綱自主學習時間運用、升學遇到的困難，我們的專案計畫提供108課綱的高中生高等教育資源整合平台，期望可以做到以學生為學習中心，學生需要甚麼的基礎能力，高中盡量來幫助他；學生可以查詢該校老師的研究專長，讓有興趣的高中生可以利用自主學習時間做科展、專題等研究，期望做到具備學術活動的資訊(競賽、中研院、教育部人才培育計畫。)並以校園電郵推播。\n想要設立一個專區並與大學端合作，提供校系招收學生，須具備什麼能力，整合OCW課程或是大學線上修課平台，使志向明確且極具興趣的學生自主超前學習。我的專案跟現有的高中資訊布告欄，在消息推廣及整合上不同，本專案具備新穎想法，並且整理該高中老師專長供查詢便於學生做進一步專題研究，因此具有不可取代性。"
+          }
+        },
+        {
+          "key": "BEU6K02v905ZG09I80IE3m+",
+          "type": "form-long-answer",
+          "title": "請列出這個計畫的目標對象，他們的需求、情境與使用動機？",
+          "answer": {
+            "content": "> 1.  提供「高中生」(不僅限偏鄉地區)一個108課綱學術資源整合工具 \n可以更好的搜尋到自己感興趣的資訊、或是師資。\n108課綱上路改變了一切 偏鄉、弱勢高中，因為師資不足，開不出那麼多多元選修課，此平台預計具備更好的學術性活動整合，突破教育框架，弭平城鄉差距。\n \n> 2.  提供「升學」資料整合，各大學校系招收學生，需要學生具備何種基礎能力，OCW課程及線上修課平台，讓清楚知道自己志向的學生先修，或是培養不同能力；學生藉由體驗大學該科系課程看看是否有共鳴，並從學習過程能夠肯定自己價值，更加認識自己，知道未來想選甚麼路。\n\n> 3.  提供「教育部國民及學前教育署」，一個範例，安排在地化學習資源；其實本專案願景，是希望將本專案提及技術整合於「國教署高中生108課綱學習歷程服務平台」當中，\n以枋寮高中為例，學生登入後，可以查詢枋寮高中老師們專長領域，並且聯繫他們，於108課綱校定自主學習時間，找指導老師進行學習。以及系統在地化，地區高等教育機構(屏東大學)、屏東縣青少年中心提供何種師資、開放式課程資源、學術活動、培育營隊可以參與開啟在地創生，將學習到的知識活用於在地。",
+            "useMarkdown": true
+          }
+        },
+        {
+          "key": "3dNUK30AnT05I8095W04RAGR8",
+          "type": "form-short-answer",
+          "title": "請提供本專案的示意圖或介面設計草圖",
+          "answer": {
+            "content": "https://photos.app.goo.gl/Ut223A7GAswsXBd69"
+          }
+        },
+        {
+          "key": "4EJWtG0BbQ05Yq09Ex0-IG1J",
+          "type": "form-long-answer",
+          "title": "你覺得本專案可能會面臨的困難有哪些，你又會如何解決這些困難？",
+          "answer": {
+            "content": "就團隊成員108課綱白老鼠的經驗談，實行上，偏遠地區老師對於108課綱探究課程，老師不會引導，不是一個從旁協助者，反而使用舊有制度，上一樣的課程。\n最大困難我認為在於 國教署對的職前訓練(研習學分)，要求老師填寫其專長領域供學生查詢，要求老師推廣此平台。\n\n前瞻基礎建設數位建設已完成，硬體建置好，對於偏鄉學校而言，就好像一台好的電競主機灌Win XP，絕大部分的偏鄉莘莘學子根本沒有察覺，學校並沒有好好的推廣；若蒙未來本專案平台成功上線，希望結合課程進行平台資源推廣。\n希望各大學端能提供(招收學生須具備何種基礎能力) 推薦先修課程 OCW 或是先修平台\n開發過程，超困難，敝生有寫程式架設伺服器網站相關經驗，但是都只是入門，需要網站開發人員。\n"
+          }
+        },
+        {
+          "key": "iiTX_07T105Th0B5403S1jkP",
+          "type": "form-long-answer",
+          "title": "本專案結束後，未來可能進一步的發展？",
+          "answer": {
+            "content": "是希望學生將學習技能運用於在地創生，發掘自己能夠為村落做的事，偏鄉最缺乏的就是認識自己的家鄉。"
+          }
+        },
+        {
+          "key": "29XT5707sx05KQ0Azo03lYmSf",
+          "type": "form-radio",
+          "title": "自選「四大主題」分類或「其他」",
+          "answer": {
+            "list": [
+              "教育內容（Educational Content）"
+            ],
+            "other": false
+          }
+        },
+        {
+          "key": "3mUQlN087S05ho0Ctn03I+5z8",
+          "type": "form-short-answer",
+          "title": "若有本專案介紹的投影片，請提供。",
+          "answer": {
+            "content": "https://docs.google.com/forms/d/e/1FAIpQLSdvCTcy7V6J415MNrC1kIAqtHpRDzpuFXAF9k-kt4cBYTIXjg/viewform?usp=sf_link"
+          }
+        },
+        {
+          "key": "e_NVW0CmB05sV0B8M03tFL+N",
+          "type": "form-long-answer",
+          "title": "你有什麼其他想補充的事情嗎？",
+          "answer": {
+            "content": "https://sites.google.com/view/change108"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "qZw2g0Ej_05CW09Tv0noYNc",
+      "name": "Swipe For Study Buddies 有效的尋找學伴及資源",
+      "description": "讓想學習不同東西的人可以快速篩選學習夥伴同時拿到整理過的相關內容及資源，本專案之計畫在於透過網頁，讓使用者迅速找到學習同伴或是老師，提升學習效率與增加學習動機。目前希望以常見的約會應用程式介面實作使用者填入個人資料，以google login api讓使用者註冊然後填入自己的興趣、專長、想學習的事情(以tags的方式實作)，然後我們會推薦其他和他相近的使用者進行左滑（不喜歡）右滑（喜歡）的動作去找尋與自己有共同愛好的人，常見的像是Tinder, JD 等等的就是這樣運作，我認為這樣的篩選方式可以讓人快速的找到有共同興趣的人，並且提供使用者相關的網路社群及開放課程的資源統整結果，讓人能一目瞭然，更有效的找到學習資源。",
+      "group": "零時小學校 Demo Day 2021-2022",
+      "owner": "tonychen",
+      "team": null,
+      "tags": [],
+      "badge": "winner",
+      "thumb": "img/prj/qZw2g0Ej_05CW09Tv0noYNc.webp",
+      "createdtime": "2021-11-28T03:55:26.030Z",
+      "fields": [
+        {
+          "key": "fOoUs0ec05i+09N202je6p+",
+          "type": "form-short-answer",
+          "title": "專案名稱",
+          "answer": {
+            "content": "Swipe For Study Buddies 有效的尋找學伴及資源"
+          }
+        },
+        {
+          "key": "2DXUGn0A-o05+m0Awe02ryQk6",
+          "type": "form-short-answer",
+          "title": "專案簡介",
+          "answer": {
+            "content": "讓想學習不同東西的人可以快速篩選學習夥伴同時拿到整理過的相關內容及資源，本專案之計畫在於透過網頁，讓使用者迅速找到學習同伴或是老師，提升學習效率與增加學習動機。目前希望以常見的約會應用程式介面實作使用者填入個人資料，以google login api讓使用者註冊然後填入自己的興趣、專長、想學習的事情(以tags的方式實作)，然後我們會推薦其他和他相近的使用者進行左滑（不喜歡）右滑（喜歡）的動作去找尋與自己有共同愛好的人，常見的像是Tinder, JD 等等的就是這樣運作，我認為這樣的篩選方式可以讓人快速的找到有共同興趣的人，並且提供使用者相關的網路社群及開放課程的資源統整結果，讓人能一目瞭然，更有效的找到學習資源。"
+          }
+        },
+        {
+          "key": "YskrQ0Cml05cU09uC0q+ojQ",
+          "type": "form-short-answer",
+          "title": "提案代表人",
+          "answer": {
+            "content": "Tony Chen"
+          }
+        },
+        {
+          "key": "2BOf6f0FkI05170CTp04D1OkM",
+          "type": "form-radio",
+          "title": "提案代表人是否具有 U-22 組資格？",
+          "answer": {
+            "list": [
+              "是"
+            ],
+            "other": false
+          }
+        },
+        {
+          "key": "3C1UH908RD05fW0A7q03cQpZs",
+          "type": "form-long-answer",
+          "title": "提案團隊簡介",
+          "answer": {
+            "content": "Tony Chen：提案的人，高中生，目前只有想法，並且在查詢然後把這個計畫描述得更好中 <br />\n<br />\nStacy Chen：Tony 的同學，製作圖畫，封面，文案的部分，跟資料的搜尋 <br />\n<br />\nYoung：南工的網頁設計社長，會幫忙前端跟整個架構的想法。<br />\n<br />\n目前需要有意願帶我實做的人，想以網頁的方式去做，主要是寫網頁跟爬蟲的部分，可以教我然後提供意見指導以及顧問、專案經理\n",
+            "useMarkdown": true
+          }
+        },
+        {
+          "key": "3MJ5l04vc05dn0AFt048Osxh",
+          "type": "form-long-answer",
+          "title": "為什麼要做這個專案？（動機）",
+          "answer": {
+            "content": "我是一名高中生，學習 competitive programming，但是經常發生資源取得不易的問題，所以透過這個專案來解決。雖然網路資源相當發達，可是當你漫無目的地尋找著關鍵字詞或目標時，卻容易一無所獲，或是在一些facebook討論團發問，卻被批評自己可以先進行google(對新手不友善)，可是有時候我們不一定知道相關的專有名詞，真的不容易想到關鍵字去進行搜尋，導致在網路上進行搜尋都做不到，也因此，我發現人脈或是朋友也是學習的過程中不可或缺的要素，以我自身為例子，我一開始不知道競技程式是什麼，我只知道我喜歡電腦程式，直到我某天偶然發現了一個社群，裡面有許多厲害的人在做這樣的事情，我才發現這是我蠻喜歡的事情。但是在那之前，我連競程是什麼都不知道，更不用說是上網查詢了。因此想做一個可以快速篩選有相關興趣或是專長的學伴的交友網頁。"
+          }
+        },
+        {
+          "key": "3MgBgJ0E-N05kO09i802PR6+d",
+          "type": "form-long-answer",
+          "title": "請以此句型釐清專案目標、受眾與獨特性：",
+          "answer": {
+            "content": "為了解決在學習過程中的人們遇到的資源獲取不易的困難，我們的專案提供學伴配對的功能，可以讓使用者透過學伴的配對與交流，互相推薦資源或是社群。我們的專案跟學伴配對系統與其他交友軟體、自學地圖或是技能交換網站不同，一般的技能交換需要使用者自行用關鍵字搜尋，我們則是主動推薦其他使用者的資訊供使用者篩選，因此具有不可取代性。",
+            "useMarkdown": true
+          }
+        },
+        {
+          "key": "BEU6K02v905ZG09I80IE3m+",
+          "type": "form-long-answer",
+          "title": "請列出這個計畫的目標對象，他們的需求、情境與使用動機？",
+          "answer": {
+            "content": "-目標年齡層：小學至社會人士 <br  />\nAges: From elementary student to people who graduate <br />\n\n-目標群體：有相同興趣/有特別熱愛的科目的人（學習交流為主）<br  />\nUser group: people who have the same interests, not limiting to school work but anything you are willing to learn. <br  />\n\n-以學生為例：我是一名學生，我想學習攝影，但是我不知道有哪些社群或是資源可以使用，也不知道某些專有名詞（技巧或是相機結構等），於是使用此網站尋找比我更資深的人學習及提問。\n",
+            "useMarkdown": true
+          }
+        },
+        {
+          "key": "3dNUK30AnT05I8095W04RAGR8",
+          "type": "form-short-answer",
+          "title": "請提供本專案的示意圖或介面設計草圖",
+          "answer": {
+            "content": "https://imgur.com/a/i0PFsvc     https://ibb.co/FwHD2Z3"
+          }
+        },
+        {
+          "key": "4EJWtG0BbQ05Yq09Ex0-IG1J",
+          "type": "form-long-answer",
+          "title": "你覺得本專案可能會面臨的困難有哪些，你又會如何解決這些困難？",
+          "answer": {
+            "content": "-篩選的演算法及整合資源爬蟲<br  />\n-網站的架設（全端工程師）<br  />\n-顧問<br  />\n-找尋有意願協助我們（教我們）的人組成團隊共同完成專案！",
+            "useMarkdown": true
+          }
+        },
+        {
+          "key": "iiTX_07T105Th0B5403S1jkP",
+          "type": "form-long-answer",
+          "title": "本專案結束後，未來可能進一步的發展？",
+          "answer": {
+            "content": "-做成一個手機軟體  <br  />\n-擴大給其他語言的使用者  <br  />\n-增加能條列與關鍵字相關的學習資源及社群的功能，讓使用者不必再花時間過濾資料",
+            "useMarkdown": true
+          }
+        },
+        {
+          "key": "29XT5707sx05KQ0Azo03lYmSf",
+          "type": "form-radio",
+          "title": "自選「四大主題」分類或「其他」",
+          "answer": {
+            "list": [
+              "遠距教學解決方案（Solution of Distance Learing）"
+            ],
+            "other": false
+          }
+        },
+        {
+          "key": "3mUQlN087S05ho0Ctn03I+5z8",
+          "type": "form-short-answer",
+          "title": "若有本專案介紹的投影片，請提供。",
+          "answer": {
+            "content": "https://www.canva.com/design/DAEx7tWxlsE/TXPiyaHzOs2b6y_G6LuDJg/view?utm_content=DAEx7tWxlsE&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton&fbclid=IwAR0S0o_IGYwejxapaWMGG5laQTZriYM_jjj1AQjqbCpHWY9OXMmRt1yKNas"
+          }
+        },
+        {
+          "key": "e_NVW0CmB05sV0B8M03tFL+N",
+          "type": "form-long-answer",
+          "title": "你有什麼其他想補充的事情嗎？",
+          "answer": {
+            "content": "專案的詳細介紹：https://hackmd.io/LFuXom9sTRyBIdg0Ua_ouw <br />\n專案的簡報：https://www.canva.com/design/DAEx7tWxlsE/TXPiyaHzOs2b6y_G6LuDJg/view?utm_content=DAEx7tWxlsE&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton&fbclid=IwAR1sfCLT12Zjr2WAi5dC9lv5sswusDXItR7LyrKdZBd3LY2SmSNZgCTNW54#9 <br />\n<br />\n專案的g0v slack頻道： g0v slack #edu_swipe_for_study_buddies\n<br />\n請幫我填調查問卷：https://docs.google.com/forms/d/1Bh4PDeuJvpDxVIdFy_z_LnxNGr-WMv8LFUW2eGuN1gk/edit  <br />\n<br />\nfacebook：陳韞同 <br />\nemail：tonychen9321@gmail.com <br />\n想加入協作的請馬上聯絡我吧!!!!!",
+            "useMarkdown": true
+          }
+        }
+      ]
+    },
+    {
+      "slug": "3i+GoS03kR05B809kR02H3p7L",
+      "name": "眾生開眼_坪林尋怪地圖",
+      "description": "「眾生開眼_坪林尋怪地圖」計畫結合國中跨域課程，討論在地議題與轉化成怪奇故事；公民共編虛實交錯的線上地圖；並透過跨群參與小旅行，以怪奇主題引起探索好奇心，讓大眾重新介入所處的環境現場討論公共議題。也藉教案分享、小旅行、開源地圖系統串聯地方教育及社區工作社群，讓普羅大眾得此法寶開眼開智慧，善哉！",
+      "group": "零時小學校 Demo Day 2021-2022",
+      "owner": "坪林故事採集",
+      "team": null,
+      "tags": [],
+      "badge": "winner",
+      "thumb": "img/prj/3i+GoS03kR05B809kR02H3p7L.webp",
+      "createdtime": "2021-11-29T22:41:30.998Z",
+      "fields": [
+        {
+          "key": "fOoUs0ec05i+09N202je6p+",
+          "type": "form-short-answer",
+          "title": "專案名稱",
+          "answer": {
+            "content": "眾生開眼_坪林尋怪地圖"
+          }
+        },
+        {
+          "key": "2DXUGn0A-o05+m0Awe02ryQk6",
+          "type": "form-short-answer",
+          "title": "專案簡介",
+          "answer": {
+            "content": "「眾生開眼_坪林尋怪地圖」計畫結合國中跨域課程，討論在地議題與轉化成怪奇故事；公民共編虛實交錯的線上地圖；並透過跨群參與小旅行，以怪奇主題引起探索好奇心，讓大眾重新介入所處的環境現場討論公共議題。也藉教案分享、小旅行、開源地圖系統串聯地方教育及社區工作社群，讓普羅大眾得此法寶開眼開智慧，善哉！"
+          }
+        },
+        {
+          "key": "YskrQ0Cml05cU09uC0q+ojQ",
+          "type": "form-short-answer",
+          "title": "提案代表人",
+          "answer": {
+            "content": "陳科廷"
+          }
+        },
+        {
+          "key": "2BOf6f0FkI05170CTp04D1OkM",
+          "type": "form-radio",
+          "title": "提案代表人是否具有 U-22 組資格？",
+          "answer": {
+            "list": [
+              "否\n"
+            ],
+            "other": false
+          }
+        },
+        {
+          "key": "3C1UH908RD05fW0A7q03cQpZs",
+          "type": "form-long-answer",
+          "title": "提案團隊簡介",
+          "answer": {
+            "content": "「坪林故事採集」紮根在新北市坪林，長遠目標透過共同採集，串聯社區中不同的時空世代、重組地方力量，藉此凝聚地方認同。並透過保存故事並將之活化創新利用，以地方的永續發展為任務，共同想像坪林未來的冀望。\n成員介紹：\n陳科廷／計畫主持及視覺設計\n中興植物病理學研究所畢業。跨域從事植物、生態、藝術與社區工作，現組「採集人共作室、採集人共作室」團體規劃執行新北坪林實驗國中社區走讀課程、新北雲海國小及屏東潮南國小食農課。\n\n陳稚璽／計畫助理，負責課程規劃及表演\n世新大學性別研究所畢業。關注性/別、勞動權益、全球化遷移、生態環境等議題。具有採訪、訪調撰稿的文字工作能力與經驗。\n\n張筱翎／計畫助理\n東吳大學英國語文學系畢業。長期策劃執行藝術進駐與國際交流計畫，扮演國際藝術家建立在地連結的中介者，期望透過文化交流與跨域網絡的實踐，讓藝術創作的社會價值及能量擴散出去。並關注藝術工作者人才培育發展，2018年曾獲選國藝會海外藝遊專案，以藝術行政身份至泰國曼谷進行藝術機構 / 社區藝術節訪查。2020參與g0v零時政府雙年會，任職執行秘書，辦理行政事務與聯繫活動贊助。\n\n鄭仰婷／公關，聯絡地方資源、串聯內外部組織\n景文科技大學資管系畢業，曾任餐廳內外場人員。擅長料理、攝影。2020年正式參與「坪林故事採集」執行之「文化部青年村落文化行動計畫」，以坪林在地的親善女孩姿態，柔滑串連在地社群。\n\n鐘振紘／課程老師，負責故事文本及議題討論\n結合民俗文化及心理學等思考方式重新理解人們對於妖怪議題的好奇及恐懼，有趣的是我們喜歡那些活在平行時空的詭異生物，更熱愛那些毛骨悚然的撞鬼經驗，但越過這些故事的背後，真正令人著迷的，是這個世界帶給你我的瘋狂想像。\n\n劉盈孜／課程老師\n師大英語系、中央英研所畢業，曾擔任《潮人物》雜誌主編，曾為《新北好客都》、桃園客家文化基金會、行人文化實驗室等單位撰文，擅長挖掘人物及地方故事。現為萬華自由工作者，2017年開始參與台灣夢想城鄉營造協會，協助萬華導覽計畫、採集在地店家故事及規劃協會刊物；2018年參與坪林故事採集計畫1.0，規劃國中小文字工作坊，擔任學期講師及雜工；2019年共同企劃萬華老城咖啡香，串連在地13間咖啡店，舉辦集章活動，推廣萬華旅遊及咖啡文化。\n\n許瑋育／校內課程老師\n畢業於國立臺灣大學政治學系。大學期間由於參加社團，而在坪林進行國小生的課業輔導，從此持續深化與坪林在地的連結。曾帶領團隊前往泰國北部進行華文教學，設計符合當地學生需求的教案；亦曾擔任ibu部落共學團隊活動企劃組的實習生，與原鄉青少年一起舉辦部落巡禮活動。一年前認識坪林故事採集團隊，便開始協助坪林故事採集計畫2.0在坪林國中、坪林國小的課程執行，持續至今。目標是陪伴坪林的孩童成長，並讓他們在具有充足支持的環境下探索自我、多元發展。\n\n李昱萱／校內課程老師\n畢業於淡江大學-國際觀光管理學系。從小在坪林長大，對這塊山光水色的土地有深深的連結。家中有年長的老人，常常說著年輕時，在坪林的人生經歷，讓我對這些歷史故事興致盎然。現今於坪林實驗中學任職健教老師，同時兼授家政課與潛能英文班，並於109-2學期協助「坪林故事採集團隊」教授7.8年級走讀課且擔任表藝課老師。\n\n高任翔／全端工程師\n位元創意創辦人，擅長程式設計、電路設計、3D建模、3D列印、攝影等技術，開發LED表演道具多年，2015年踏入藝術圈後開始思考各種結合的可能性，曾任竹圍工作室主任，現專注於獨立發展，並在g0v社群參與公民科技開源計畫，也持續與身聲劇場、True-Spin舞團等合作進行開發，期望結合開源與藝術讓世界更進一步。"
+          }
+        },
+        {
+          "key": "3MJ5l04vc05dn0AFt048Osxh",
+          "type": "form-long-answer",
+          "title": "為什麼要做這個專案？（動機）",
+          "answer": {
+            "content": "本提案為「坪林故事採集 Pinglin Story」團隊於新北坪林執行，串聯地方社區－學校－外部社群的第三階段計畫，為整合並健全三方的循環流動文史、環境資源。團隊與新北市坪林實驗國中長期合作坪林文化走讀課程，執行的三年中發現以下問題需要解決：\n．就讀學生以坪林外部跨區就讀為主，缺乏對在地的了解\n．因偏鄉學校老師流動性大，地方知識系統無法長期且完整建構\n．在地長期以經濟發展為導向，但缺乏有深度的文化、環境資源整合觀光\n延續七年級認識自身、學校、社區的課程，八年級課程將地方故事、議題延伸為蘊含神秘色彩的「怪奇故事與主人妖怪」，設計一系列整學期的課程。透過學生發想、票選出20大在地議題，並實地走踏兩條尋怪路線後開始進行妖怪故事創作，在課程當中完成從妖怪生態圖繪製、故事撰寫、面具製作，到結合表演藝術課程的肢體聲音展現與動態拍攝，最終完整呈現精彩的「坪林尋怪地圖」互動網站內容，及「茶山尋怪」實體成果展覽。尋怪地圖計畫以展演、活動導覽的形式回饋到社區當中。並以實體活動「坪林奇旅」走讀工作坊，結合妖怪小旅行及工作坊活動，透過妖怪故事增加參與者對坪林的多元觀點，深化甚至介入坪林的議題討論，也一同共編尋怪地圖。\n　　藉此活化與整合社區資源，將計畫影響力更加擴大，如同拼圖一般，將逐漸於居民生活中逝去的地方記憶與地方認同，集結眾人之力再次拼湊回來，也創造對於社區更深一層的理解與展望。"
+          }
+        },
+        {
+          "key": "3MgBgJ0E-N05kO09i802PR6+d",
+          "type": "form-long-answer",
+          "title": "請以此句型釐清專案目標、受眾與獨特性：",
+          "answer": {
+            "content": "為了解決在地社群，對公眾議題的參與度低，我的專案提供引發好奇結合課程、教案工作坊、遊戲地圖、環境小旅行，可以做到進入現場多面向觀察而主動討論地方議題。我的專案跟現有的以經濟發展為主體的地方創生產業和大規模的觀光活動，在參與主體、內容深度、跨域整合（人文Ｘ科學、經濟發展Ｘ環境保育等）、活動延續性不同，因此具有不可取代性。"
+          }
+        },
+        {
+          "key": "BEU6K02v905ZG09I80IE3m+",
+          "type": "form-long-answer",
+          "title": "請列出這個計畫的目標對象，他們的需求、情境與使用動機？",
+          "answer": {
+            "content": "對象一：國中／小學生\n就讀學生以坪林外部跨區就讀為主，缺乏對在地的了解。且大多學生在國中畢業後會到外地念書、就業、生活，若對於坪林沒有認同及歸屬感，很可能不會再回來生活，但若對於坪林的歷史、文化能夠深入了解並且創造新的觀點，或許有機會在成年後決定返鄉發展，或者讓更多人認識坪林。因此我們透過整學期的地方走讀課程，讓同學了解坪林議題並由此轉化為妖怪故事登錄於尋怪地圖當中。\n\n對象二：國中／小老師\n坪林的國中小學校長期與坪林故事採集團隊發展地方學課程，校內教師在課程教學上扮演十分重要的角色，但許多教師並非坪林人，對於當地議題可能也不熟悉，團隊成員透過教師工作坊以及課程共備會議當中提供給老師尋怪地圖的使用方式，讓它作為課程教具之一，結合我們設計的教案進行課程教學。\n\n對象三：內部社區（坪林茶業博物館、在地合作青年、在地商家）\n團隊在社區的合作夥伴，需要看見計畫帶來的在地效益，團隊的長期規劃希望能夠將社區知識整合為地方學系統，並帶入在地課程，最後也將課程產出的創新活水回流社區資源，活化並深化內涵，也帶動社區的創新產業發展可能。\n\n對象四：外部參與者（外地居民）\n來到坪林的外地居民，能夠了解坪林的面向大多是在茶產業上，而非深入坪林的文化歷史及重要議題。透過小旅行結合創作的方式，讓活動參與者將過程中經過的地點或者瞭解到的地方議題，轉化為妖怪故事登錄於線上尋怪地圖當中，同時擴展妖怪資料，讓尋怪地圖不只是一個展示的平台，而是能夠提供互動及創造多元面相觀點去討論在地議題的機會。"
+          }
+        },
+        {
+          "key": "3dNUK30AnT05I8095W04RAGR8",
+          "type": "form-short-answer",
+          "title": "請提供本專案的示意圖或介面設計草圖",
+          "answer": {
+            "content": "https://drive.google.com/drive/folders/19Np_LbgT4cMxOMytr3r6GjsKY21IKgBd?usp=sharing"
+          }
+        },
+        {
+          "key": "4EJWtG0BbQ05Yq09Ex0-IG1J",
+          "type": "form-long-answer",
+          "title": "你覺得本專案可能會面臨的困難有哪些，你又會如何解決這些困難？",
+          "answer": {
+            "content": "1.除在地學生外，如何讓更多社區內部人員使用此系統\n＞串聯地方社群，主動與在地群體合作工作坊或活動，以增加此系統的認識與使用族群。如與在地博物館合作志工培訓，並升級系統改善建議\n\n2.如何讓更多來坪林的主動搜尋並使用此地圖，並在發掘問題後增加地圖資源\n＞增加地圖趣味性如AR功能，讓更多人主動打開頁面\n＞與其他觀光單位、交通業者合作\n＞增加串聯與在地店家合作的優惠互益\n\n3.如何讓曾經參與此計畫的人持續關注議題的發展\n＞加入地圖留言功能增加互動性\n＞開發類似新聞的即時通知功能\n＞串聯坪林故事採集既有的臉書粉絲頁\n\n4.缺乏使用者回饋\n＞在每次活動後了解不同使用者（如親子、青年、長者、內外地民眾）對於系統使用的建議，以修改對使用者更友善的版本\n"
+          }
+        },
+        {
+          "key": "iiTX_07T105Th0B5403S1jkP",
+          "type": "form-long-answer",
+          "title": "本專案結束後，未來可能進一步的發展？",
+          "answer": {
+            "content": "除在地圖網站持續增點、加註新故事網站外，更透過跨群的實體小旅行工作坊，以怪奇主題引起探索的好奇心，開啟大眾更多面向的觀察，重新介入所處的環境現場討論公共議題。\n目前網站編碼也放置於Github網站中，藉由開源共享精神，分享教案設計、地圖系統串聯更多地方教育及社區工作社群，讓此模式能帶到不同地區領域，改良後符合適應不同社群需求。\n"
+          }
+        },
+        {
+          "key": "29XT5707sx05KQ0Azo03lYmSf",
+          "type": "form-radio",
+          "title": "自選「四大主題」分類或「其他」",
+          "answer": {
+            "list": [
+              "教育內容（Educational Content）"
+            ],
+            "other": false
+          }
+        },
+        {
+          "key": "3mUQlN087S05ho0Ctn03I+5z8",
+          "type": "form-short-answer",
+          "title": "若有本專案介紹的投影片，請提供。",
+          "answer": {
+            "content": "https://drive.google.com/file/d/1EDvySbaMFHgMl9NTZ1H7rr2FMZYrGCAa/view?usp=sharing"
+          }
+        },
+        {
+          "key": "e_NVW0CmB05sV0B8M03tFL+N",
+          "type": "form-long-answer",
+          "title": "你有什麼其他想補充的事情嗎？",
+          "answer": {
+            "content": "網站設計開源編碼：https://github.com/SeanGau/pinglin-monster-map\n「坪林尋怪地圖」介面網址：https://strangepinglin.collective.tw/\n\n"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "3Kk5680Ap6056T0CL704_VDFW",
+      "name": "遠距教學平台",
+      "description": "藉由建立新的網頁模型，改善原先遠距教學軟體的介面設計、難以操作及教學成效等問題，透過簡單明瞭的介面設計，讓使用者操作上更容易上手。",
+      "group": "零時小學校 Demo Day 2021-2022",
+      "owner": "fufu1314",
+      "team": null,
+      "tags": [],
+      "badge": null,
+      "thumb": "img/prj/3Kk5680Ap6056T0CL704_VDFW.webp",
+      "createdtime": "2021-11-30T05:19:24.015Z",
+      "fields": [
+        {
+          "key": "fOoUs0ec05i+09N202je6p+",
+          "type": "form-short-answer",
+          "title": "專案名稱",
+          "answer": {
+            "content": "遠距教學平台"
+          }
+        },
+        {
+          "key": "2DXUGn0A-o05+m0Awe02ryQk6",
+          "type": "form-short-answer",
+          "title": "專案簡介",
+          "answer": {
+            "content": "藉由建立新的網頁模型，改善原先遠距教學軟體的介面設計、難以操作及教學成效等問題，透過簡單明瞭的介面設計，讓使用者操作上更容易上手。"
+          }
+        },
+        {
+          "key": "YskrQ0Cml05cU09uC0q+ojQ",
+          "type": "form-short-answer",
+          "title": "提案代表人",
+          "answer": {
+            "content": "Skyler"
+          }
+        },
+        {
+          "key": "2BOf6f0FkI05170CTp04D1OkM",
+          "type": "form-radio",
+          "title": "提案代表人是否具有 U-22 組資格？",
+          "answer": {
+            "list": [
+              "是"
+            ],
+            "other": false
+          }
+        },
+        {
+          "key": "3C1UH908RD05fW0A7q03cQpZs",
+          "type": "form-long-answer",
+          "title": "提案團隊簡介",
+          "answer": {
+            "content": "我們（王紀芙、劉靜、張惟翔）是教育科技相關科系的學生，藉由共同討論、協作，統整自身、他人經驗，以及線上教學相關資料，簡單構思出一個理想的遠距教學平台，需要擁有哪些功能。但成員們皆沒有程式背景，如果有幸遇到對我們的提案有興趣的人們，希望能夠一起合作！"
+          }
+        },
+        {
+          "key": "3MJ5l04vc05dn0AFt048Osxh",
+          "type": "form-long-answer",
+          "title": "為什麼要做這個專案？（動機）",
+          "answer": {
+            "content": "期望提升遠距教學的品質及便利性，補足因為操作不當、平台功能不周而導致的時間消耗，使學生學習權益受損\n"
+          }
+        },
+        {
+          "key": "3MgBgJ0E-N05kO09i802PR6+d",
+          "type": "form-long-answer",
+          "title": "請以此句型釐清專案目標、受眾與獨特性：",
+          "answer": {
+            "content": "此專案針對全台大學學生、教授發想。為了解決教授及大學學生受疫情影響之下，在遠距教學上所感受的不便及教學品質維持的瓶頸，這個專案提供更加便利、多元、彈性的學習平台，讓使用者更容易隨著清楚指示操作，其中包含能使課堂更加活潑、增強互動性的元素，使遠距教學不再枯燥乏味。而因受到訊號不穩定而影響學習權益的學生，事後也能回顧原先錯過的課程內容。\n"
+          }
+        },
+        {
+          "key": "BEU6K02v905ZG09I80IE3m+",
+          "type": "form-long-answer",
+          "title": "請列出這個計畫的目標對象，他們的需求、情境與使用動機？",
+          "answer": {
+            "content": "目前遠距教學面臨的問題：\n\n1.師生互動方面：\n難以進行課堂討論-老師和學生、學生之間互動性降低\n缺乏即時性-學生的需求或問題難以即時被發現與回應、老師難以觀察學生在課堂上的反應和狀態\n\n2.設備方面：\n網路訊號不穩定-可能導致錯過課程、音訊受到網路影響造成報告及課堂品質下降\n軟體介面/操作複雜-螢幕分享的不便、熟悉軟體操作需要花費的時間\n\n3.制度方面：\n考試作弊的可能性提高-無法現場監考、考試過程有問題難以即是獲得解決（類似上述的即時性）\n點名耗時-學生是否到課的核對耗時\n\n4.課程內容方面：\n教學內容及品質受影響-教材準備及課程安排上的困難、前述問題的交互影響\n\n上述問題不少來自於視訊軟體造成的不便。藉由建立新的網頁模型，改善上述提到的介面設計、難以操作及適應等問題，透過簡單明瞭的介面設計，讓使用者操作上更容易上手。\n\n此網路平台所需功能包含：\n\n一、點名系統\n節省口頭點名及姓名核對的時間消耗。\n\n二、互動系統\n(1)聊天室：學生或老師即時溝通的管道之一。增設提醒視窗、音效，以及標註功能，避免某一方忽略訊息\n(2)白板：可上傳word、power point等，同時包含螢幕分享、自由書寫/標註功能\n(3)分組系統：\nA.隨機分組功能\nB.自行延伸並建立新群組，可自由添加成員。此新群組能「切換」回原來的群組\n(4)互動遊戲：建立遊戲模板，可自由添加、指定成員參與\n\n三、自動計時系統\n(1)線上考試：限制考試作答時間，自動計時停止後即無法作答\n(2)互動遊戲計時功能\n\n四、自動儲存功能\n可自動螢幕錄製、保存白板編輯記錄。課程結束後能上傳雲端系統，方便學生課後複習、補課\n\n五、個人頁面建立\n協助同學個人學習檔案建立，老師能注意學生吸收情形，適時給予協助或輔導\n\n六、教材、作業雲端系統\n提供老師和學生上傳教材、作業，可開放共同編輯\n\n"
+          }
+        },
+        {
+          "key": "3dNUK30AnT05I8095W04RAGR8",
+          "type": "form-short-answer",
+          "title": "請提供本專案的示意圖或介面設計草圖",
+          "answer": {
+            "content": "https://docs.google.com/document/d/12xo4dxfwT0xRXI96aqdhA9AH0uRQAzT9gvSxLt_RGAI/edit"
+          }
+        },
+        {
+          "key": "4EJWtG0BbQ05Yq09Ex0-IG1J",
+          "type": "form-long-answer",
+          "title": "你覺得本專案可能會面臨的困難有哪些，你又會如何解決這些困難？",
+          "answer": {
+            "content": "團隊成員皆沒有程式背景，因此將設立專屬slack頻道，並在ARAY尋求具有相關專業的人才合作。\n"
+          }
+        },
+        {
+          "key": "iiTX_07T105Th0B5403S1jkP",
+          "type": "form-long-answer",
+          "title": "本專案結束後，未來可能進一步的發展？",
+          "answer": {
+            "content": "一、透過更加簡單的介面、清楚的標示，相對急需使用此平台的人們而言能夠更快上手\n\n二、著重課堂中的互動功能，使課堂能夠運用的元素更加多元，增添趣味性和互動性\n\n三、顧及受訊號穩定性影響學生，以及學生的學習權益，課餘時間依舊能回顧課程內容及教材\n"
+          }
+        },
+        {
+          "key": "29XT5707sx05KQ0Azo03lYmSf",
+          "type": "form-radio",
+          "title": "自選「四大主題」分類或「其他」",
+          "answer": {
+            "list": [
+              "遠距教學解決方案（Solution of Distance Learing）"
+            ],
+            "other": false
+          }
+        }
+      ]
+    },
+    {
+      "slug": "3fRqtF0fN059y0AyF04NcjVj",
+      "name": "Mettā-luxury 非塑料信用卡",
+      "description": "COVID-19 新解方（New Solution for Preventing Pandemic） 　教育內容（Educational Content） 　其他（Others） 非塑料信用卡 在台灣和歐洲之間，學童和成人，藝術家和科學家，跨領域的合作用商業的手段讓塑料信用卡在2030年終結使用。 這是一個在10-16歲之間的藝術和科學的學童教育。  ",
+      "group": "零時小學校 Demo Day 2021-2022",
+      "owner": "metta-luxury",
+      "team": null,
+      "tags": [],
+      "badge": null,
+      "thumb": "img/prj/3fRqtF0fN059y0AyF04NcjVj.webp",
+      "createdtime": "2021-11-30T06:14:45.034Z",
+      "fields": [
+        {
+          "key": "fOoUs0ec05i+09N202je6p+",
+          "type": "form-short-answer",
+          "title": "專案名稱",
+          "answer": {
+            "content": "Mettā-luxury 非塑料信用卡"
+          }
+        },
+        {
+          "key": "2DXUGn0A-o05+m0Awe02ryQk6",
+          "type": "form-short-answer",
+          "title": "專案簡介",
+          "answer": {
+            "content": "COVID-19 新解方（New Solution for Preventing Pandemic） 　教育內容（Educational Content） 　其他（Others） 非塑料信用卡 在台灣和歐洲之間，學童和成人，藝術家和科學家，跨領域的合作用商業的手段讓塑料信用卡在2030年終結使用。 這是一個在10-16歲之間的藝術和科學的學童教育。  "
+          }
+        },
+        {
+          "key": "YskrQ0Cml05cU09uC0q+ojQ",
+          "type": "form-short-answer",
+          "title": "提案代表人",
+          "answer": {
+            "content": "蔚清文 "
+          }
+        },
+        {
+          "key": "2BOf6f0FkI05170CTp04D1OkM",
+          "type": "form-radio",
+          "title": "提案代表人是否具有 U-22 組資格？",
+          "answer": {
+            "list": [
+              "否\n"
+            ],
+            "other": false
+          }
+        },
+        {
+          "key": "3C1UH908RD05fW0A7q03cQpZs",
+          "type": "form-long-answer",
+          "title": "提案團隊簡介",
+          "answer": {
+            "content": "蔚清文 藝術工作者 台北市人居住在法國， 專案經理。\n陳虹佑 醫護人員，顧問 。 居住在新北市。"
+          }
+        },
+        {
+          "key": "3MJ5l04vc05dn0AFt048Osxh",
+          "type": "form-long-answer",
+          "title": "為什麼要做這個專案？（動機）",
+          "answer": {
+            "content": "Covid-19開啟了另外一個時代， 封城，但城鄉之間的搬遷變動的更快， 至少我在法國看到的是如此，我自己就在2021年底從里昂搬到了鄉下。\n巴利文 Mettā慈心 ，我們取這個名字的意義Mettā-luxury：Meta-luxury是極致珍貴極致豪華; 在歐洲，每個希望保有文化享受生活的人 都知道金錢不是唯一不是全部，所以我們認為真正的豪華，如同我們改變的那個字：慈心，愛在這個世代唯有互助、同理心才能夠在這麼困難的時代裡度過浩劫，為我們的子孫，下一個世代繼續把珍貴的東西傳承下去。"
+          }
+        },
+        {
+          "key": "3MgBgJ0E-N05kO09i802PR6+d",
+          "type": "form-long-answer",
+          "title": "請以此句型釐清專案目標、受眾與獨特性：",
+          "answer": {
+            "content": "為了解決全球在Covid-19 使用大量的塑膠來製造口罩跟防護用品， 遇到的環境污染危機困難，\n我的專案提供另外一個方式， 可以做到全球：以台灣和歐洲為起步，平衡塑膠的使用量來解決地球的污染。\n我的專案跟目前銀行所採用的非所料信用卡的不同，是更全面性更宏觀的方式來做全面的取代塑膠信用卡的使用，而且加入了學童的藝術和科學教育。"
+          }
+        },
+        {
+          "key": "BEU6K02v905ZG09I80IE3m+",
+          "type": "form-long-answer",
+          "title": "請列出這個計畫的目標對象，他們的需求、情境與使用動機？",
+          "answer": {
+            "content": "學童：10到16歲 科學和藝術教育\n銀行：信用卡\n發卡公司：信用卡\n商店：塑料貴賓卡"
+          }
+        },
+        {
+          "key": "3dNUK30AnT05I8095W04RAGR8",
+          "type": "form-short-answer",
+          "title": "請提供本專案的示意圖或介面設計草圖",
+          "answer": {
+            "content": "https://docs.google.com/document/d/1IcsRfr7xoxd4n383YaqqdiMVKAtzkOQOSlVo1EBru6A/edit?usp=sharing"
+          }
+        },
+        {
+          "key": "4EJWtG0BbQ05Yq09Ex0-IG1J",
+          "type": "form-long-answer",
+          "title": "你覺得本專案可能會面臨的困難有哪些，你又會如何解決這些困難？",
+          "answer": {
+            "content": "跨領域合作"
+          }
+        },
+        {
+          "key": "iiTX_07T105Th0B5403S1jkP",
+          "type": "form-long-answer",
+          "title": "本專案結束後，未來可能進一步的發展？",
+          "answer": {
+            "content": "這個專案會持續七年。"
+          }
+        },
+        {
+          "key": "29XT5707sx05KQ0Azo03lYmSf",
+          "type": "form-radio",
+          "title": "自選「四大主題」分類或「其他」",
+          "answer": {
+            "list": [
+              "教育內容（Educational Content）"
+            ],
+            "other": false
+          }
+        }
+      ]
+    },
+    {
+      "slug": "rd2jD0BlH05GF09Xc026Zagj",
+      "name": "給予每位孩子懷抱夢想的機會",
+      "description": "大部分的的偏鄉孩子會因為自己的環境而侷限自己和不敢表明追求自己的夢想，藉由此專案希望能帶給他們更多機會。",
+      "group": "零時小學校 Demo Day 2021-2022",
+      "owner": "sonya70209",
+      "team": null,
+      "tags": [],
+      "badge": null,
+      "thumb": "img/prj/rd2jD0BlH05GF09Xc026Zagj.webp",
+      "createdtime": "2021-11-30T06:46:43.550Z",
+      "fields": [
+        {
+          "key": "fOoUs0ec05i+09N202je6p+",
+          "type": "form-short-answer",
+          "title": "專案名稱",
+          "answer": {
+            "content": "給予每位孩子懷抱夢想的機會"
+          }
+        },
+        {
+          "key": "2DXUGn0A-o05+m0Awe02ryQk6",
+          "type": "form-short-answer",
+          "title": "專案簡介",
+          "answer": {
+            "content": "大部分的的偏鄉孩子會因為自己的環境而侷限自己和不敢表明追求自己的夢想，藉由此專案希望能帶給他們更多機會。"
+          }
+        },
+        {
+          "key": "YskrQ0Cml05cU09uC0q+ojQ",
+          "type": "form-short-answer",
+          "title": "提案代表人",
+          "answer": {
+            "content": "Nico (惟翔)"
+          }
+        },
+        {
+          "key": "2BOf6f0FkI05170CTp04D1OkM",
+          "type": "form-radio",
+          "title": "提案代表人是否具有 U-22 組資格？",
+          "answer": {
+            "list": [
+              "是"
+            ],
+            "other": false
+          }
+        },
+        {
+          "key": "3C1UH908RD05fW0A7q03cQpZs",
+          "type": "form-long-answer",
+          "title": "提案團隊簡介",
+          "answer": {
+            "content": "我跟惟翔是目前就讀輔仁大學教育學院的學生，在這個專案中都是設定自己在顧問的角色，因為志工服務而接觸到偏鄉兒童在教育上會遇到的重要問題，所以藉此希望站在顧問的角度去協助解決問題。"
+          }
+        },
+        {
+          "key": "3MJ5l04vc05dn0AFt048Osxh",
+          "type": "form-long-answer",
+          "title": "為什麼要做這個專案？（動機）",
+          "answer": {
+            "content": "期望能帶給偏鄉的孩子們有自我探索以及勇敢追夢的機會，大部分的的偏鄉孩子會因為自己的環境而侷限自己和不敢表明追求自己的夢想。"
+          }
+        },
+        {
+          "key": "3MgBgJ0E-N05kO09i802PR6+d",
+          "type": "form-long-answer",
+          "title": "請以此句型釐清專案目標、受眾與獨特性：",
+          "answer": {
+            "content": "為了解決偏鄉兒童會可能因為自身環境而限制自己發展的機會或能力，我的專案提供教育內容上的建議，希望可以解決目前存在的問題。\na.\t課程融合\n在目前的課程中有些是教育方針中希望融入的多元課程，針對這些課程希望在教案的內容中包含更深入的職涯探索方針，讓孩子能真正理解這些職業的詳細相關資訊。\nb.\t合作聯繫\n不管是跟企業或是跟其他學校，希望各校可以推動互相合作的提案互相幫助，也可以跟企業合作邀請基金會做資金上的贊助，以及參訪時需要的協助，盡早進行就能更快達到目標，幫助更多孩子。\nc.     定期諮商輔導\n其中包含職涯和心理輔導諮商，能真正了解孩子的內心，並幫助他們分析未來職涯方向和可能性\n"
+          }
+        },
+        {
+          "key": "BEU6K02v905ZG09I80IE3m+",
+          "type": "form-long-answer",
+          "title": "請列出這個計畫的目標對象，他們的需求、情境與使用動機？",
+          "answer": {
+            "content": "此專案針對即將升上高等教育或已經是的偏鄉孩子們發想。期望這些孩子們都可以放心追求自己想做的事情以及懷抱夢想。在教學課程中加入職涯探索相關課程以及定期輔導諮商的環節，還有到各個大專院校甚至企業的參訪機會，打開孩子的視野和無限可能的那扇門，鼓勵他們不管是誰都擁有懷抱夢想和朝著自己想做的事情前進的權力，也盡力提供可以幫助他們的管道不管是獎學金或是助學金補助的資訊。"
+          }
+        },
+        {
+          "key": "3dNUK30AnT05I8095W04RAGR8",
+          "type": "form-short-answer",
+          "title": "請提供本專案的示意圖或介面設計草圖",
+          "answer": {
+            "content": "https://www.icloud.com/notes/06pcz4-W3Y4vEmGi_mr-K8fdg"
+          }
+        },
+        {
+          "key": "4EJWtG0BbQ05Yq09Ex0-IG1J",
+          "type": "form-long-answer",
+          "title": "你覺得本專案可能會面臨的困難有哪些，你又會如何解決這些困難？",
+          "answer": {
+            "content": "a.\t時間方面\n課程安排-孩子們本身課程時間都偏滿，有可能找不到合適的時間執行。\n課外時間-若用課外時間進行，孩子們的參與意願會降低。\nb.\t合作聯繫方面\n企業參訪-需要較長的時間準備以及各企業的聯繫合作意願。\n職涯教師聘請-並不是學校教師都適合各個職業的探索，勢必聘請專業領域教師，也需要較長時間聯繫準備。\nc.\t資金方面\n不論是聘請講師還是參訪大專院校或企業都需要交通上，較遠的地區甚至會需要住宿上的資金支援。\n"
+          }
+        },
+        {
+          "key": "iiTX_07T105Th0B5403S1jkP",
+          "type": "form-long-answer",
+          "title": "本專案結束後，未來可能進一步的發展？",
+          "answer": {
+            "content": "希望可以讓更多人知道可以以這樣的方式幫助偏鄉的孩子，更希望學校方可以正視有這樣的問題存在，讓更多偏鄉的孩子勇敢追夢。"
+          }
+        },
+        {
+          "key": "29XT5707sx05KQ0Azo03lYmSf",
+          "type": "form-radio",
+          "title": "自選「四大主題」分類或「其他」",
+          "answer": {
+            "list": [
+              "教育內容（Educational Content）"
+            ],
+            "other": false
+          }
+        }
+      ]
+    }
+  ]
+}

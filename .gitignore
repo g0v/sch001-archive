@@ -1,0 +1,10 @@
+node_modules
+.DS_Store
+*.log
+# grantdash 原始上傳檔備份 ( 155M, 含非公開附件 )
+backup/
+# 建置產出, 由 deploy force push 至 gh-pages 分支
+web/static/
+web/.view/
+_public/
+context/cached

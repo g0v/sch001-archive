@@ -1,0 +1,19 @@
+//- view
+extends /modules/layout.pug
+block vars
+  - var title = '', description = '收錄零時小學校歷屆專案孵化競賽與計畫的公開提案內容。'
+block content
+  section.hero
+    h1 零時小學校 歷年提案
+    p= description
+  .boards
+    each b in boards
+      a.board-card(href=`brd/${b.slug}/index.html`)
+        .board-label= b.label
+        .board-name= b.name
+        .board-meta
+          span #{b.projects.length} 件提案
+          if b.winners
+            span #{b.winners} 件獲選
+          if b.starttime
+            span= b.starttime.slice(0, 10)
