@@ -17,7 +17,7 @@ const render = p => new Promise((resolve, reject) => {
 })
 
 srcbuild.i18n({ enabled: false })
-  .then(i18n => srcbuild.lsp({ base: site.web, i18n }).ready)
+  .then(i18n => srcbuild.lsp({ base: path.relative(process.cwd(), site.web) || '.', i18n }).ready)
   .then(() => {
     const list = site.pages()
     return list.reduce((p, page) => p.then(() => render(page)), Promise.resolve()).then(() => list.length)
