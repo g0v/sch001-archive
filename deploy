@@ -1,8 +1,8 @@
 #!/usr/bin/env bash
-# full build 後, 以單一 orphan commit force push 到 $DEPLOY_BRANCH ( 預設 gh-pages ).
-# 該分支永遠只有一個 commit, 不累積歷史. 遠端主機更新方式:
-#   git clone -b gh-pages --single-branch --depth 1 <repo> static    # 初次
-#   git fetch --depth 1 origin gh-pages && git reset --hard FETCH_HEAD  # 更新
+# 合成整個 sch001.g0v.tw 網站並以單一 orphan commit force push 到 $DEPLOY_BRANCH ( 預設 gh-pages ):
+#  - /       : sch001-net/static ( submodule, 已建置的靜態站 )
+#  - /dash/  : web/static ( 提案典藏 full build, 取代原 grantdash )
+# 該分支永遠只有一個 commit. 遠端更新方式見 README.
 set -e
 BRANCH=${DEPLOY_BRANCH:-gh-pages}
 if [[ ! -d .git ]]; then
@@ -13,18 +13,20 @@ if [[ -n "$(git status --porcelain)" ]]; then
   echo "working tree not clean. commit first so the deploy maps to a commit."
   exit 1
 fi
+git submodule update --init
 REMOTE=`git remote get-url origin`
 REV=`git rev-parse --short HEAD`
+NETREV=`git -C sch001-net rev-parse --short HEAD`
 rm -rf web/static _public
 npm run build
-mkdir _public
-cp -R web/static/. _public/
-# 讓 GitHub Pages 不經 jekyll 處理, 直接提供檔案
-touch _public/.nojekyll
+mkdir -p _public/dash
+# sch001-net 的 CNAME 屬於其 GitHub Pages 鏡像 ( sch001.g0v.dev ), 不帶過來
+rsync -a --exclude .gitignore --exclude CNAME sch001-net/static/ _public/
+rsync -a web/static/ _public/dash/
 cd _public
 git init -q -b "$BRANCH"
 git add -A
-git commit -q -m "build from $REV"
+git commit -q -m "build from $REV ( sch001-net $NETREV )"
 git push --force "$REMOTE" "$BRANCH"
 cd ..
 rm -rf _public

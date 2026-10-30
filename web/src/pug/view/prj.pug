@@ -4,9 +4,11 @@ block vars
   - var title = prj.name, description = prj.description
 block content
   nav.crumb
-    a(href=`${root}index.html`) 首頁
+    a(href="/") 首頁
     span /
-    a(href=`${root}brd/${brd.slug}/index.html`)= brd.label
+    a(href=root) 看提案
+    span /
+    a(href=`${root}brd/${brd.slug}/list`)= brd.label
   article.prj
     header.prj-head
       if prj.thumb

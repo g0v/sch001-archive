@@ -9,14 +9,14 @@ pug_html = pug_html + "\u003C!DOCTYPE html\u003E\u003Chtml lang=\"zh-Hant\"\u003
 if (description) {
 pug_html = pug_html + "\u003Cmeta" + (" name=\"description\""+pug_attr("content", description.slice(0, 160), true, true)) + "\u003E";
 }
-pug_html = pug_html + "\u003Clink" + (" rel=\"stylesheet\""+pug_attr("href", `${root}css/index.min.css`, true, true)) + "\u003E\u003C\u002Fhead\u003E\u003Cbody\u003E\u003Cheader class=\"site\"\u003E\u003Cdiv class=\"wrap\"\u003E\u003Ca" + (" class=\"logo\""+pug_attr("href", `${root}index.html`, true, true)) + "\u003ESch001 \u003Cspan\u003E提案典藏\u003C\u002Fspan\u003E\u003C\u002Fa\u003E\u003C\u002Fdiv\u003E\u003C\u002Fheader\u003E\u003Cmain class=\"wrap\"\u003E\u003Csection class=\"hero\"\u003E\u003Ch1\u003E零時小學校 歷年提案\u003C\u002Fh1\u003E\u003Cp\u003E" + (pug_escape(null == (pug_interp = description) ? "" : pug_interp)) + "\u003C\u002Fp\u003E\u003C\u002Fsection\u003E\u003Cdiv class=\"boards\"\u003E";
+pug_html = pug_html + "\u003Clink" + (" rel=\"stylesheet\""+pug_attr("href", `${root}css/index.min.css`, true, true)) + "\u003E\u003C\u002Fhead\u003E\u003Cbody\u003E\u003Cheader class=\"site\"\u003E\u003Cdiv class=\"wrap\"\u003E\u003Ca class=\"logo\" href=\"\u002F\"\u003ESch001 \u003Cspan\u003E零時小學校\u003C\u002Fspan\u003E\u003C\u002Fa\u003E\u003C\u002Fdiv\u003E\u003C\u002Fheader\u003E\u003Cmain class=\"wrap\"\u003E\u003Cnav class=\"crumb\"\u003E\u003Ca href=\"\u002F\"\u003E首頁\u003C\u002Fa\u003E\u003Cspan\u003E\u002F\u003C\u002Fspan\u003E\u003Cspan\u003E看提案\u003C\u002Fspan\u003E\u003C\u002Fnav\u003E\u003Csection class=\"hero\"\u003E\u003Ch1\u003E零時小學校 歷年提案\u003C\u002Fh1\u003E\u003Cp\u003E" + (pug_escape(null == (pug_interp = description) ? "" : pug_interp)) + "\u003C\u002Fp\u003E\u003C\u002Fsection\u003E\u003Cdiv class=\"boards\"\u003E";
 // iterate boards
 ;(function(){
   var $$obj = boards;
   if ('number' == typeof $$obj.length) {
       for (var pug_index0 = 0, $$l = $$obj.length; pug_index0 < $$l; pug_index0++) {
         var b = $$obj[pug_index0];
-pug_html = pug_html + "\u003Ca" + (" class=\"board-card\""+pug_attr("href", `brd/${b.slug}/index.html`, true, true)) + "\u003E\u003Cdiv class=\"board-label\"\u003E" + (pug_escape(null == (pug_interp = b.label) ? "" : pug_interp)) + "\u003C\u002Fdiv\u003E\u003Cdiv class=\"board-name\"\u003E" + (pug_escape(null == (pug_interp = b.name) ? "" : pug_interp)) + "\u003C\u002Fdiv\u003E\u003Cdiv class=\"board-meta\"\u003E\u003Cspan\u003E" + (pug_escape(null == (pug_interp = b.projects.length) ? "" : pug_interp)) + " 件提案\u003C\u002Fspan\u003E";
+pug_html = pug_html + "\u003Ca" + (" class=\"board-card\""+pug_attr("href", `${root}brd/${b.slug}/list`, true, true)) + "\u003E\u003Cdiv class=\"board-label\"\u003E" + (pug_escape(null == (pug_interp = b.label) ? "" : pug_interp)) + "\u003C\u002Fdiv\u003E\u003Cdiv class=\"board-name\"\u003E" + (pug_escape(null == (pug_interp = b.name) ? "" : pug_interp)) + "\u003C\u002Fdiv\u003E\u003Cdiv class=\"board-meta\"\u003E\u003Cspan\u003E" + (pug_escape(null == (pug_interp = b.projects.length) ? "" : pug_interp)) + " 件提案\u003C\u002Fspan\u003E";
 if (b.winners) {
 pug_html = pug_html + "\u003Cspan\u003E" + (pug_escape(null == (pug_interp = b.winners) ? "" : pug_interp)) + " 件獲選\u003C\u002Fspan\u003E";
 }
@@ -30,7 +30,7 @@ pug_html = pug_html + "\u003C\u002Fdiv\u003E\u003C\u002Fa\u003E";
     for (var pug_index0 in $$obj) {
       $$l++;
       var b = $$obj[pug_index0];
-pug_html = pug_html + "\u003Ca" + (" class=\"board-card\""+pug_attr("href", `brd/${b.slug}/index.html`, true, true)) + "\u003E\u003Cdiv class=\"board-label\"\u003E" + (pug_escape(null == (pug_interp = b.label) ? "" : pug_interp)) + "\u003C\u002Fdiv\u003E\u003Cdiv class=\"board-name\"\u003E" + (pug_escape(null == (pug_interp = b.name) ? "" : pug_interp)) + "\u003C\u002Fdiv\u003E\u003Cdiv class=\"board-meta\"\u003E\u003Cspan\u003E" + (pug_escape(null == (pug_interp = b.projects.length) ? "" : pug_interp)) + " 件提案\u003C\u002Fspan\u003E";
+pug_html = pug_html + "\u003Ca" + (" class=\"board-card\""+pug_attr("href", `${root}brd/${b.slug}/list`, true, true)) + "\u003E\u003Cdiv class=\"board-label\"\u003E" + (pug_escape(null == (pug_interp = b.label) ? "" : pug_interp)) + "\u003C\u002Fdiv\u003E\u003Cdiv class=\"board-name\"\u003E" + (pug_escape(null == (pug_interp = b.name) ? "" : pug_interp)) + "\u003C\u002Fdiv\u003E\u003Cdiv class=\"board-meta\"\u003E\u003Cspan\u003E" + (pug_escape(null == (pug_interp = b.projects.length) ? "" : pug_interp)) + " 件提案\u003C\u002Fspan\u003E";
 if (b.winners) {
 pug_html = pug_html + "\u003Cspan\u003E" + (pug_escape(null == (pug_interp = b.winners) ? "" : pug_interp)) + " 件獲選\u003C\u002Fspan\u003E";
 }

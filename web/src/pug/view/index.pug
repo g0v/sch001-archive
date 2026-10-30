@@ -3,12 +3,16 @@ extends /modules/layout.pug
 block vars
   - var title = '', description = '收錄零時小學校歷屆專案孵化競賽與計畫的公開提案內容。'
 block content
+  nav.crumb
+    a(href="/") 首頁
+    span /
+    span 看提案
   section.hero
     h1 零時小學校 歷年提案
     p= description
   .boards
     each b in boards
-      a.board-card(href=`brd/${b.slug}/index.html`)
+      a.board-card(href=`${root}brd/${b.slug}/list`)
         .board-label= b.label
         .board-name= b.name
         .board-meta

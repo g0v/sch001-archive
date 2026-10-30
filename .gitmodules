@@ -1,0 +1,4 @@
+[submodule "sch001-net"]
+	path = sch001-net
+	url = https://github.com/g0v/sch001-net
+	branch = master
