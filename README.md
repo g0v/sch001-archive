@@ -18,7 +18,7 @@ g0v 零時小學校網站 ( sch001.g0v.tw ) 的完整靜態版本：
  - `lib/` - 資料讀取、答案渲染與路由，dev server 與 full build 共用
  - `server.js` - dev server
  - `tool/` - 匯出與 full build 工具
- - `config/nginx.conf` - 正式環境 nginx 參考設定
+ - `config/nginx.conf` - 正式環境 nginx 設定 ( 主機上為 `/home/web/projects/sch001/nginx/sch001.g0v.tw.ngx` )
  - `web/static/` - 典藏的建置產出 ( 即網站的 `/dash/` )，不進 git
  - `backup/` - grantdash 原始上傳檔備份，不進 git
 
@@ -56,7 +56,10 @@ g0v 零時小學校網站 ( sch001.g0v.tw ) 的完整靜態版本：
     git commit -am "update sch001-net"
     npm run deploy
 
-遠端主機取用 ( nginx 設定見 `config/nginx.conf` )：
+正式環境在 `/home/web/projects/sch001/site` ( gh-pages 的 checkout，擁有者 `web` )，deploy 後在主機上更新：
 
-    git clone -b gh-pages --single-branch --depth 1 https://github.com/g0v/sch001-archive sch001-site  # 初次
-    git fetch --depth 1 origin gh-pages && git reset --hard FETCH_HEAD  # 更新
+    cd /home/web/projects/sch001/site
+    sudo -u web git fetch --depth 1 origin gh-pages && sudo -u web git reset --hard FETCH_HEAD
+
+nginx 設定見 `config/nginx.conf`，以 symlink 掛在 `/etc/nginx/sites-enabled/sch001.g0v.tw.ngx`。
+Let's Encrypt 以 webroot 驗證，webroot 即上述 site 目錄。
