@@ -1,0 +1,60 @@
+<!DOCTYPE html><html lang="zh-Hant"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>排灣語自然語言處理 AI 基礎建設 · 零時小學校 提案典藏</title><meta name="description" content="在大型語言模型的 AI 時代背景下，臺灣的中文語料量級遠低於簡體中文語料量的問題，已觸發諸多國產 LLM 專案的啟動。諸如 TAIDE、MTK、NTU 及 CKIP …等團隊皆取得或大或小的進展。
+
+相較於繁體中文語料，臺灣南島語族的語料資源更是少得可憐，以致於前述專案都停在國語、台語(閩南語) 或客語的階段。
+"><link rel="stylesheet" href="/dash/css/index.min.css"></head><body><header class="site"><div class="wrap"><a class="logo" href="/">Sch001 <span>零時小學校</span></a></div></header><main class="wrap"><nav class="crumb"><a href="/">首頁</a><span>/</span><a href="/dash/">看提案</a><span>/</span><a href="/dash/brd/2024TC-AI-OS-Grant/list">2024 繁體中文 AI 開源實踐計畫</a></nav><article class="prj"><header class="prj-head"><img class="prj-thumb" src="/dash/img/prj/PvtjOTN1h7RH.3lh5d3Cf.rwViqYNz.webp" alt=""><div class="prj-info"><h1>排灣語自然語言處理 AI 基礎建設</h1><div class="owner">提案人 <b>PeterWolf</b></div><div class="tags"><span>第二梯（2024/02/21 - 2024/03/17）</span></div><p class="lead">在大型語言模型的 AI 時代背景下，臺灣的中文語料量級遠低於簡體中文語料量的問題，已觸發諸多國產 LLM 專案的啟動。諸如 TAIDE、MTK、NTU 及 CKIP …等團隊皆取得或大或小的進展。
+
+相較於繁體中文語料，臺灣南島語族的語料資源更是少得可憐，以致於前述專案都停在國語、台語(閩南語) 或客語的階段。
+
+本專案將利用 Articut 的語言學演算法，利用其「只需要極少極少語料」之特色，挑選一個較多人使用的南島語語言 -- 以排灣語為例 -- 做為實作「排灣語自然語言處理 AI 基礎建設」的目標。</p></div></header><nav class="toc"><a href="#f0">02. 提案代表人</a><a href="#f1">03. 提案代表人的 g0v Slack 帳號名稱與成員識別碼</a><a href="#f2">06. 專案於 g0v slack 的頻道名稱</a><a href="#f3">07. 提案團隊簡介及與主題的相關性</a><a href="#f4">09. 專案符合本次計畫哪些主題：（請勾選至少一項）</a><a href="#f5">10. 參與梯次</a><a href="#f6">12. 專案摘要（300字以內）</a><a href="#f7">13. 專案動機</a><a href="#f8">14. 專案設計概念以及與主題的相符性</a><a href="#f9">15. 專案技術可行性</a><a href="#f10">16. 專案可應用之情境說明</a><a href="#f11">17. 專案預期效益與社會貢獻</a><a href="#f12">18. 專案現況說明</a><a href="#f13">19. 團隊過去是否有做過相關主題的計畫？</a><a href="#f14">20. 開源內容及其授權方式</a><a href="#f15">21. 專案期中與期末規劃</a><a href="#f16">22. 專案預算規劃</a><a href="#f17">23. 專案於計畫結束後之長期規劃</a></nav><div class="fields"><section class="field" id="f0"><h2>02. 提案代表人</h2><div class="answer">PeterWolf</div></section><section class="field" id="f1"><h2>03. 提案代表人的 g0v Slack 帳號名稱與成員識別碼</h2><div class="answer">PeterWolf (T02G2SXKM)</div></section><section class="field" id="f2"><h2>06. 專案於 g0v slack 的頻道名稱</h2><div class="answer">#articut_paiwan</div></section><section class="field" id="f3"><h2>07. 提案團隊簡介及與主題的相關性</h2><div class="answer"><h3>PeterWolf (王文傑)</h3>
+<ul>
+<li>Articut NLP 自動分詞、標記演算法發明人</li>
+<li>卓騰語言科技核心開發工程師
+負責演算法的實作與開發工作。</li>
+</ul>
+</div></section><section class="field" id="f4"><h2>09. 專案符合本次計畫哪些主題：（請勾選至少一項）</h2><div class="answer">其他語言考慮：台語、客語、原住民族語<br>Benchmark 台灣觀點的評測</div></section><section class="field" id="f5"><h2>10. 參與梯次</h2><div class="answer">第二梯（2024/02/21 - 2024/03/17）</div></section><section class="field" id="f6"><h2>12. 專案摘要（300字以內）</h2><div class="answer"><p>許多人以為南島語和英文一樣以空格隔開詞彙，故不需要分詞。事實上並非如此。</p>
+<p>本專案包含三項目標，彼此對後續應用層層相依：</p>
+<ol>
+<li>分詞</li>
+<li>詞性標記</li>
+<li>語意計算</li>
+</ol>
+<p>以 cengelj 一詞為例。若前面加上 masi (帶…) 則 cengelj 的語意就會從「中午」變成「午餐」，而 masi cengelj 的意思就是「帶便當」。因此分詞標記應將 masi cengelj 標記為一個詞而非以空隔分開的兩個詞以維持它的意義。此為目標一。</p>
+<p>其次，將 masi cengelj 標記為動詞，才不會因為 cengelj 的原始語意「中午」而將整句所指涉的時間縮限在中午。此為目標二。</p>
+<p>目標三將算出句子裡的「人、事、時、地、物」即可被計算以做為後續 NLP 應用的基礎。藉由本專案成果即可設計「排灣語 - 中文自動翻譯系統」或是「排灣語文法自動檢查系統」…等資訊服務。</p>
+</div></section><section class="field" id="f7"><h2>13. 專案動機</h2><div class="answer"><p>身為一個同時具備現代語言學背景和資訊能力的語言科技公司負責人，我深知全球主流的AI 科技發展脈絡、技術背景的限制以及市場規模。從這三個角度來看，南島語族的任何一種語言都將在大數據的基本條件下加速消亡。專案團隊中的語言學家們，更是將「語言的活用與保存」視為志業的一部份。</p>
+<p>南島語言的保存並不只是建立資料庫就夠了，那只是將語言製成標本存放在博物館而已。語言的保存應該是找到方法和設計工具，使得南島語可以成為一個被現代資訊工具做為南島語言的使用者日常的輸入、搜尋系統的索引、AI 技術的操作…等等的一部份時，該語言才會繼續活著。</p>
+<p>但因為主流的 AI 科技一方面需要足量的資料和運算力做為基礎，而這兩個技術背景限制在缺代市場規模的條件下，是不會受到資本家的青睞的。</p>
+<p>正因如此，我們身為深知如何利用語言學知識，設計一個<strong>不需大量語料</strong>，也<strong>不需要高規格的運算力</strong>的語言科技團隊，正如蜘蛛人電影中的班叔所說的「能力愈大，責任愈大」，我們希望能善用這次 g0v 零時小學校的開源實踐計劃的資源，將我們擅長的「小數據」NLP AI 技術實作在排灣語上。同時，也藉著開源的機會，讓更多人看到利用小數據來做 NLP 基礎建設的方法，讓在全球語言尺度之下同屬「低資源語言」的臺灣繁體中文看到不同的方法論。</p>
+</div></section><section class="field" id="f8"><h2>14. 專案設計概念以及與主題的相符性</h2><div class="answer"><p>我們預計採用現代語言學 X-bar 理論中的架構做為設計與實作本專案的方法。X-bar 理論可通用於全人類的語言，並用以解析人類語言的詞彙結構、句法結構並做為語意計算的框架。</p>
+<p>預計將會有「自動分詞」、「自動標記」以及「語意計算」三大功能。</p>
+<p>相符主題「Benchmark 臺灣觀點的評測」，是為了能建立南島語族的語言科技工具以解析其內涵，，否則，一個號稱能代表臺灣觀點卻卻無法納入臺灣南島語族觀點的系統，將會是漢字文化本位的觀點，而非真正的臺灣觀點。</p>
+<p>此外，本專案的實作目標明顯相符「其他語言考慮，台語、客語、原住民族語」的主題。</p>
+</div></section><section class="field" id="f9"><h2>15. 專案技術可行性</h2><div class="answer"><p>預計運用的 AI 技術為 X-bar 理論框架。該框架已被實作於商業版的 Articut 中文處理系統和英文版的 Articut 處理系統，並受玉山銀行、104 人力銀行以及諸多學術單位採用多年，廣受使用者好評。</p>
+<p>中文版 Articut 線上試用可見：<a href="https://api.droidtown.co">https://api.droidtown.co</a><br>英文版 Articut 線上試用可見：<a href="https://nlu.droidtown.co">https://nlu.droidtown.co</a></p>
+</div></section><section class="field" id="f10"><h2>16. 專案可應用之情境說明</h2><div class="answer"><p>MTK (聯發科) Research 日前釋出與 GPT3.5 同等級的繁中/英文 LLM — BreeXe-8x7B，正是基於 Mixtral-8x7B，並進行了「詞表擴充(<a href="https://www.facebook.com/permalink.php?story_fbid=pfbid0PXUWXq2cuUHTUSmZsNJjiGSaGdCcapqFribobHyh52Axuh7aHkHW5JXFcPEySB27l&amp;id=100003716013282">連結</a>)」後實作而成。</p>
+<p>既要做詞表擴充，就必然要有詞表。而本專案的完成，洽好可以產生大量正確切分的排灣語詞彙以供整理成為擴充 LLM 所用的詞表。</p>
+<p>此外，藉由本專案底層和其它 Articut 系列姐妹作 - Articut 中文版、Articut 英文版…等成果具有相同的框架的特性，甚至可延伸設計「排灣語 - 中文自動翻譯系統」或是「排灣語文法自動檢查系統」…等資訊服務。</p>
+</div></section><section class="field" id="f11"><h2>17. 專案預期效益與社會貢獻</h2><div class="answer">大型語言模型的誕生，一方面讓許多語言科技的應用得以實現，另一方面也加速了「語言量級霸權」現象的發生。主流的資料所使用的語言 (例如英文、西班牙文) 透過 AI 工具，將大大地壓縮其它非主流的資料所使用的語言 (例如繁體中文，或是比繁體中文更少使用者的臺灣南島語) 的使用機會和應用空間。<br><br>本專案透過實作基礎建設的方法以及語言學 X-bar 理論框架的特性，除了可以產生一個應用彈性非常靈活的系統，可做為南島語語意搜尋引擎的核心元素之外，亦可以產生給 LLM 做為擴充詞表的輸入工具，以擴展開源 LLM 模型的低資源語言 -- 南島語的支援能力。</div></section><section class="field" id="f12"><h2>18. 專案現況說明</h2><div class="answer"><p>本專案目前沒有參與其它競賽，沒有其它獎助金計劃。
+已有專屬的開源 Github 源碼倉庫 <a href="https://github.com/Droidtown/ArticutPaiwan">連結</a>。</p>
+</div></section><section class="field" id="f13"><h2>19. 團隊過去是否有做過相關主題的計畫？</h2><div class="answer">本專案代表人 PeterWolf 擁有本專案計劃採用之技術的發明專利，此外也是本專案的姐妹計劃：Articut 中文版、英文版、台語版…等的核心開發者。<br><br>本專案餘兩位開發者，一位擁有相當豐富的 Articut 系列系統的操作經驗，另一位則是語言學家，對 X-bar 理論與其應用框架非常熟悉。</div></section><section class="field" id="f14"><h2>20. 開源內容及其授權方式</h2><div class="answer">MIT License</div></section><section class="field" id="f15"><h2>21. 專案期中與期末規劃</h2><div class="answer"><p>依過往其它語言版本 Articut 的開發經驗，將需要 4 位全職開發人員 14 個月的時間，才能完成。因本計劃最高補助金額為 50 萬元，約能支應團隊 4 個月的開發支出，因此我們將致力於優先完成系統框架，並以目前已掌握的多本排灣語文本 (包括歌詞、福音書…等) 做為優先測試資料。</p>
+<p>我們預計在獲選後依以下進度進行：</p>
+<ul>
+<li>Start Date + 35 天：完成軟體系統框架設計與實作； </li>
+<li>Start Date + 45 天：完成排灣語的人稱、數字系統演算法，並開始延請熟悉族語者做驗證。驗證人力相當於 LLM 開發過程中 RLHF 的人力回饋支出。</li>
+<li>Start Date + 60 天：完成測試用框架的設計與實作。並開始延請兼職人員將數位化後的排灣語聖經投入系統做雙語比對 (排灣語 vs. 中文/英文) 以確保處理結果的語意正確。</li>
+<li>Start Date + 90 天：實作完成排灣語的「焦點系統」和「普通名詞」的演算法。額外延請爬蟲程式專業人員，以各線上族語資源內容設計自動測試流程。並以輸出之結果，持續交付熟悉族語者做正確性驗證。</li>
+<li>Start Date + 120 天：實作完成排灣語的和「動詞系統」的演算法</li>
+</ul>
+<p>前述演算法皆包含：</p>
+<ol>
+<li>分詞模組</li>
+<li>詞類標記模組</li>
+</ol>
+<hr>
+<ul>
+<li>Start Date + 150 天：期末時間已過。但繼續實作語意計算模組。</li>
+<li>Start Date + 190 天：以排灣語福音書進行測試和程式校正</li>
+<li>Start Date + 260 天：以排灣流行歌曲的歌詞進行測試和程式校正</li>
+</ul>
+</div></section><section class="field" id="f16"><h2>22. 專案預算規劃</h2><div class="answer"><p><a href="https://docs.google.com/spreadsheets/d/1qZkchGepWpnXlMTO_bBn3A5vGVuAlt8wGut0uEQQh6c/edit?usp=sharing">預算表</a></p>
+</div></section><section class="field" id="f17"><h2>23. 專案於計畫結束後之長期規劃</h2><div class="answer">長期而言，我們將逐步將本專案的執行成果，推廣原鄉學校，鼓勵族語電子化的書寫，並以本專案做為核心，延伸至 Hardoop 或 Elastic Search 的「排灣語搜尋模組」，以便讓以電子化設備書寫、儲存的族語內容，可以被現代化的資訊工具搜尋，族語的使用將不再受限於「只在原鄉學校的課堂和部落內的口語使用」，而可以藉由資訊工具，擴展到不受時間空間限制的數位空間，持續活化。</div></section></div></article></main><footer class="site"><div class="wrap">資料來源：<a href="https://sch001.g0v.tw/">g0v 零時小學校</a> 提案系統封存</div></footer></body></html>

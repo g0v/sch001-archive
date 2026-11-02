@@ -1,0 +1,95 @@
+<!DOCTYPE html><html lang="zh-Hant"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>法律公開數據整理以及法律模型 · 零時小學校 提案典藏</title><meta name="description" content="本計畫旨在開發一款專注於繁體中文的法律大模型，通過整理與分析台灣的公開法律資料，進行專門針對法律語境的模型微調，從而提供更精確、有效的法律語言處理服務。
+
+"><link rel="stylesheet" href="/dash/css/index.min.css"></head><body><header class="site"><div class="wrap"><a class="logo" href="/">Sch001 <span>零時小學校</span></a></div></header><main class="wrap"><nav class="crumb"><a href="/">首頁</a><span>/</span><a href="/dash/">看提案</a><span>/</span><a href="/dash/brd/2024TC-AI-OS-Grant/list">2024 繁體中文 AI 開源實踐計畫</a></nav><article class="prj"><header class="prj-head"><img class="prj-thumb" src="/dash/img/prj/PsH6L9S4hC6FA1z7589BkBoF.tvsSr.webp" alt=""><div class="prj-info"><h1>法律公開數據整理以及法律模型</h1><div class="owner">提案人 <b>jamie200665</b></div><div class="tags"><span>第二梯（2024/02/21 - 2024/03/17）</span></div><p class="lead">本計畫旨在開發一款專注於繁體中文的法律大模型，通過整理與分析台灣的公開法律資料，進行專門針對法律語境的模型微調，從而提供更精確、有效的法律語言處理服務。
+
+</p></div></header><nav class="toc"><a href="#f0">02. 提案代表人</a><a href="#f1">03. 提案代表人的 g0v Slack 帳號名稱與成員識別碼</a><a href="#f2">06. 專案於 g0v slack 的頻道名稱</a><a href="#f3">07. 提案團隊簡介及與主題的相關性</a><a href="#f4">09. 專案符合本次計畫哪些主題：（請勾選至少一項）</a><a href="#f5">10. 參與梯次</a><a href="#f6">11. 承上題，若為再次提案，請說明修改的提案內容</a><a href="#f7">12. 專案摘要（300字以內）</a><a href="#f8">13. 專案動機</a><a href="#f9">14. 專案設計概念以及與主題的相符性</a><a href="#f10">15. 專案技術可行性</a><a href="#f11">16. 專案可應用之情境說明</a><a href="#f12">17. 專案預期效益與社會貢獻</a><a href="#f13">18. 專案現況說明</a><a href="#f14">19. 團隊過去是否有做過相關主題的計畫？</a><a href="#f15">20. 開源內容及其授權方式</a><a href="#f16">21. 專案期中與期末規劃</a><a href="#f17">22. 專案預算規劃</a><a href="#f18">23. 專案於計畫結束後之長期規劃</a><a href="#f19">24. 其他想補充之內容</a></nav><div class="fields"><section class="field" id="f0"><h2>02. 提案代表人</h2><div class="answer">JamieLee</div></section><section class="field" id="f1"><h2>03. 提案代表人的 g0v Slack 帳號名稱與成員識別碼</h2><div class="answer">U06FYG6P718</div></section><section class="field" id="f2"><h2>06. 專案於 g0v slack 的頻道名稱</h2><div class="answer">tw-law-llm</div></section><section class="field" id="f3"><h2>07. 提案團隊簡介及與主題的相關性</h2><div class="answer"><ul>
+<li>JamieLee: 工程師。現為新創公司資深全端工程師，主要專案經歷為智慧城市專案以及LLM相關專案</li>
+<li>王冠瑋: 法律相關顧問。資深執業律師，現為律所高級合夥人</li>
+</ul>
+</div></section><section class="field" id="f4"><h2>09. 專案符合本次計畫哪些主題：（請勾選至少一項）</h2><div class="answer">繁體中文特用型語言模型，以法律、醫療、教育為主但不限<br>繁體中文文本採集，用於語言模型訓練資料</div></section><section class="field" id="f5"><h2>10. 參與梯次</h2><div class="answer">第二梯（2024/02/21 - 2024/03/17）</div></section><section class="field" id="f6"><h2>11. 承上題，若為再次提案，請說明修改的提案內容</h2><div class="answer">為第二次提案，主要更新`專案現況說明`，並修改了`專案期中與期末規劃`、`專案現況說明`、`專案預算規劃`，並附上目前數據集進度的hugging face連結。</div></section><section class="field" id="f7"><h2>12. 專案摘要（300字以內）</h2><div class="answer"><p>本專案的目標是開發一個專注於繁體中文的法律大模型，主要分為兩個核心部分：「整理公開法律資料」與「利用法律資料微調開源模型」。</p>
+<p>首先，「整理公開法律資料」部分將聚焦於收集並組織台灣廣泛的公開法律文本。這包括法律條文、裁判文書、考試題目等，旨在建立一個相較全面的法律語料庫。</p>
+<p>其次，「利用法律資料微調開源模型」階段將以這些整理好的法律資料作為基礎，對現有的繁體中文開源語言模型進行專門的微調。透過這種方式，期待能夠開發出一個更加精準、對法律語境敏感的AI模型，或者至少是法律領域的大語言模型MVP版本，起到拋磚引玉的作用。</p>
+</div></section><section class="field" id="f8"><h2>13. 專案動機</h2><div class="answer"><p>在當前的法律實踐環境中，無論對於律師還是一般公眾，高效準確地檢索法律資料是一項關鍵挑戰。對於律師而言，能夠快速而準確地找到相關法條和案例，意味著能夠更高效地處理案件，提升工作效率，同時也能夠為客戶提供更加精準和及時的法律服務。這不僅節省了尋找資料的時間，也提升了法律服務的整體質量。</p>
+<p>對於非專業的法律人士，特別是在面對法律問題時，他們往往因為缺乏法律知識和資源而感到無助。透過易於使用的AI驅動法律查詢系統，這部分人群可以更便捷地獲得必要的法律資訊，從而減少因知識不足而造成的困擾和不便。</p>
+</div></section><section class="field" id="f9"><h2>14. 專案設計概念以及與主題的相符性</h2><div class="answer"><p>本專案基本就是以「蒐集、整理數據集」和「微調繁中語言模型」兩階段為主。</p>
+<p>在「蒐集、整理數據集」階段中，會先以公開能取得的法律相關資料：</p>
+<ul>
+<li>律師考試：會將PDF文本以多選QA的格式整理成json檔，之後再轉換成模型需要的Instruction格式。</li>
+<li>判決書文本： 會隱去當事人姓名等敏感資訊，使用GPT進行案件總結，並提取相關的法條，以json格式存儲，而後會請法律相關背景人員進行二次整理。</li>
+</ul>
+<p>在 「微調繁中語言模型」 階段，會以目前開源的繁中模型（Taiwan-LLM-7B、Breeze-7B）為主，進行微調作業</p>
+</div></section><section class="field" id="f10"><h2>15. 專案技術可行性</h2><div class="answer"><h3>數據清洗與蒐集</h3>
+<ul>
+<li>pdf檔類型的資料<ul>
+<li>預計使用python開源庫來解析pdf檔、並且使用gpt api來進行資料整理</li>
+</ul>
+</li>
+<li>網頁類型資料<ul>
+<li>預計使用程式自動化批量處理網頁文本資料，之後也是透過gpt api來進行資料清洗與整理。</li>
+</ul>
+</li>
+</ul>
+<h3>微調模型</h3>
+<p>挑選現有的繁中通用大模型（Taiwan-LLM-7B、Breeze-7B），並依照蒐集完的法律數據進行微調</p>
+</div></section><section class="field" id="f11"><h2>16. 專案可應用之情境說明</h2><div class="answer"><ul>
+<li>法律專業人士的研究與案件準備：律師在準備案件時，經常需要參考大量的法條和過去案例。透過本專案開發的法律大模型，律師能夠迅速獲得與案件相關的法條、裁判理由及相關法學論文，大幅提高案件準備的效率。此外，模型也可以協助律師預測案件可能的裁決方向，從而更好地策劃法律策略。</li>
+<li>公眾的法律知識獲取：對於非專業的法律人士，當面臨法律問題時，往往不知道從何查找相關資訊。本專案提供的法律大模型能夠讓公眾容易地查詢法律資料，無論是房產糾紛、合約問題還是其他法律事宜，都能迅速獲得相關指導和資訊。這不僅提高了公眾對法律知識的接近性，也有助於提升法律意識和自我保護能力。</li>
+</ul>
+</div></section><section class="field" id="f12"><h2>17. 專案預期效益與社會貢獻</h2><div class="answer"><ul>
+<li>提高法律專業工作效率：透過AI模型的應用，法律專業人士能夠在更短的時間內準確地找到所需法條和案例，從而提高案件處理效率。這不僅節約了專業人士的時間，也意味著可以更快地為客戶提供高質量的法律服務。</li>
+<li>促進法律知識的普及：簡化並易於使用的法律查詢工具能夠幫助一般公眾更好地理解法律問題，提高法律意識，進而減少因法律知識缺乏導致的不利情況，如不公平的合約簽訂或法律糾紛。</li>
+</ul>
+</div></section><section class="field" id="f13"><h2>18. 專案現況說明</h2><div class="answer"><p>目前整理了109年的律師考試資料，以及台灣地方法院的民/刑法判決書各50筆，已上傳至HuggingFace：</p>
+<ul>
+<li>律師考試dataset：<a href="https://huggingface.co/datasets/Jamie0510/taiwan-law-exam/tree/main">HuggingFace Link</a></li>
+<li>判決書dataset： <a href="https://huggingface.co/datasets/Jamie0510/taiwan-law-judgement/tree/main">HuggingFace Link</a></li>
+</ul>
+</div></section><section class="field" id="f14"><h2>19. 團隊過去是否有做過相關主題的計畫？</h2><div class="answer"><h3>1.開源項目向量化搜索引擎</h3>
+<p>RAG項目。利用模型 text-embedding在HuggingFace上存放的Gihtub開源元數據，存放到向量數據庫Qdrant中，實現線上的Github Repo語義搜索。</p>
+<h3>2.LLM筆記桌面應用</h3>
+<p>本地LLM應用項目。結合Llama2模型的本地Llm-server，讓筆記應用可以離線的情況下使用LLM，可對筆記文本進行總結與問答。</p>
+</div></section><section class="field" id="f15"><h2>20. 開源內容及其授權方式</h2><div class="answer"><p>程式碼: Apache 2.0 License ；資料集: Apache 2.0 License</p>
+</div></section><section class="field" id="f16"><h2>21. 專案期中與期末規劃</h2><div class="answer"><ul>
+<li>60天：法律數據集<ul>
+<li>搜集整理律師考試文本（101年至112年），輸出成<code>json</code>格式並上傳至
+HuggingFace</li>
+<li>整理判決書資料（民法、刑法預計各10K），進行，並請法律顧問支援數據清洗；之後整理成 instruction 格式，跑通整個流程</li>
+</ul>
+</li>
+<li>120天：擴增法律數據集及微調模型</li>
+</ul>
+</div></section><section class="field" id="f17"><h2>22. 專案預算規劃</h2><div class="answer"><h3>數據蒐集、清洗階段</h3>
+<ul>
+<li>PDF文本整理程式撰寫<ul>
+<li>項目說明：撰寫程式，批量處理、提取pdf文本</li>
+<li>預算：70,000新台幣</li>
+</ul>
+</li>
+<li>網頁文本批量處理程式撰寫<ul>
+<li>項目說明：撰寫程式，批量處理網頁文本</li>
+<li>預算：70,000新台幣</li>
+</ul>
+</li>
+<li>gpt api 調用<ul>
+<li>項目說明：利用openai api來進行數據清洗、整理</li>
+<li>預算：160,000新台幣</li>
+</ul>
+</li>
+<li>法律文本整理整理<ul>
+<li>項目說明：雇用法律相關人員對整理好的案例數據進行二次加工</li>
+<li>預算：100,000新台幣</li>
+</ul>
+</li>
+</ul>
+<h3>微調模型階段</h3>
+<ul>
+<li>租用服務器<ul>
+<li>項目說明：租用雲服務器、GPU，微調開源模型，其定價根據雲服務廠商提供</li>
+<li>預算：100,000 新台幣</li>
+</ul>
+</li>
+</ul>
+<h3>總預算概覽</h3>
+<p>總預算：500,000新台幣</p>
+</div></section><section class="field" id="f18"><h2>23. 專案於計畫結束後之長期規劃</h2><div class="answer"><p>持續優化數據集，擴增到全量的判決書。同時如果有新的通用繁中模型，也會進行更新、微調。</p>
+</div></section><section class="field" id="f19"><h2>24. 其他想補充之內容</h2><div class="answer">下一步計畫與律所合作，利用實際業務中的法律問答，優化法律領域語言模型。</div></section></div></article></main><footer class="site"><div class="wrap">資料來源：<a href="https://sch001.g0v.tw/">g0v 零時小學校</a> 提案系統封存</div></footer></body></html>

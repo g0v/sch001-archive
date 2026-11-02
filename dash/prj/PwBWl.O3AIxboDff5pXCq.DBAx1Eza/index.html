@@ -1,0 +1,75 @@
+<!DOCTYPE html><html lang="zh-Hant"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>台語自動分詞與詞性標記系統 · 零時小學校 提案典藏</title><meta name="description" content="本專案計劃針對臺灣台語語料設計一個可和現代 NLP/NLU 工具做串接，甚至可和 LLM 做語意計算串接的自動分詞與標記系統。專案內容包括以下兩個目標：
+ - 臺灣台語自動分詞系統
+ - 臺灣台語詞性標記模組"><link rel="stylesheet" href="/dash/css/index.min.css"></head><body><header class="site"><div class="wrap"><a class="logo" href="/">Sch001 <span>零時小學校</span></a></div></header><main class="wrap"><nav class="crumb"><a href="/">首頁</a><span>/</span><a href="/dash/">看提案</a><span>/</span><a href="/dash/brd/2024TC-AI-OS-Grant/list">2024 繁體中文 AI 開源實踐計畫</a></nav><article class="prj"><header class="prj-head"><img class="prj-thumb" src="/dash/img/prj/PwBWl.O3AIxboDff5pXCq.DBAx1Eza.webp" alt=""><div class="prj-info"><h1>台語自動分詞與詞性標記系統</h1><div class="owner">提案人 <b>trueming.l</b></div><div class="tags"><span>第二梯（2024/02/21 - 2024/03/17）</span></div><p class="lead">本專案計劃針對臺灣台語語料設計一個可和現代 NLP/NLU 工具做串接，甚至可和 LLM 做語意計算串接的自動分詞與標記系統。專案內容包括以下兩個目標：
+ - 臺灣台語自動分詞系統
+ - 臺灣台語詞性標記模組</p></div></header><nav class="toc"><a href="#f0">02. 提案代表人</a><a href="#f1">03. 提案代表人的 g0v Slack 帳號名稱與成員識別碼</a><a href="#f2">06. 專案於 g0v slack 的頻道名稱</a><a href="#f3">07. 提案團隊簡介及與主題的相關性</a><a href="#f4">09. 專案符合本次計畫哪些主題：（請勾選至少一項）</a><a href="#f5">10. 參與梯次</a><a href="#f6">12. 專案摘要（300字以內）</a><a href="#f7">13. 專案動機</a><a href="#f8">14. 專案設計概念以及與主題的相符性</a><a href="#f9">15. 專案技術可行性</a><a href="#f10">16. 專案可應用之情境說明</a><a href="#f11">17. 專案預期效益與社會貢獻</a><a href="#f12">18. 專案現況說明</a><a href="#f13">19. 團隊過去是否有做過相關主題的計畫？</a><a href="#f14">20. 開源內容及其授權方式</a><a href="#f15">21. 專案期中與期末規劃</a><a href="#f16">22. 專案預算規劃</a><a href="#f17">23. 專案於計畫結束後之長期規劃</a></nav><div class="fields"><section class="field" id="f0"><h2>02. 提案代表人</h2><div class="answer">李家名</div></section><section class="field" id="f1"><h2>03. 提案代表人的 g0v Slack 帳號名稱與成員識別碼</h2><div class="answer">trueming.l (droidtown-nki1675) (T06PTV3F57F)</div></section><section class="field" id="f2"><h2>06. 專案於 g0v slack 的頻道名稱</h2><div class="answer"><a href="https://g0v-tw.slack.com/archives/C06QL363JJC" target="_blank" rel="noopener">https://g0v-tw.slack.com/archives/C06QL363JJC</a></div></section><section class="field" id="f3"><h2>07. 提案團隊簡介及與主題的相關性</h2><div class="answer"><h4>Trueming (李家名)：</h4>
+<ul>
+<li>卓騰語言科技 (語言研究部資深經理)</li>
+<li>國立臺灣大學工程科學與海洋工程博士班 (肄業)<ul>
+<li>研究主題為小數據資料的中文斷詞演算法。</li>
+</ul>
+</li>
+</ul>
+<h4>Eclair：</h4>
+<ul>
+<li>卓騰語言科技 (核心開發部資深工程師)</li>
+<li>C++ 版 Articut 中文自動斷詞/標記系統開發者</li>
+<li>國立臺灣大學工程科學與海洋工程研究所 碩士<ul>
+<li>研究主題為不同場景環境下之文字區塊辨識</li>
+</ul>
+</li>
+</ul>
+<h4>Keith：</h4>
+<ul>
+<li>卓騰語言科技 (應用工程部資深工程師)</li>
+<li>Loki 自然語言理解系統開發者</li>
+<li>國立高雄應用科技大學 資訊管理系碩士</li>
+</ul>
+</div></section><section class="field" id="f4"><h2>09. 專案符合本次計畫哪些主題：（請勾選至少一項）</h2><div class="answer">其他語言考慮：台語、客語、原住民族語<br>Benchmark 台灣觀點的評測</div></section><section class="field" id="f5"><h2>10. 參與梯次</h2><div class="answer">第二梯（2024/02/21 - 2024/03/17）</div></section><section class="field" id="f6"><h2>12. 專案摘要（300字以內）</h2><div class="answer"><p>除了臺灣羅馬字拼音書寫以外，現代臺灣台語另有一大批使用是使用台語白話字書寫而成。而使用這些語料施做大型語言模型 (Large Language Models) 的應用時，一大挑戰在於台語白話字書寫系統中，有許多和臺灣的國語使用一致的字符 (character)。</p>
+<p>例如「你想會著的攏記落來。」一句中，每一個字都是臺灣的國語中會使用到的字符，因此何時讓大型語言模型察覺到目前的提詞輸入是臺灣台語，而非臺灣的國語繁體中文而已，甚至絕對不是簡體中文的文字，將是語言模型中呈現「台灣觀點」的一大評測重點。</p>
+<p>本專案計劃針對臺灣台語語料設計一個可和現代 NLP/NLU 工具做串接，甚至可和 LLM 做語意計算串接的自動分詞與標記系統。專案內容包括以下兩個目標：</p>
+<ul>
+<li>臺灣台語自動分詞系統</li>
+<li>臺灣台語詞性標記模組</li>
+</ul>
+</div></section><section class="field" id="f7"><h2>13. 專案動機</h2><div class="answer"><p>臺灣台語的白話字書寫，其實並不如大家所誤解地總是披著本土意識型態的外衣。常見的諸如「母湯、歸剛、口感很Q…」等詞彙的出現，都表現出臺灣的語言表現除了國語以外，另有一個臺灣台語的子系統和國語一起搭配著，為許多人日常使用。</p>
+<p>可惜的是，諸多臺灣台語的資訊工具往往因其使用「資訊模型」的限制，而用了純台語語料的台語辭典，使其也只對純台語的文本，才能產生最佳的結果。</p>
+<p>「如果我們設計一個能同時兼具臺灣的國語和台語兩個系統的斷詞系統，不就能處理這個問題了嗎？」</p>
+<p>於是，我們想使用「基於臺灣的國語句法結構」設計的 Articut 中文版做為基底，以 API 對接的方式，再加上臺灣台語特有的句法 (例如：「飲乎伊乾」中的「乎伊」) 和構詞結構 (例如：三疊形容詞「紅紅紅」)，做出一可讓臺灣的國語和台語兩個系統文本同時使用的中文斷詞系統。</p>
+<p>如此一來，我們將能更好地幫助 AI 和各種 NLP 工具處理諸如「每杯上桌都被他飲乎伊乾，喝得整張臉紅紅紅」這種同時夾雜國語和臺灣台語句法、詞彙的文本。</p>
+</div></section><section class="field" id="f8"><h2>14. 專案設計概念以及與主題的相符性</h2><div class="answer"><p>設計概念圖：
+<a href="https://drive.google.com/file/d/1LQA_f8DWqT0LgKOJ7V76yxJQyGuRhklq/view?usp=sharing">https://drive.google.com/file/d/1LQA_f8DWqT0LgKOJ7V76yxJQyGuRhklq/view?usp=sharing</a></p>
+<p>本專案成果預計將有「臺灣台語自動分詞」、「臺灣台語詞性自動標記」功能。除專案成果將以開放原始碼方式呈現外，亦將成果包裝成 Python 模組，使用者可利用 <code>pip</code> 工具安裝 ArticutAPI_Taigi 並在發佈時，將擁有完全相容於官方中文版 ArticutAPI 的功能。</p>
+<p>相符主題「Benchmark 臺灣觀點的評測」。以抽象句法模型而非資料模型實作，除可保留臺灣台語特有的句型資訊以外，亦可避免因台語語料中諸多舊社會傳統價值和性別刻板印象 (例如教育部台語辭典中的例句：「惹熊惹虎，毋通惹著刺查某。」、「人講斷掌查埔做相公，斷掌查某守空房。」…等) 被資料模型學習的問題。</p>
+<p>此外，本專案的實作目標亦明顯相符「其他語言考慮，台語、客語、原住民族語」的主題。</p>
+</div></section><section class="field" id="f9"><h2>15. 專案技術可行性</h2><div class="answer"><p>有 AI 界李白之稱的蔡宗翰教授，其實驗室在 2022 年有一篇論文登上 NLP 界排名前三的期刊 EMNLP 的 Findings，其實驗中即發現使用中文版的 Articut 配合少量的閩南語字典，即可得到相當不錯的處理結果。
+論文連結：<a href="https://aclanthology.org/2022.findings-emnlp.469/">https://aclanthology.org/2022.findings-emnlp.469/</a></p>
+<p>本專案即延伸自此概念，除了閩南語字典以外，更額外添加「台語語法模型」，除更可提升斷詞正確性之外，還能保證詞性標記的可靠度。這點尤其對後續的 LLM 微調訓練可以提供重要的語意維度資訊。</p>
+</div></section><section class="field" id="f10"><h2>16. 專案可應用之情境說明</h2><div class="answer"><p>詞表擴充可視為讓 LLM 快速學會新的低資源語言的實踐方法。要進行詞表擴充，顯然需要有詞表作為基礎。本專案的完成使得我們能夠自動產生大量正確切分的臺灣台語詞彙，以供整理成為擴充 LLM 所需的詞表。</p>
+<p>MTK (聯發科) 研究部最近即利用「詞表擴充」的方法，完成了與 GPT3.5 具備相當水準的繁體中文/英文 LLM，名為 BreeXe-8x7B，其根源即是來自於 Mixtral-8x7B，再經過詞表擴充 (和其它調整) 後完成。</p>
+</div></section><section class="field" id="f11"><h2>17. 專案預期效益與社會貢獻</h2><div class="answer"><p>大型語言模型的誕生，雖然開創了語言科技應用的新篇章，促進了各類應用的實現，但同時也不可避免地加速了所謂的「語言量級霸權」現象。這一現象中，使用主流語言（如英文、西班牙文）的資料透過人工智慧（AI）工具的加持，將在資訊的海洋中占據更加優勢的位置，從而壓縮使用非主流語言（如繁體中文，甚至是到使用者更少的臺灣台語、客語、南島語等）的使用。</p>
+<p>這種語言間的不平等，不僅影響了資訊的多樣性，也限制了文化的傳承和發展。</p>
+<p>我們意識到這一問題的嚴重性，因此著手透過本專案的實作基礎建設方法，目標是創造一個既靈活又應用廣泛的系統，不僅能成為支援臺灣台語 NLP 的核心技術，也能作為擴充大型語言模型（LLM）詞彙的工具，特別是對於臺灣台語這種在 LLM 模型中較少支援的低資源語言提供強有力的支持。通過這樣的努力，我們希望能夠為這些非主流語言的保存和發展開辟新的道路，並為促進語言多樣性和文化傳承做出貢獻。</p>
+<p>此外，這個專案也探索了如何利用先進的機器學習技術和自然語言處理方法來分析和處理低資源語言的語料。透過建立精確的語言模型和開發專門的演算法，我們能夠更加理解和處理這些語言的獨特性質，從而提高它們在數位世界中的能見度和應用價值。此外，透過與語言學家、社區成員以及技術專家的密切合作，本專案也致力於建立一個持續更新和完善的資料庫，為其它低資源語言的研究和應用提供堅實的基礎。</p>
+<p>簡而言之，通過本專案的努力，我們期待能夠不僅解決語言資源不均的問題，也為全球的語言多樣性和文化豐富性的保護做出貢獻。這不僅是對技術進步的追求，更是對人類共同遺產的珍視和維護。</p>
+</div></section><section class="field" id="f12"><h2>18. 專案現況說明</h2><div class="answer"><p>本專案目前沒有參與其它競賽，沒有其它獎助金計劃。 已有專屬的開源 Github 源碼倉庫 <a href="https://github.com/Droidtown/ArticutAPI_Taigi">連結</a>。</p>
+<p>需要整理的例句分佈如下：</p>
+<ul>
+<li>教育部台語辭典例句約為 16000 句，目前已用工餘時間進行約六個月，尚餘 9000 句需處理。</li>
+<li>台語戲曲台詞約 7150 句，目前餘 7150 句。
+ 以上總共餘 16150 句尚需處理。</li>
+</ul>
+</div></section><section class="field" id="f13"><h2>19. 團隊過去是否有做過相關主題的計畫？</h2><div class="answer"><p>團隊成員即為中文版 Articut 的開發成員，同時也是 ArticutAPI 的開發成員。六年來，對於如何透過後續的串接與後處理 (Post-processing) 以調整 Articut 適應不同的語言需求有著第一手的經驗。</p>
+</div></section><section class="field" id="f14"><h2>20. 開源內容及其授權方式</h2><div class="answer"><p>本專案所撰寫之程式為 MIT License。
+本專案內附之教育部台語詞典為創用CC「姓名標示-非商業性-禁止改作」2.5臺灣版授權條款</p>
+</div></section><section class="field" id="f15"><h2>21. 專案期中與期末規劃</h2><div class="answer"><p>我們預計在獲選後依以下進度進行：</p>
+<ul>
+<li>啟動後 60 天：依教育部台語辭典例句的測試結果，調整自訂辭典以及實作台語句法模型。</li>
+<li>啟動後 90 天：依其它台語文本 (例如「荔鏡記」閩南語戲曲劇本) 的測試結果，調整自訂辭典以及實作台語句法模型。</li>
+<li>啟動後 120 天：實作完整的 API 功能並上架 Pypi 供使用者以 pip 工具下載。</li>
+</ul>
+</div></section><section class="field" id="f16"><h2>22. 專案預算規劃</h2><div class="answer"><p><a href="https://docs.google.com/spreadsheets/d/1AmmXRE7YJQxzot5lVo9fptFrgC4POOqC3vEK0tV_qSc/edit?usp=sharing">預算表</a></p>
+</div></section><section class="field" id="f17"><h2>23. 專案於計畫結束後之長期規劃</h2><div class="answer"><p>長期而言，我們將逐步將本專案的執行成果和其它線上及線下 LLM 串接，也向國內本土語言社群推廣，取得更多使用者回饋意見並著手調整系統。</p>
+<p>除了台語白字以外，坊間另有一 KTV 台語歌常用詞彙目前尚無人整理，這也是我們預計要繼續擴充的詞表目標。</p>
+<p>最後，在主要詞彙都納入詞表以後，我們另將著手實作文字轉台羅拼音以及台羅拼音轉文字的功能。</p>
+</div></section></div></article></main><footer class="site"><div class="wrap">資料來源：<a href="https://sch001.g0v.tw/">g0v 零時小學校</a> 提案系統封存</div></footer></body></html>

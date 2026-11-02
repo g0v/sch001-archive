@@ -1,0 +1,131 @@
+<!DOCTYPE html><html lang="zh-Hant"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>medical everywhere · 零時小學校 提案典藏</title><meta name="description" content="開源繁體中文醫療資料集(不限衛生保健、安寧、日常醫療問答)、開源繁體中文醫療大型語言模型以及開源人類標註醫療語言模型的資料集(human feedback dataset)、開源基於人類標註醫療語言模型的資料集(human feedback dataset)訓練出的獎勵模型(reward model)。"><link rel="stylesheet" href="/dash/css/index.min.css"></head><body><header class="site"><div class="wrap"><a class="logo" href="/">Sch001 <span>零時小學校</span></a></div></header><main class="wrap"><nav class="crumb"><a href="/">首頁</a><span>/</span><a href="/dash/">看提案</a><span>/</span><a href="/dash/brd/2024TC-AI-OS-Grant/list">2024 繁體中文 AI 開源實踐計畫</a></nav><article class="prj"><header class="prj-head"><img class="prj-thumb" src="/dash/img/prj/Ps_pEIU2QFC3lFB557eA7wEHOLGGOr.webp" alt=""><div class="prj-info"><h1>medical everywhere</h1><div class="owner">提案人 <b>黃昇鴻</b></div><div class="tags"><span>第一梯（2024/02/18 前）</span></div><p class="lead">開源繁體中文醫療資料集(不限衛生保健、安寧、日常醫療問答)、開源繁體中文醫療大型語言模型以及開源人類標註醫療語言模型的資料集(human feedback dataset)、開源基於人類標註醫療語言模型的資料集(human feedback dataset)訓練出的獎勵模型(reward model)。</p></div></header><nav class="toc"><a href="#f0">02. 提案代表人</a><a href="#f1">03. 提案代表人的 g0v Slack 帳號名稱與成員識別碼</a><a href="#f2">06. 專案於 g0v slack 的頻道名稱</a><a href="#f3">07. 提案團隊簡介及與主題的相關性</a><a href="#f4">09. 專案符合本次計畫哪些主題：（請勾選至少一項）</a><a href="#f5">10. 參與梯次</a><a href="#f6">11. 承上題，若為再次提案，請說明修改的提案內容</a><a href="#f7">12. 專案摘要（300字以內）</a><a href="#f8">13. 專案動機</a><a href="#f9">14. 專案設計概念以及與主題的相符性</a><a href="#f10">15. 專案技術可行性</a><a href="#f11">16. 專案可應用之情境說明</a><a href="#f12">17. 專案預期效益與社會貢獻</a><a href="#f13">18. 專案現況說明</a><a href="#f14">19. 團隊過去是否有做過相關主題的計畫？</a><a href="#f15">20. 開源內容及其授權方式</a><a href="#f16">21. 專案期中與期末規劃</a><a href="#f17">22. 專案預算規劃</a><a href="#f18">23. 專案於計畫結束後之長期規劃</a><a href="#f19">24. 其他想補充之內容</a></nav><div class="fields"><section class="field" id="f0"><h2>02. 提案代表人</h2><div class="answer">黃舒郁</div></section><section class="field" id="f1"><h2>03. 提案代表人的 g0v Slack 帳號名稱與成員識別碼</h2><div class="answer">黃舒郁</div></section><section class="field" id="f2"><h2>06. 專案於 g0v slack 的頻道名稱</h2><div class="answer">medical everywhere</div></section><section class="field" id="f3"><h2>07. 提案團隊簡介及與主題的相關性</h2><div class="answer"><ol>
+<li></li>
+</ol>
+<p>成員名稱:黃舒郁
+角色:專案經理。
+2. 
+成員名稱:黃昇鴻
+角色:整體專案規劃、開發。
+曾與馬偕醫院合作開發安寧醫療linebot、開源醫療繁體中文大型語言模型(<a href="https://huggingface.co/ShengHongHaung/medical-everywhere-v0.1)%E3%80%82">https://huggingface.co/ShengHongHaung/medical-everywhere-v0.1)。</a>
+3.
+成員名稱:林佩璇
+角色:醫療相關顧問。
+曾任職於馬偕醫院，現為醫療機構創辦人。</p>
+</div></section><section class="field" id="f4"><h2>09. 專案符合本次計畫哪些主題：（請勾選至少一項）</h2><div class="answer">繁體中文文本採集，用於語言模型訓練資料<br>繁體中文特用型語言模型，以法律、醫療、教育為主但不限<br>繁體中文為主的開源模型</div></section><section class="field" id="f5"><h2>10. 參與梯次</h2><div class="answer">第一梯（2024/02/18 前）</div></section><section class="field" id="f6"><h2>11. 承上題，若為再次提案，請說明修改的提案內容</h2><div class="answer">N/A<br></div></section><section class="field" id="f7"><h2>12. 專案摘要（300字以內）</h2><div class="answer">本專案的目標是開發一個專注於繁體中文的醫療大模型，主要分為三大部分：「開源繁體中文醫療資料集(不限衛生保健、安寧、日常醫療問答)」、「開源繁體中文醫療大型語言模型」、「開源人類標註醫療語言模型的資料集(human feedback dataset)，可用來訓練獎勵模型(reward model)」、「開源醫療獎勵模型」。<br>「開源繁體中文醫療資料集」部分將收集繁體中文的公開醫療資料不限衛生保健、安寧、日常醫療問答。<br>「開源繁體中文醫療大型語言模型」將以醫療資料集進行訓練。<br>開源人類標註醫療語言模型的資料集(human feedback dataset)，人類來為繁體中文醫療大型語言模型的回答進行標註。<br>「開源醫療獎勵模型」透過人類標註醫療語言模型的資料集(human feedback dataset)訓練而成，讓模型生成的答案不用再透過人類來標註。</div></section><section class="field" id="f8"><h2>13. 專案動機</h2><div class="answer"><p>在當前的醫療實踐環境中，無論是醫護人員還是一般民眾，高效準確地獲取醫療資訊是一項關鍵挑戰。對於醫護人員而言，能夠快速而準確地獲得治療方案，意味著能夠更高效地處理病患情況，提升工作效率，同時也能夠為患者提供更加精準和及時的醫療服務。這不僅節省了尋找資料的時間，也提升了醫療服務的整體質量。</p>
+<p>對於一般民眾，特別是在面對健康問題時，他們往往因為缺乏醫學知識和資源而感到無助。透過易於使用的人工智慧驅動的醫療問答系統，這部分人群可以更便捷地獲得必要的醫療資訊，從而減少因知識不足而造成的困擾和不便。因此，開源一個醫療問答LLM，旨在提供一個便捷、準確且可靠的醫療資訊平台，幫助醫護人員和民眾更好地理解、處理和管理各種醫療問題，提高整個醫療服務鏈的效率和品質，從而造福社會大眾。
+因此，建立開源繁體中文醫療資料集和語言模型，以及開源人類標註醫療語言模型的資料集，對於台灣醫療界和一般名眾來說，具有重要的意義和價值。</p>
+</div></section><section class="field" id="f9"><h2>14. 專案設計概念以及與主題的相符性</h2><div class="answer"><ol>
+<li><strong>「開源繁體中文醫療資料集(不限衛生保健、安寧、日常醫療問答)」</strong></li>
+<li><strong>「開源繁體中文醫療大型語言模型」</strong></li>
+<li><strong>「開源人類標註醫療語言模型的資料集(human feedback dataset)</strong></li>
+<li><strong>「開源醫療獎勵模型」</strong></li>
+</ol>
+</div></section><section class="field" id="f10"><h2>15. 專案技術可行性</h2><div class="answer">醫療語言模型:medical-everywhere<br>(<a href="https://huggingface.co/ShengHongHaung/medical-everywhere-v0.1)" target="_blank" rel="noopener">https://huggingface.co/ShengHongHaung/medical-everywhere-v0.1)</a></div></section><section class="field" id="f11"><h2>16. 專案可應用之情境說明</h2><div class="answer"><ol>
+<li><p><strong>醫療問答系統：</strong></p>
+<ul>
+<li>患者可以使用這個系統提出他們的症狀或健康問題，系統可以根據症狀和歷史資料提供初步診斷建議或醫療建議。</li>
+<li>醫生可以使用這個系統來快速查詢疾病信息、最新的醫療指引以及治療方案，以幫助他們做出更加準確的診斷和治療決策。</li>
+</ul>
+</li>
+<li><p><strong>醫學研究和教育：</strong></p>
+<ul>
+<li>研究人員可以利用這些資料集和語言模型進行醫學研究，探索疾病模式、藥物反應以及健康趨勢等方面的問題。</li>
+<li>醫學教育機構可以將這些資料集和模型應用於醫學教育中，幫助學生更好地理解醫學知識和訓練他們的臨床思維能力。</li>
+</ul>
+</li>
+<li><p><strong>在線健康諮詢和社區健康服務：</strong></p>
+<ul>
+<li>社區醫療中心和健康機構可以利用開源的醫療資料集和語言模型為社區居民提供在線健康諮詢服務，幫助他們解決日常健康問題和提供醫療建議。</li>
+<li>這些系統可以整合在社區健康機構的網站或應用程式中，為社區居民提供更加便捷和準確的健康資訊和服務。</li>
+</ul>
+</li>
+</ol>
+</div></section><section class="field" id="f12"><h2>17. 專案預期效益與社會貢獻</h2><div class="answer"><ol>
+<li><p><strong>提高醫療服務品質和效率：</strong></p>
+<ul>
+<li>這些資料集和語言模型可以幫助醫生和醫療專業人士更準確地診斷和治療疾病，提高醫療服務的品質。</li>
+<li>自動化的醫療資料管理系統可以減少病歷記錄和管理的時間，提高醫院和診所的運營效率。</li>
+</ul>
+</li>
+<li><p><strong>加強醫學研究和創新：</strong></p>
+<ul>
+<li>研究人員可以利用這些資料集和語言模型進行深入的醫學研究，探索疾病的發病機制、新的治療方法以及預防措施，促進醫學創新和進步。</li>
+<li>醫療界可以利用這些資料集和語言模型發現新的研究方向，促進跨領域合作和知識交流。</li>
+</ul>
+</li>
+<li><p><strong>普及醫療知識和教育：</strong></p>
+<ul>
+<li>開源的醫療資料集和語言模型可以用於醫學教育，幫助醫學生和醫護人員更好地理解和應用醫學知識。</li>
+<li>社區健康機構和教育機構可以利用這些資源為公眾提供健康知識和教育，提高公眾對健康的認識和護理能力。</li>
+</ul>
+</li>
+<li><p><strong>降低醫療成本和負擔：</strong></p>
+<ul>
+<li>透過智能醫療系統和在線醫療諮詢服務，患者可以在尋求專業醫療建議之前先獲得基礎的醫療知識，從而減少不必要的就診和醫療支出。</li>
+<li>醫療資料的有效管理和利用可以降低醫院和醫療機構的運營成本，提高醫療資源的利用效率。</li>
+</ul>
+</li>
+<li><p><strong>促進區域性和全球性醫療合作：</strong></p>
+<ul>
+<li>開源的醫療資料集和語言模型可以促進區域性和全球性醫療合作，鼓勵不同地區的醫療機構和研究機構共享資源和合作研究，共同應對全球性的醫療挑戰。</li>
+</ul>
+</li>
+<li><p><strong>human feedback資料集不再透過人類，可以透過獎勵模型(reward mode)進行標註。</strong></p>
+</li>
+</ol>
+</div></section><section class="field" id="f13"><h2>18. 專案現況說明</h2><div class="answer"><ol>
+<li><p>四千多筆醫療資料(不限衛生保健、安寧、日常醫療問答)</p>
+</li>
+<li><p>開源醫療模型</p>
+<ul>
+<li><a href="https://huggingface.co/ShengHongHaung/medical-everywhere-v0.1">模型連結</a></li>
+</ul>
+</li>
+</ol>
+</div></section><section class="field" id="f14"><h2>19. 團隊過去是否有做過相關主題的計畫？</h2><div class="answer">開源醫療模型(<a href="https://huggingface.co/ShengHongHaung/medical-everywhere-v0.1)" target="_blank" rel="noopener">https://huggingface.co/ShengHongHaung/medical-everywhere-v0.1)</a></div></section><section class="field" id="f15"><h2>20. 開源內容及其授權方式</h2><div class="answer"><ol>
+<li><p>程式碼公開至 GitHub</p>
+<ul>
+<li>授權方式: Apache 2.0 License</li>
+</ul>
+</li>
+<li><p>資料集與模型公開至 Hugging Face</p>
+<ul>
+<li>授權方式: Apache 2.0 License</li>
+</ul>
+</li>
+</ol>
+</div></section><section class="field" id="f16"><h2>21. 專案期中與期末規劃</h2><div class="answer"><ul>
+<li><p><strong>期中:</strong></p>
+<ul>
+<li>資料集擴展至3萬筆以上</li>
+<li>開源醫療大型語言模型</li>
+</ul>
+</li>
+<li><p><strong>期末:</strong></p>
+<ul>
+<li>開源人類標註醫療語言模型的資料集 (human feedback dataset)</li>
+<li>開源獎勵模型 (reward model)</li>
+</ul>
+</li>
+</ul>
+</div></section><section class="field" id="f17"><h2>22. 專案預算規劃</h2><div class="answer"><ol>
+<li><p><strong>API 請求費用 (OpenAI, Google Vertex AI等)</strong></p>
+<ul>
+<li><strong>說明：</strong> 用於資料集擴展。</li>
+<li><strong>預算：</strong> 140,000新台幣</li>
+</ul>
+</li>
+<li><p><strong>開發與運維預算</strong></p>
+<ul>
+<li><strong>說明：</strong> 伺服器、GPU、儲存和頻寬、數據處理、訓練等。</li>
+<li><strong>預算：</strong> 300,000新台幣</li>
+</ul>
+</li>
+<li><p><strong>人類標註醫療語言模型的資料集(human feedback dataset)相關費用</strong></p>
+<ul>
+<li><strong>說明：</strong> human feedback資料集的標註人員費用、資料後處理。</li>
+<li><strong>預算：</strong> 60,000新台幣</li>
+</ul>
+</li>
+</ol>
+</div></section><section class="field" id="f18"><h2>23. 專案於計畫結束後之長期規劃</h2><div class="answer">持續增加資料與語言模型的迭代。</div></section><section class="field" id="f19"><h2>24. 其他想補充之內容</h2><div class="answer">N/A</div></section></div></article></main><footer class="site"><div class="wrap">資料來源：<a href="https://sch001.g0v.tw/">g0v 零時小學校</a> 提案系統封存</div></footer></body></html>
