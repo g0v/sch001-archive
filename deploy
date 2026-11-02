@@ -2,9 +2,10 @@
 # 合成整個 sch001.g0v.tw 網站並以單一 orphan commit force push 到 $DEPLOY_BRANCH ( 預設 gh-pages ):
 #  - /       : sch001-net/static ( submodule, 已建置的靜態站 )
 #  - /dash/  : web/static ( 提案典藏 full build, 取代原 grantdash )
-# 該分支永遠只有一個 commit. 遠端更新方式見 README.
+# 該分支永遠只有一個 commit, 由 GitHub Pages 以 $DEPLOY_DOMAIN ( 預設 sch001.g0v.tw ) 提供.
 set -e
 BRANCH=${DEPLOY_BRANCH:-gh-pages}
+DOMAIN=${DEPLOY_DOMAIN:-sch001.g0v.tw}
 if [[ ! -d .git ]]; then
   echo "please use deploy under a git repo."
   exit 1
@@ -23,6 +24,9 @@ mkdir -p _public/dash
 # sch001-net 的 CNAME 屬於其 GitHub Pages 鏡像 ( sch001.g0v.dev ), 不帶過來
 rsync -a --exclude .gitignore --exclude CNAME sch001-net/static/ _public/
 rsync -a web/static/ _public/dash/
+# GitHub Pages: 自訂網域與停用 Jekyll
+echo "$DOMAIN" > _public/CNAME
+touch _public/.nojekyll
 cd _public
 git init -q -b "$BRANCH"
 git add -A

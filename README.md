@@ -47,7 +47,8 @@ g0v 零時小學校網站 ( sch001.g0v.tw ) 的完整靜態版本：
     npm run build   # full build, 輸出典藏所有頁面至 web/static
     npm run deploy  # 合成整站並 force push 至 gh-pages 分支
 
-`deploy` 需在乾淨的 git 工作目錄下執行，以 `sch001-net/static` 為根目錄、`web/static` 為 `dash/` 合成整個網站。
+`deploy` 需在乾淨的 git 工作目錄下執行，以 `sch001-net/static` 為根目錄、`web/static` 為 `dash/` 合成整個網站，
+並寫入 `CNAME` ( `DEPLOY_DOMAIN`，預設 `sch001.g0v.tw` ) 與 `.nojekyll`。
 `gh-pages` 分支永遠只有一個 commit，可另設 `DEPLOY_BRANCH`。
 
 更新 sch001-net 內容時，先更新 submodule 再 deploy：
@@ -56,10 +57,11 @@ g0v 零時小學校網站 ( sch001.g0v.tw ) 的完整靜態版本：
     git commit -am "update sch001-net"
     npm run deploy
 
-正式環境在 `/home/web/projects/sch001/site` ( gh-pages 的 checkout，擁有者 `web` )，deploy 後在主機上更新：
 
-    cd /home/web/projects/sch001/site
-    sudo -u web git fetch --depth 1 origin gh-pages && sudo -u web git reset --hard FETCH_HEAD
+## 正式環境
 
-nginx 設定見 `config/nginx.conf`，以 symlink 掛在 `/etc/nginx/sites-enabled/sch001.g0v.tw.ngx`。
-Let's Encrypt 以 webroot 驗證，webroot 即上述 site 目錄。
+`sch001.g0v.tw` 由 GitHub Pages 提供 ( 本 repo 的 `gh-pages` 分支 )，Cloudflare 上以 CNAME 指向 `g0v.github.io`。
+GitHub Pages 無法設定回應 header，HSTS、`X-Frame-Options`、`frame-ancestors` 等需要時於 Cloudflare 設定。
+
+`config/nginx.conf` 為改用 GitHub Pages 前的自架設定 ( 主機 `/home/web/projects/sch001/site` 為 `gh-pages` 的 checkout )，
+需要改回自架時可參考。
